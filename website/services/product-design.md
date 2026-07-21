@@ -5,18 +5,18 @@ tags: [service, product-design, design, advisory]
 
 # Product Design
 
-> From idea to product blueprint. Every package includes direct advisory from our CEO.
+> From idea to product blueprint. Every package includes direct technical advisory.
 
 ## Overview
 
-You have an idea. We turn it into a product blueprint — complete with UX/UI design, product strategy, and a clear path to build. Our CEO personally advises on every project, bringing years of experience shipping Web3 products to help you make the right decisions before writing a single line of code.
+You have an idea. We turn it into a product blueprint — complete with UX/UI design, product strategy, and a clear path to build. Our Technical Advisor personally advises on every project, bringing years of experience shipping Web3 products to help you make the right decisions before writing a single line of code.
 
 Product Design is Cyberk's front door. Whether you need a polished Figma file, a landing page to pitch investors, or a full launch kit with marketing content — we have a package that fits.
 
 ## Why Product Design?
 
 - **Avoid costly mistakes.** 80% of product failures happen because of bad design decisions, not bad code. We help you get it right first.
-- **CEO Advisory included.** You don't get a junior designer — you get Cyberk's CEO who has shipped dozens of Web3 products. Same advisory, every package.
+- **Technical Advisory included.** You don't get a junior designer — you get a Technical Advisor who has shipped dozens of Web3 products. Same advisory, every package.
 - **Clear deliverables, fixed price.** No hourly billing, no surprises. You know exactly what you get and what you pay.
 - **Natural path to build.** Once design is done, transitioning to development is seamless — your design is already optimized for the Cyberk Framework.
 
@@ -30,7 +30,7 @@ You get a complete UX/UI design that's ready to hand off to development.
 
 **What's included:**
 
-- CEO product advisory sessions
+- Technical Advisory sessions
 - UX/UI Design (Figma deliverables)
 - User flow mapping
 - Responsive design (Web + Mobile)
@@ -88,7 +88,7 @@ Everything in Professional, plus marketing content running from day one. By the 
 
 ## How It Works
 
-1. **Kickoff Call.** We sit down with you to understand your vision, your users, and your market. Our CEO leads this session.
+1. **Kickoff Call.** We sit down with you to understand your vision, your users, and your market. Our Technical Advisor leads this session.
 2. **Research & Strategy.** (Professional & AIO) We study your competitors, analyze the market, and define your positioning.
 3. **Design Sprint.** Our design team creates UX/UI based on the strategy. You review, give feedback, we iterate.
 4. **Delivery.** You receive all deliverables — Figma files, landing page (Pro+), marketing content (AIO). Everything is documented and ready.
@@ -106,7 +106,7 @@ Absolutely. The deliverables are yours — you own everything. However, our desi
 
 **Q: What if I already have a designer but need strategic advisory?**
 
-Our CEO advisory is included in every package. If you have design capabilities but need product strategy, competitor analysis, and market positioning — the Professional package gives you exactly that, plus we refine and validate your existing design.
+Our Technical Advisory is included in every package. If you have design capabilities but need product strategy, competitor analysis, and market positioning — the Professional package gives you exactly that, plus we refine and validate your existing design.
 
 **Q: What happens after Product Design is complete?**
 

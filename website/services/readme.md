@@ -58,4 +58,4 @@ Our services are designed as a natural journey:
 2. **Build** it in 30 days ($29–35K) — fixed price, full delivery
 3. **Scale** with a dedicated team (Tech Labs) — long-term partnership
 
-See also: [[2.4-dich-vu|Service Philosophy]] in The Cyberk Way.
+See also: [[2.4-dich-vu-khoi-nghiep-cong-nghe|Service Philosophy]] in The Cyberk Way.
