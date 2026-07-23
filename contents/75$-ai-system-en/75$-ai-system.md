@@ -26,30 +26,3 @@
   * *Visual:* Trên màn hình hiển thị biểu tượng hộp thư kèm dòng chữ: "Nhắn tin cho Cyberk".
   * *Voice:* "Hãy nhắn tin nếu bạn muốn hiểu sâu hơn về các giải pháp hạ tầng Ây-Ai này nhé."
 
----
-
-## Tập 2: Bộ máy giải mã tiếng lóng & từ viết tắt thương mại đa ngôn ngữ
-
-- **Prefer (Hook 0 - 10s):**
-  * *Visual:* Zoom cận cảnh màn hình Cursor IDE hiển thị tin nhắn WhatsApp thực tế chứa cụm từ lộn xộn: *"carls can 12x50cl 5ctn"* và *"하이네켄 캔 500ml 10박스"*.
-  * *Voice:* "Làm thế nào để hệ thống Ây-Ai tự động dịch chính xác những tin nhắn viết tắt, pha trộn nhiều thứ tiếng này thành đúng mã SKU trên phần mềm ERP của doanh nghiệp? Hãy xem cách hệ thống xử lý chỉ trong chưa đầy hai giây."
-
-- **Acknowledge (Mục tiêu 10s - 35s):**
-  * *Visual:* Kỹ sư vẽ phác họa 3 bài toán lớn lên bảng vẽ: (1) Khách hàng không bao giờ đặt hàng theo đúng mã SKU chuẩn; (2) Tiếng lóng viết tắt thay đổi theo thói quen của từng khách hàng; (3) Bắt khách hàng dùng app đặt hàng mới sẽ làm giảm tỷ lệ chuyển đổi.
-  * *Voice:* "Khi xây dựng tính năng này, mục tiêu của chúng tôi là: Một: Giữ nguyên thói quen nhắn tin tự do của khách hàng qua WhatsApp. Hai: Đảm bảo độ chính xác tuyệt đối khi ánh xạ sang danh mục SKU nội bộ. Ba: Không bắt khách hàng hay đối tác phải học cách sử dụng bất kỳ ứng dụng mới nào."
-
-- **Trust (Giải pháp cho Mục tiêu 1 & 2: 35s - 55s):**
-  * *Visual:* Sơ đồ luồng giải quyết SKU 3 tầng hiện lên màn hình: Exact Alias $\rightarrow$ Fuzzy Match $\rightarrow$ bge-m3 Vector Search. Zoom cận cảnh đoạn code gọi Vectorize trên Cloudflare Workers.
-  * *Voice:* "Để giải mã tiếng lóng, chúng tôi thiết kế bộ lọc SKU ba tầng. Tầng đầu tiên quét bảng danh từ viết tắt lịch sử riêng của từng khách hàng. Nếu không khớp, tầng hai dùng thuật toán so khớp mờ xử lý các lỗi chính tả nhẹ. Tầng cuối cùng, câu chữ được chuyển đổi thành vector toán học bằng mô hình bge-m3 để tìm kiếm ngữ nghĩa trên Cloudflare Vectorize. Cuối cùng, mô hình ngôn ngữ lớn sẽ chấm điểm độ tin cậy cho từng dòng đơn hàng."
-
-- **Trust (Giải pháp cho Mục tiêu 3: 55s - 1h15):**
-  * *Visual:* Màn hình hiển thị đoạn code kiểm tra ngưỡng độ tự tin (confidence threshold) trong Cursor IDE và tin nhắn WhatsApp tự động hỏi lại khách hàng.
-  * *Voice:* "Với những sản phẩm đạt độ tin cậy trên 90%, đơn hàng sẽ được duyệt tự động. Những sản phẩm nằm dưới ngưỡng này sẽ được gom lại để hệ thống tự động gửi tin nhắn hỏi lại khách hàng qua các nút bấm tiện lợi. Khách hàng chỉ cần bấm chọn ngay trên WhatsApp mà không cần cài thêm app."
-
-- **Stick (Mở vòng lặp 1h15 - 1h25):**
-  * *Visual:* Kỹ sư mỉm cười nhẹ, chỉ vào sơ đồ máy trạng thái trên bảng vẽ.
-  * *Voice:* "Đây là tập hai trong chuỗi nhật ký thiết kế giải pháp Ây-Ai của Cyberk. Ở tập tiếp theo, chúng tôi sẽ chia sẻ cách hệ thống hỏi lại khách hàng một cách thông minh mà không đoán mò bằng Durable Objects."
-
-- **Action (CTA 1h25 - 1h30):**
-  * *Visual:* Trên màn hình hiển thị text: "Nhắn tin cho Cyberk".
-  * *Voice:* "Hãy nhắn tin cho Cyberk nếu bạn muốn xây dựng bộ máy giải mã đơn hàng đa ngôn ngữ này nhé."

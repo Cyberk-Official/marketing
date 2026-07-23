@@ -31,8 +31,8 @@ Video phải **đủ hấp dẫn để người xem không bấm skip trong 3 gi
 ### 📚 Tính Giáo dục (Educational & Useful)
 Mỗi video phải **giúp người xem giải quyết được ít nhất một vấn đề thực tế** — dù là một bài học kỹ thuật, một kinh nghiệm quản lý startup, hay một góc nhìn giúp họ tránh được một sai lầm tốn kém. Nội dung không phải là bài giảng học thuật; nó là **kinh nghiệm sống được đúc kết** từ hơn 10 năm xây dựng phần mềm và vận hành một tech company thực thụ. Người xem rời đi phải cảm thấy: *"Mình biết thêm một điều gì đó mà hôm qua mình chưa biết"*.
 
-### 🎨 Tính Nghệ thuật (Artistic Craft)
-Nội dung tốt xứng đáng được **trình bày tỉ mỉ và đẹp mắt.** Phụ đề rõ ràng, nhịp cắt dựng snappy, sơ đồ kiến trúc được vẽ gọn gàng, màu sắc và font chữ nhất quán theo bộ nhận diện của Cyberk — tất cả là thể hiện của sự tôn trọng đối với người xem và sự tự hào về chất lượng mà một dev-studio chuyên nghiệp phải có. Tính nghệ thuật không phải là trang trí — nó là dấu hiệu của **sự nghiêm túc và tay nghề thực sự**.
+### 🪞 Tính Xác Thực (Authentic)
+Mỗi video của Cyberk phải **phản ánh sự thật** — câu chuyện thật, con số thật, người thật, code thật. Không dàn dựng demo để trông đẹp hơn thực tế, không phóng đại kết quả, không che giấu bug hay thất bại. **Authentic là thứ không thể làm giả được** — và đó chính là lợi thế cạnh tranh dài hạn của Cyberk so với các kênh tech hype-driven. Người xem cảm nhận được sự thật ngay qua màn hình: cái cách terminal thực sự chạy, cái cách một founder thực sự nói về thất bại của mình — và đó là thứ xây nên niềm tin bền vững.
 
 > **Chuẩn vàng nội bộ:** Một video Cyberk xuất sắc là video mà sau khi xem xong, người ta vừa được giải trí, vừa học được điều gì đó có ích, vừa không thể không thừa nhận rằng nó được làm rất chỉn chu — và quan trọng hơn, **họ không hề cảm thấy mình đang xem quảng cáo.**
 
