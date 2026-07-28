@@ -10,7 +10,9 @@ created: 2026-07-22
 
 Skill này định nghĩa **quy trình đầy đủ** để sản xuất một kịch bản video ngắn Cyberk từ đầu đến cuối, bao gồm khởi tạo workspace, động não ý tưởng, viết kịch bản chi tiết và kiểm duyệt.
 
-> **Nguyên tắc vàng:** Mỗi khi AI đưa ra một quyết định quan trọng **không có trong spec người dùng cung cấp** (ví dụ: chọn angle PAAST, quyết định ẩn danh tên khách hàng theo cách cụ thể, lý do chọn ý tưởng #N để viết kịch bản...), AI **bắt buộc** phải ghi lại quyết định đó vào file `spec-ai.html` trong thư mục kịch bản tương ứng.
+> **Nguyên tắc vàng:**
+> 1. **BẢO MẬT & ẨN DANH BẮT BỘC:** TUYỆT ĐỐI KHÔNG để lộ tên thật của khách hàng hoặc dự án (như Lubritrade, FairPrice, Cold Storage...) trong bất kỳ ý tưởng brainstorm, tiêu đề hay kịch bản public nào. LUÔN LUÔN ẩn danh hóa bằng định danh ngành/mô hình (ví dụ: *"Nhà phân phối sỉ FMCG 500+ đơn/ngày tại Singapore"*, *"Doanh nghiệp bán buôn đồ uống"*).
+> 2. **DECISION LOG:** Mỗi khi AI đưa ra một quyết định quan trọng không có trong spec người dùng cung cấp (chọn angle, ẩn danh tên khách hàng, lý do chọn ý tưởng...), AI **bắt buộc** phải ghi lại vào `spec-ai.html`.
 
 ---
 
@@ -22,7 +24,7 @@ Mỗi kịch bản mới sẽ có workspace riêng, đặt tên theo tên kịch
 marketing/contents/
 └── [tên-kịch-bản]/          # Ví dụ: 75$-ai-system/
     ├── input/                # Dữ liệu thô đầu vào (Bidding estimate, Case study...)
-    ├── brainstorm/           # Output của Phase 2: Danh sách 10 ý tưởng
+    ├── brainstorm/           # Output của Phase 2: Danh sách 10 ý tưởng & Phân tích bài toán
     │   └── ideas.md          # Tuân thủ template: skills/brainstorm/template.md
     ├── scripts/              # Output của Phase 3: Kịch bản chi tiết 2 cột
     │   └── [STT]_[slug].md   # Tuân thủ template: skills/script-maker/template.md
@@ -88,17 +90,22 @@ marketing/contents/
 
 ---
 
-## 🧠 Phase 2: BRAINSTORM — Động Não 10 Ý Tưởng
+## 🧠 Phase 2: BRAINSTORM — Phân Tích Bài Toán Khách Hàng & Động Não 10 Ý Tưởng
 
-**Mục tiêu:** Đọc file Input → Sinh ra 10 ý tưởng kịch bản theo phễu PAAST.
+**Mục tiêu:** Đọc file Input → Phân tích bài toán thực tế của khách hàng → Sinh ra 10 ý tưởng kịch bản theo phễu PAAST (luôn ẩn danh tên khách hàng).
 
 ### Các bước thực thi:
 
 1. **Đọc tài liệu Input** từ thư mục `[tên-kịch-bản]/input/`.
-2. **Áp dụng Skill Brainstorm** theo hướng dẫn đầy đủ tại `skills/brainstorm/brainstorm.md`.
-3. **Sinh 10 Idea Card** tuân thủ **template chuẩn** tại `skills/brainstorm/template.md`.
-4. **Lưu output** vào `[tên-kịch-bản]/brainstorm/ideas.md`.
-5. **Cập nhật `spec-ai.html`**: Ghi lại các quyết định quan trọng (ví dụ: lý do lựa chọn góc nhìn Prefer vs Trust, cách ẩn danh tên khách hàng, con số được chọn làm Hook...).
+2. **Mổ Xẻ Phân Tích Bài Toán Khách Hàng (Customer Problem Deep-Dive)** trước khi sinh ý tưởng:
+   - *Bối cảnh & Quy mô:* Ngành nghề, quy mô giao dịch, kênh tiếp nhận đơn.
+   - *Nỗi đau bề nổi vs Gốc rễ:* Nhập tay chậm, hay gõ nhầm SKU/pack vs. Thiếu đồng bộ ERP và thiếu quy chuẩn dữ liệu.
+   - *Rào cản hành vi:* Người dùng cuối (khách sỉ) tẩy chay Portal/App mới, chỉ nhắn chat/email.
+   - *Rủi ro vận hành & Tài chính:* Chi phí nhân sự nhập liệu, rủi ro xuất nhầm hàng, bẫy chi phí SaaS per-seat.
+3. **Áp dụng Quy tắc Ẩn danh hóa (Anonymization):** Đảm bảo 100% tên thật khách hàng/dự án được chuyển thành tên gọi đại diện ngành.
+4. **Sinh 10 Idea Card PAAST** tuân thủ **template chuẩn** tại `skills/brainstorm/template.md`.
+5. **Lưu output** vào `[tên-kịch-bản]/brainstorm/ideas.md` (chứa cả phần phân tích bài toán & 10 ý tưởng).
+6. **Cập nhật `spec-ai.html`**: Ghi lại các quyết định quan trọng (nhận diện bài toán gốc rễ, tên ẩn danh được chọn, các hook nổi bật...).
 
 ---
 
