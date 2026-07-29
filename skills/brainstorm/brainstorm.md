@@ -24,12 +24,12 @@ Skill này hướng dẫn quy trình chuyển hóa tài liệu kỹ thuật thô
 
 ## 🔍 2. Quy Trình Trích Xuất Dữ Liệu Từ Input (Bidding / Estimate File)
 
-Khi đọc một tài liệu đầu vào (ví dụ: `bootstrap/bidding/lubritrade`), AI/Content Creator phải bóc tách 4 nhóm thông tin "nguyên liệu":
+Khi đọc một tài liệu đầu vào (ví dụ: `bootstrap/bidding/lubritrade`), AI/Content Creator phải bóc tách 4 nhóm thông tin "nguyên liệu" — **lấy giải pháp làm trục chính** (Cyberk là đơn vị thiết kế giải pháp, không phải kể chuyện nỗi đau):
 
-1. **Nỗi đau & Vấn đề nghiệp vụ (Business Pain Points):** Khách hàng đang gặp tắc nghẽn gì? (Chi phí cloud cao, xử lý đơn thủ công tốn thời gian, sai sót dữ liệu...).
-2. **Con số ấn tượng (Shocking Metrics):** Các chỉ số kỹ thuật/tài chính thực tế thu hoạch được từ bản estimate (ví dụ: Tổng chi phí server $75/tháng, thời gian xử lý giảm từ 5 phút xuống 2 giây...).
-3. **Giải pháp kiến trúc & Tráo đổi kỹ thuật (Tech Trade-offs):** Cách Cyberk giải bài toán (Serverless, Durable Objects, Prompt Caching, Idempotency Guard, Microservices vs Monolith...).
-4. **Bài học quản trị / Rủi ro (Founder Insights):** Những sai lầm của bên làm cũ hoặc bài học đắt giá khi chọn giải pháp công nghệ.
+1. **Bài toán cần giải (The Problem Statement):** Bài toán nghiệp vụ mà giải pháp này giải quyết — đặt vấn đề ngắn gọn dưới góc nhìn kỹ thuật, không kể lể nỗi đau. (Ví dụ: Gọi lại lead trong < 60 giây, Tự động confirm đơn hàng qua email, Chống trùng lịch hẹn real-time...).
+2. **Thiết kế giải pháp (Solution Design):** Cyberk thiết kế giải pháp này như thế nào — kiến trúc, công nghệ, luồng dữ liệu, trade-off, tại sao chọn cách này chứ không phải cách khác. (Ví dụ: Retell + BYO SIP trunk, Webhook API → sub-minute callback, Calendar lock + unique ID...).
+3. **Kết quả giải pháp mang lại (Solution Outcomes):** Các con số chứng minh giải pháp hoạt động — trước/sau, tốc độ, chi phí, hiệu quả. (Ví dụ: 21x khả năng qualify lead, 100% chống trùng lịch, $75/tháng server cost...).
+4. **Quyết định thiết kế quan trọng (Key Design Decisions):** Những quyết định then chốt trong quá trình thiết kế — correct giả định sai, scope control, compliance boundary, framing MVP. (Ví dụ: Build on Retell thay vì tự build pipeline, chia scope baseline vs Phase 1.1, decouple payment khỏi compliance gate...).
 
 ---
 
@@ -50,6 +50,11 @@ Khi đọc một tài liệu đầu vào (ví dụ: `bootstrap/bidding/lubritrad
 ## 📝 4. Cấu Trúc Mẫu Của Một Ý Tưởng Kịch Bản (Single Idea Card Template)
 
 Mỗi ý tưởng trong danh sách 10 ý tưởng phải tuân thủ chuẩn format sau:
+
+> **⚠️ Lưu ý về Hook:** Hook **KHÔNG PHẢI** chỉ nêu vấn đề hay con số gây shock. Hook phải **gợi mở rằng người xem sắp được xem một giải pháp công nghệ** — khiến họ tò mò "giải pháp đó thiết kế ra sao?" chứ không chỉ "vấn đề đó tệ thế nào?". Cyberk là đơn vị thiết kế giải pháp — hook phải phản ánh điều đó.
+>
+> ✅ Tốt: *"Làm sao để hệ thống tự gọi lại khách hàng trong chưa đầy 60 giây?"*
+> ❌ Tệ: *"71% lead bị bỏ rơi vì không ai gọi kịp"* (chỉ nêu vấn đề, không gợi giải pháp)
 
 ```markdown
 ### Ý Tưởng #[STT]: [Tên Tiêu Đề Ý Tưởng Thu Hút]

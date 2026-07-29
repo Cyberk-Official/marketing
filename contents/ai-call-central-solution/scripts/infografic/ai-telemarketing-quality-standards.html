@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ai-telemarketing-quality-standards — 4 Theme Matrix Support</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cyberk-red: #EC2B39;
+            --cyberk-blue: #2172E6;
+            --cyberk-amber: #F59E0B;
+            
+            --bg-dark: #07080c;
+            --bg-card: #12141e;
+            --bg-card-hero: #1a131b;
+            --border: #242838;
+            --text-main: #ffffff;
+            --text-muted: #94a3b8;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        /* DEFAULT / THEME 1: VERTICAL DARK (9:16 TikTok Dark) */
+        body, body.theme-vertical-dark {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            overflow-x: hidden;
+            transition: all 0.3s ease;
+        }
+
+        body.theme-vertical-dark .canvas-frame {
+            width: 65%;
+            max-width: 320px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        /* THEME 2: VERTICAL LIGHT (9:16 TikTok Light) */
+        body.theme-vertical-light {
+            background-color: #f8fafc;
+            color: #0f172a;
+            --bg-card: #ffffff;
+            --bg-card-hero: #fff5f5;
+            --border: #e2e8f0;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+        }
+        body.theme-vertical-light .canvas-frame {
+            width: 65%;
+            max-width: 320px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+        body.theme-vertical-light .standard-card {
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+        }
+        body.theme-vertical-light .card-icon-box {
+            background: #f1f5f9;
+            border-color: #cbd5e1;
+        }
+
+        /* THEME 3: HORIZONTAL DARK (16:9 Youtube Dark) */
+        body.theme-horizontal-dark {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+        }
+        body.theme-horizontal-dark .canvas-frame {
+            width: 65%;
+            max-width: 320px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+        body.theme-horizontal-dark .standards-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+
+        /* THEME 4: HORIZONTAL LIGHT (16:9 Youtube / Pitch Deck Light) */
+        body.theme-horizontal-light {
+            background-color: #f8fafc;
+            color: #0f172a;
+            --bg-card: #ffffff;
+            --bg-card-hero: #fff5f5;
+            --border: #e2e8f0;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+        }
+        body.theme-horizontal-light .canvas-frame {
+            width: 65%;
+            max-width: 320px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+        body.theme-horizontal-light .standards-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+        body.theme-horizontal-light .standard-card {
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+        }
+        body.theme-horizontal-light .card-icon-box {
+            background: #f1f5f9;
+            border-color: #cbd5e1;
+        }
+
+        /* 1S SEQUENTIAL FADEIN ANIMATION */
+        .stagger-item {
+            opacity: 0;
+            transform: translateY(16px);
+            animation: fadeInBlock 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }
+        .delay-step-1 { animation-delay: 0.0s; }
+        .delay-step-2 { animation-delay: 1.0s; }
+        .delay-step-3 { animation-delay: 2.0s; }
+
+        @keyframes fadeInBlock {
+            0% { opacity: 0; transform: translateY(18px) scale(0.96); }
+            100% { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .standards-container {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            width: 100%;
+        }
+
+        .standard-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 20px 22px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .standard-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--border);
+        }
+
+        .standard-card.card-callback {
+            background: var(--bg-card-hero);
+            border-color: var(--cyberk-red);
+        }
+        .standard-card.card-callback::before { background: var(--cyberk-red); }
+        .standard-card.card-latency::before { background: var(--cyberk-blue); }
+        .standard-card.card-lang::before { background: var(--cyberk-amber); }
+
+        .card-icon-box {
+            width: 48px;
+            height: 48px;
+            border-radius: 14px;
+            background: #090a0f;
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            font-size: 1.5rem;
+        }
+
+        .card-content { flex-grow: 1; }
+
+        .card-metric {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 900;
+            color: var(--text-main);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .card-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .card-desc {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            margin-top: 4px;
+            line-height: 1.35;
+        }
+
+        .badge-pill {
+            font-size: 0.65rem;
+            font-weight: 800;
+            padding: 3px 10px;
+            border-radius: 99px;
+            text-transform: uppercase;
+        }
+
+        .pill-red { background: var(--cyberk-red); color: #ffffff; }
+        .pill-blue { background: var(--cyberk-blue); color: #ffffff; }
+        .pill-amber { background: var(--cyberk-amber); color: #000000; }
+    </style>
+</head>
+<body>
+
+    <div class="canvas-frame">
+        <div class="standards-container">
+
+            <!-- Component 1: < 1 Min Callback -->
+            <div class="standard-card card-callback stagger-item delay-step-1">
+                <div class="card-icon-box">⚡</div>
+                <div class="card-content">
+                    <div class="card-metric">
+                        <span>&lt; 1 Min Callback</span>
+                        <span class="badge-pill pill-red">Instant Trigger</span>
+                    </div>
+                    <div class="card-title">Automated Lead Engagement</div>
+                    <div class="card-desc">Auto-dials leads within 60s of form submission.</div>
+                </div>
+            </div>
+
+            <!-- Component 2: < 1s Conversational Latency -->
+            <div class="standard-card card-latency stagger-item delay-step-2">
+                <div class="card-icon-box">⏱️</div>
+                <div class="card-content">
+                    <div class="card-metric">
+                        <span>&lt; 1s Response</span>
+                        <span class="badge-pill pill-blue">Voice Latency</span>
+                    </div>
+                    <div class="card-title">Real-Time Voice Turn-Taking</div>
+                    <div class="card-desc">Sub-second audio response during live conversation.</div>
+                </div>
+            </div>
+
+            <!-- Component 3: Multilingual Support (English & Spanish) -->
+            <div class="standard-card card-lang stagger-item delay-step-3">
+                <div class="card-icon-box">🌐</div>
+                <div class="card-content">
+                    <div class="card-metric">
+                        <span>English & Spanish</span>
+                        <span class="badge-pill pill-amber">Multilingual</span>
+                    </div>
+                    <div class="card-title">Bi-Lingual Engine</div>
+                    <div class="card-desc">Seamless multi-language speech recognition & AI.</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Theme Switcher Script via URL query ?theme=horizontal-light etc -->
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const theme = urlParams.get('theme');
+        if (theme) {
+            document.body.className = 'theme-' + theme;
+        }
+    </script>
+</body>
+</html>

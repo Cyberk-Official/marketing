@@ -12,6 +12,21 @@ Tài liệu này mô tả **toàn bộ quy trình từ A→Z** để sản xuấ
 > - Mỗi giai đoạn được **tách thành skill độc lập**, có input/output rõ ràng.
 > - Giữa mỗi giai đoạn đều có **checkpoint duyệt** — con người quyết định trước khi tiến sang bước tiếp theo.
 > - Mọi quyết định quan trọng được ghi vào `spec-ai.html` (Decision Log) xuyên suốt quy trình.
+> - **📚 RULE: Luôn đọc toàn bộ `docs/` trước khi bắt đầu MỌI phase** để nạp ngữ cảnh — bao gồm audience persona, phương pháp luận PAAST-VCL, và guideline viết kịch bản.
+
+---
+
+## 📚 Tài Liệu Ngữ Cảnh Bắt Buộc (`docs/`)
+
+> **⚠️ Đây là bước đầu tiên trước MỌI phase. Không bỏ qua.**
+>
+> Thư mục `skills/docs/` chứa các tài liệu nền tảng xuyên suốt quy trình. Đọc chúng giúp AI/Content Creator không quên ngữ cảnh — đặc biệt khi bắt đầu session mới hoặc chuyển phase.
+
+| Tài liệu | Vai trò | Áp dụng cho Phase |
+|-----------|---------|-------------------|
+| [audience_profile.md](file:///Users/anderson/Desktop/works/marketing/skills/docs/audience_profile.md) | **Chân dung khán giả** — The Ambitious Builder (Founders, CEOs, C-level, Solopreneur). Nỗi đau, khát khao, hành vi, ngôn ngữ. | Tất cả — đặc biệt Phase 1 & 2 |
+| [cyberk-video-strategy-paast-vcl.md](file:///Users/anderson/Desktop/works/marketing/skills/docs/cyberk-video-strategy-paast-vcl.md) | **Phương pháp luận gốc** — Phễu PAAST, Khung VCL, Ba tính chất cốt lõi, Scorecard. | Tất cả — kim chỉ nam toàn bộ nội dung |
+| [script-make.md](file:///Users/anderson/Desktop/works/marketing/skills/docs/script-make.md) | **Guideline viết kịch bản** — PAAST timeline %, bảng từ/phút, Pre-Publish Checklist. | Chủ yếu Phase 2 |
 
 ---
 
@@ -85,10 +100,11 @@ marketing/contents/
 ```
 
 ### Các bước:
-1. Nhận tên kịch bản (slug) từ người dùng.
-2. Tạo toàn bộ cấu trúc thư mục.
-3. Đặt tài liệu thô vào `input/`.
-4. Khởi tạo `spec-ai.html` với thông tin Phase 0.
+1. **📚 Đọc `docs/`** để nạp ngữ cảnh (audience persona, phương pháp luận).
+2. Nhận tên kịch bản (slug) từ người dùng.
+3. Tạo toàn bộ cấu trúc thư mục.
+4. Đặt tài liệu thô vào `input/`.
+5. Khởi tạo `spec-ai.html` với thông tin Phase 0.
 
 ---
 
@@ -106,7 +122,9 @@ marketing/contents/
 
 ### Các bước:
 
-1. **Đọc & Trích xuất** — Mổ xẻ tài liệu Input theo 4 nhóm nguyên liệu:
+1. **📚 Đọc `docs/`** — Đặc biệt `audience_profile.md` để nắm persona **"The Ambitious Builder"**: Founders/CEOs quan tâm đến doanh thu, chi phí, scale, gọi vốn. Mọi ý tưởng phải đánh trúng nỗi đau và khát khao của persona này.
+
+2. **Đọc & Trích xuất** — Mổ xẻ tài liệu Input theo 4 nhóm nguyên liệu:
    - Nỗi đau & Vấn đề nghiệp vụ (Business Pain Points)
    - Con số ấn tượng (Shocking Metrics)
    - Giải pháp kiến trúc & Trade-offs kỹ thuật
@@ -150,7 +168,12 @@ Người dùng xem 10 ý tưởng và **chọn 1–3 ý tưởng** để viết 
 
 ### Các bước:
 
-1. **Nhận ý tưởng đã duyệt** — Lấy Idea Card `approved` từ `brainstorm/ideas.md`.
+1. **📚 Đọc `docs/`** — Đặc biệt:
+   - `audience_profile.md` → Đảm bảo giọng kể, ví von phù hợp **The Ambitious Builder** (ngôn ngữ business: doanh thu, chi phí, scale, ROI — không phải jargon lập trình thuần túy).
+   - `cyberk-video-strategy-paast-vcl.md` → Tham chiếu phương pháp luận PAAST + VCL.
+   - `script-make.md` → Guideline PAAST timeline %, bảng quy đổi từ/phút.
+
+2. **Nhận ý tưởng đã duyệt** — Lấy Idea Card `approved` từ `brainstorm/ideas.md`.
 
 2. **Chọn thời lượng clip** — Dựa vào bảng quy đổi trong `script-make.md`:
    | Thời lượng | Số từ lời thoại |
@@ -244,16 +267,24 @@ Chấm điểm 8 tiêu chí (1–5 điểm mỗi tiêu chí). **Yêu cầu tổn
 
 ## 📚 Bản Đồ Tài Liệu Tham Chiếu (Reference Map)
 
+### 📂 Tài liệu ngữ cảnh (`docs/` — đọc trước MỌI phase)
+
 | Tài liệu | Vai trò | Đường dẫn |
 |-----------|---------|-----------|
-| **Chiến lược PAAST & VCL** | Triết lý & Khung đánh giá gốc | [cyberk-video-strategy-paast-vcl.md](file:///Users/anderson/Desktop/works/marketing/skills/cyberk-video-strategy-paast-vcl.md) |
-| **Brainstorm Skill** | Quy trình động não 10 ý tưởng | [brainstorm/brainstorm.md](file:///Users/anderson/Desktop/works/marketing/skills/brainstorm/brainstorm.md) |
-| **Brainstorm Template** | Mẫu output cho ideas.md | [brainstorm/template.md](file:///Users/anderson/Desktop/works/marketing/skills/brainstorm/template.md) |
-| **Script Make Guideline** | Hướng dẫn viết kịch bản (PAAST timeline + VCL) | [script-make.md](file:///Users/anderson/Desktop/works/marketing/skills/script-make.md) |
-| **Script Maker Skill** | Quy trình 4 phase end-to-end | [script-maker/SKILL.md](file:///Users/anderson/Desktop/works/marketing/skills/script-maker/SKILL.md) |
-| **Script Template** | Mẫu output kịch bản 2 cột | [script-maker/template.md](file:///Users/anderson/Desktop/works/marketing/skills/script-maker/template.md) |
-| **Review Skill** | Quy trình kiểm duyệt 3 lớp | [review/review.md](file:///Users/anderson/Desktop/works/marketing/skills/review/review.md) |
-| **Review Template** | Mẫu biên bản kiểm duyệt | [review/template.md](file:///Users/anderson/Desktop/works/marketing/skills/review/template.md) |
+| **Audience Persona** | Chân dung khán giả "The Ambitious Builder" | [audience_profile.md](file:///Users/anderson/Desktop/works/marketing/skills/docs/audience_profile.md) |
+| **Chiến lược PAAST & VCL** | Phương pháp luận gốc — Phễu + Khung + Scorecard | [cyberk-video-strategy-paast-vcl.md](file:///Users/anderson/Desktop/works/marketing/skills/docs/cyberk-video-strategy-paast-vcl.md) |
+| **Script Make Guideline** | Hướng dẫn viết kịch bản (PAAST timeline + từ/phút) | [script-make.md](file:///Users/anderson/Desktop/works/marketing/skills/docs/script-make.md) |
+
+### 🛠️ Skills & Templates
+
+| Tài liệu | Vai trò | Đường dẫn |
+|-----------|---------|-----------|
+| **Brainstorm Skill** | Quy trình động não 10 ý tưởng | [brainstorm.md](file:///Users/anderson/Desktop/works/marketing/skills/brainstorm/brainstorm.md) |
+| **Brainstorm Template** | Mẫu output cho ideas.md | [template.md](file:///Users/anderson/Desktop/works/marketing/skills/brainstorm/template.md) |
+| **Script Maker Skill** | Quy trình 4 phase end-to-end | [SKILL.md](file:///Users/anderson/Desktop/works/marketing/skills/script-maker/SKILL.md) |
+| **Script Template** | Mẫu output kịch bản 2 cột | [template.md](file:///Users/anderson/Desktop/works/marketing/skills/script-maker/template.md) |
+| **Review Skill** | Quy trình kiểm duyệt 3 lớp | [review.md](file:///Users/anderson/Desktop/works/marketing/skills/review/review.md) |
+| **Review Template** | Mẫu biên bản kiểm duyệt | [template.md](file:///Users/anderson/Desktop/works/marketing/skills/review/template.md) |
 
 ---
 
@@ -261,8 +292,9 @@ Chấm điểm 8 tiêu chí (1–5 điểm mỗi tiêu chí). **Yêu cầu tổn
 
 | Bạn đang ở đâu? | Dùng tài liệu nào? |
 |-----------------|-------------------|
+| **Bắt đầu bất kỳ phase nào** | 📚 **Luôn đọc `docs/` trước** (audience, PAAST-VCL, script-make) |
 | Mới bắt đầu, chưa có gì | **Phase 0** → `script-maker/SKILL.md` (Init) |
 | Có tài liệu thô, cần lên ý tưởng | **Phase 1** → `brainstorm/brainstorm.md` |
-| Đã chọn ý tưởng, cần viết kịch bản | **Phase 2** → `script-make.md` + `script-maker/template.md` |
+| Đã chọn ý tưởng, cần viết kịch bản | **Phase 2** → `docs/script-make.md` + `script-maker/template.md` |
 | Kịch bản xong, cần kiểm duyệt | **Phase 3** → `review/review.md` |
-| Cần hiểu triết lý & khung đánh giá | Bất kỳ lúc nào → `cyberk-video-strategy-paast-vcl.md` |
+| Cần hiểu triết lý & khung đánh giá | Bất kỳ lúc nào → `docs/cyberk-video-strategy-paast-vcl.md` |

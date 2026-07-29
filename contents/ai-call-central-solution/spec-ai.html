@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>spec-ai — AI Call Central Solution</title>
+  <style>
+    :root {
+      --bg: #0f0f0f;
+      --surface: #1a1a1a;
+      --border: #2a2a2a;
+      --text: #e0e0e0;
+      --muted: #888;
+      --accent: #6ee7b7;
+      --accent-dim: #2d4a3e;
+      --warn: #fbbf24;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Inter', system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 2rem; line-height: 1.6; }
+    h1 { color: var(--accent); font-size: 1.5rem; margin-bottom: .5rem; }
+    h2 { color: var(--accent); font-size: 1.15rem; margin: 2rem 0 .75rem; border-bottom: 1px solid var(--border); padding-bottom: .5rem; }
+    .meta { color: var(--muted); font-size: .85rem; margin-bottom: 2rem; }
+    table { width: 100%; border-collapse: collapse; margin: .75rem 0 1.5rem; font-size: .9rem; }
+    th, td { text-align: left; padding: .5rem .75rem; border: 1px solid var(--border); }
+    th { background: var(--surface); color: var(--accent); font-weight: 600; }
+    td { background: var(--bg); }
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: .75rem; font-weight: 600; }
+    .badge-done { background: var(--accent-dim); color: var(--accent); }
+    .badge-pending { background: #3b2f00; color: var(--warn); }
+    .badge-active { background: #1e3a5f; color: #60a5fa; }
+    .entry { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; margin: .75rem 0; }
+    .entry-header { font-weight: 600; color: var(--accent); margin-bottom: .5rem; }
+    .entry-body { color: var(--text); font-size: .9rem; }
+    ul { padding-left: 1.25rem; }
+    li { margin: .25rem 0; }
+  </style>
+</head>
+<body>
+
+<h1>📋 spec-ai.html — Decision Log</h1>
+<p class="meta">
+  Project: <strong>AI Call Central Solution</strong> (Content Slug: ai-call-central-solution)<br>
+  Source: <code>bootstrap/bidding/ai-telemarketing</code><br>
+  Created: 2026-07-28 · Last Updated: 2026-07-28
+</p>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Phase 0 — INIT</h2>
+
+<div class="entry">
+  <div class="entry-header">🗂️ Workspace Setup</div>
+  <div class="entry-body">
+    <ul>
+      <li><strong>Slug:</strong> <code>ai-call-central-solution</code></li>
+      <li><strong>Bidding source:</strong> <code>bootstrap/bidding/ai-telemarketing</code> — Proposal v1.2 (Oracle + Critic reviewed)</li>
+      <li><strong>Input files copied:</strong> input.txt (client brief 20 Q&A), 7 analysis docs (00–06), memory.md (11 PDRs)</li>
+      <li><strong>Dự án gốc:</strong> AI phone voice agent cho insurance & property agents tại Singapore. Solo founder, budget $20K, outbound-callback-only, build trên Retell + Twilio.</li>
+      <li><strong>Ẩn danh hóa:</strong> Không để lộ tên khách hàng — gọi chung là "một startup tại Singapore" hoặc "một dự án tổng đài tự động".</li>
+    </ul>
+  </div>
+</div>
+
+<table>
+  <tr><th>Phase</th><th>Status</th><th>Output</th></tr>
+  <tr><td>Phase 0: INIT</td><td><span class="badge badge-done">✅ DONE</span></td><td>Workspace + spec-ai.html</td></tr>
+  <tr><td>Phase 1: BRAINSTORM & OUTLINE</td><td><span class="badge badge-done">✅ DONE</span></td><td>01_h1_outline.md</td></tr>
+  <tr><td>Phase 2: SCRIPT WRITE</td><td><span class="badge badge-done">✅ DONE</span></td><td>01_h1-ai-call-central.md</td></tr>
+  <tr><td>Phase 3: VIDEO & AUDIO EXPORT</td><td><span class="badge badge-done">✅ DONE</span></td><td>videos/01_h1_infographics_video.mp4</td></tr>
+</table>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Phase 1 — BRAINSTORM & OUTLINE (Decision Log)</h2>
+<div class="entry">
+  <div class="entry-header">💡 Đổi cấu trúc Outline sang Non-tech & Content-only</div>
+  <div class="entry-body">
+    <ul>
+      <li><strong>Quyết định:</strong> Loại bỏ hoàn toàn các hướng dẫn visual/show màn hình trong file outline, chuyển thành dạng thuần nội dung (content-only) cho người xem dễ hấp thụ.</li>
+      <li><strong>Cấu trúc:</strong> Hook → Yêu cầu bài toán (FR) → Phân tích đề bài (3 ràng buộc) → Giải pháp kỹ thuật (3 luận điểm non-tech) → Thành quả & Kết luận → CTA.</li>
+      <li><strong>Văn mẫu Startup:</strong> Áp dụng quy tắc văn mẫu bắt buộc về startup lean context ($0 idle cost khi chưa có user → tự động scale khi user tăng).</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Phase 2 — SCRIPT WRITE & REFINEMENT (Decision Log)</h2>
+<div class="entry">
+  <div class="entry-header">✍️ Dựng Kịch Bản 4 Cột & Đổi Văn Phong CTA</div>
+  <div class="entry-body">
+    <ul>
+      <li><strong>Cột Infographic HTML:</strong> Thêm cột thứ 4 vào kịch bản để map chính xác từng cảnh với các file sơ đồ tương tác HTML trong thư mục <code>infografic/</code>.</li>
+      <li><strong>CTA Tự nhiên (Anti-pushy CTA):</strong> Loại bỏ CTA bán hàng thô trực diện (<em>"Là một nhà điều hành... hãy liên hệ CyberK"</em>) chuyển thành CTA mở thảo luận kỹ thuật nhẹ nhàng (<em>"Nếu bạn quan tâm tới thiết kế hệ thống, hoặc đang làm startup công nghệ, hãy để lại comment để cùng thảo luận nhé"</em>).</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════ -->
+<h2>Phase 3 — VIDEO & AUDIO PRODUCTION (Decision Log)</h2>
+<div class="entry">
+  <div class="entry-header">🎬 Xuất Video MP4 Native 9:16 Safety Zone</div>
+  <div class="entry-body">
+    <ul>
+      <li><strong>Audio Voiceover:</strong> Tổng hợp âm thanh bằng <code>edge_tts</code> (giọng <code>vi-VN-NamMinhNeural</code>) 21 câu thoại, thời lượng ~5:06.</li>
+      <li><strong>Khung hình 65% Viewport Rule:</strong> Chuẩn hóa toàn bộ 12 file HTML infographic sang tỷ lệ Native Viewport 9:16 (450x800), khống chế chiều rộng <code>.canvas-frame</code> và <code>.canvas-container</code> tối đa 65% (max-width: 320px) để không bị che bởi UI của TikTok/Shorts/Reels.</li>
+      <li><strong>Xuất Video MP4:</strong> Dùng Headless Chrome CLI capture các frame ảnh HTML kết hợp FFmpeg ghép âm thanh xuất file <code>01_h1_infographics_video.mp4</code>.</li>
+    </ul>
+  </div>
+</div>
+
+</body>
+</html>

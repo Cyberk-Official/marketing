@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagram 3 — Ecosystem Matrix (Cyberk Solid Ultra-Minimalist Edition)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            /* Cyberk Brand Solid Colors (NO GRADIENTS, NO HEADERS) */
+            --cyberk-red: #EC2B39;
+            --cyberk-blue: #2172E6;
+            
+            --bg-dark: #07080c;
+            --bg-card: #12141e;
+            --bg-card-hero: #1a131b;
+            --border: #242838;
+
+            --text-main: #ffffff;
+            --text-muted: #94a3b8;
+            --text-dim: #64748b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            width: 100vw;
+            max-width: 450px;
+            min-height: 100vh;
+            margin: 0 auto;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+
+        .canvas-frame {
+            width: 65%;
+            max-width: 320px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .tier-section-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--cyberk-red);
+            margin: 16px 0 8px 4px;
+            width: 100%;
+        }
+
+        .grid-cards {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            width: 100%;
+        }
+
+        .mini-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 14px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .mini-card.winner {
+            border: 2px solid var(--cyberk-red);
+            background: var(--bg-card-hero);
+        }
+
+        .mini-logo {
+            width: 42px;
+            height: 42px;
+            border-radius: 12px;
+            background: #090a0f;
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 8px;
+            padding: 6px;
+        }
+
+        .mini-name {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.95rem;
+            font-weight: 800;
+            color: #fff;
+        }
+
+        .mini-role {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .mini-tag {
+            font-size: 0.65rem;
+            font-weight: 700;
+            margin-top: 8px;
+            padding: 2px 8px;
+            border-radius: 99px;
+            background: rgba(255, 255, 255, 0.08);
+            color: var(--text-muted);
+        }
+
+        .mini-card.winner .mini-tag {
+            background: var(--cyberk-red);
+            color: #fff;
+        }
+
+        .svg-icon {
+            fill: #ffffff;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="canvas-frame">
+
+        <div class="tier-section-title">🌟 CORE MVP ENGINE</div>
+        <div class="grid-cards">
+            <div class="mini-card winner">
+                <div class="mini-logo">
+                    <svg viewBox="0 0 100 100" style="width:100%;height:100%;"><circle cx="50" cy="50" r="40" fill="none" stroke="#EC2B39" stroke-width="8"/><path d="M35 30 L65 50 L35 70 Z" fill="#EC2B39"/></svg>
+                </div>
+                <div class="mini-name">Retell AI</div>
+                <div class="mini-role">Managed Voice Engine</div>
+                <div class="mini-tag">CONFIRMED STACK</div>
+            </div>
+            <div class="mini-card">
+                <div class="mini-logo">
+                    <svg viewBox="0 0 24 24" style="width:100%;height:100%;"><path d="M12 2L2 7v10l10 5 10-5V7L12 2z" fill="#00E599"/></svg>
+                </div>
+                <div class="mini-name">Telnyx</div>
+                <div class="mini-role">SIP Carrier (+65)</div>
+                <div class="mini-tag">$0.0199 / min</div>
+            </div>
+        </div>
+
+        <div class="tier-section-title">🛠️ DEV INFRA ALTERNATIVES</div>
+        <div class="grid-cards">
+            <div class="mini-card">
+                <div class="mini-logo" style="color: #a855f7; font-weight:900;">V</div>
+                <div class="mini-name">Vapi AI</div>
+                <div class="mini-role">Voice Orchestration</div>
+                <div class="mini-tag">#2 Alternative</div>
+            </div>
+            <div class="mini-card">
+                <div class="mini-logo" style="color: #2172E6; font-weight:900;">LK</div>
+                <div class="mini-name">LiveKit</div>
+                <div class="mini-role">Open-Source WebRTC</div>
+                <div class="mini-tag">Scale Stage</div>
+            </div>
+        </div>
+
+        <div class="tier-section-title">🏢 NO-CODE & ISA RIVALS</div>
+        <div class="grid-cards">
+            <div class="mini-card">
+                <div class="mini-logo" style="color: #f59e0b; font-weight:900;">11</div>
+                <div class="mini-name">ElevenLabs</div>
+                <div class="mini-role">Voice & Agent Widget</div>
+                <div class="mini-tag">Horizontal</div>
+            </div>
+            <div class="mini-card">
+                <div class="mini-logo" style="color: #3b82f6; font-weight:900;">St</div>
+                <div class="mini-name">Structurely</div>
+                <div class="mini-role">Real Estate AI ISA</div>
+                <div class="mini-tag">US Rival</div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
