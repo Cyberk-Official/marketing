@@ -201,7 +201,7 @@ methodology: cyberk-video-strategy-paast-vcl.md
 |-----------|--------------------------|----------------------------|-----------------|
 | **00:__ – 00:__** | [Kỹ sư nhìn thẳng camera · Pop-up Like/Share/Comment icon & Subtitles] | *"Nếu bạn muốn nghe nhiều hơn về thiết kế hệ thống AI, hãy comment, like và share nhé!"* | · Text overlay: Comment & Sub<br>· End screen branding |
 
-> **⚠️ Lưu ý:** Giữ CTA tự nhiên, ngắn gọn, súc tích trong 10-15s cuối. Tuyệt đối **tránh CTA thô/bán hàng trực diện** (ví dụ: *"Nếu bạn đang tìm giải pháp... hãy liên hệ CyberK"*). Ưu tiên CTA mời thảo luận tự nhiên, tạo thảo luận mở (ví dụ: *"Nếu bạn quan tâm tới thiết kế hệ thống, hoặc đang làm startup công nghệ, hãy để lại comment để cùng thảo luận nhé."*).
+> **⚠️ Lưu ý:** Giữ CTA tự nhiên, ngắn gọn, súc tích trong 10-15s cuối. Tuyệt đối **tránh CTA thô/bán hàng trực diện** và **KHÔNG nhắc tên thương hiệu** (ví dụ: *"Nếu bạn đang tìm giải pháp... hãy liên hệ CyberK"*). LUÔN đóng vai một người bạn đồng hành công nghệ kêu gọi trao đổi, tạo thảo luận mở (ví dụ: *"Nếu bạn quan tâm tới thiết kế hệ thống, hoặc đang làm startup công nghệ, hãy để lại comment để chúng mình cùng thảo luận nhé."*).
 
 ---
 
