@@ -1,4 +1,4 @@
----
+ t---
 type: skill
 name: script-maker
 description: "Quy trình sản xuất kịch bản 4 phase: Init → Brainstorm → Script Write → Review. Mỗi bước AI lưu lại quyết định dưới dạng spec-ai.html."
@@ -30,6 +30,7 @@ Thư mục `skills/docs/` chứa các tài liệu nền tảng mà mọi phase t
 
 | Tài liệu | Vai trò | Khi nào đọc |
 |-----------|---------|-------------|
+| `docs/writing-rules.md` | **Luật viết & chống giọng AI** — ba đăng ký giọng, 9 dấu hiệu AI slop, 6 bài kiểm tra trước publish, từ cấm. | **Trước mọi phase** — bắt buộc với Phase 3 (Script Write) |
 | `docs/audience_profile.md` | **Chân dung khán giả mục tiêu** — The Ambitious Builder (Founders, CEOs, C-level, Solopreneur). Xác định nỗi đau, khát khao, hành vi, và ngôn ngữ của họ. | Trước mọi phase — đặc biệt Phase 2 (Brainstorm) & Phase 3 (Script Write) |
 | `docs/cyberk-video-strategy-paast-vcl.md` | **Phương pháp luận gốc** — Phễu PAAST, Khung VCL, Ba tính chất cốt lõi (Entertainment + Educational + Authentic), Scorecard đánh giá. | Trước mọi phase — là kim chỉ nam cho toàn bộ nội dung |
 | `docs/script-make.md` | **Guideline viết kịch bản** — Phễu PAAST timeline %, bảng quy đổi từ/phút, Pre-Publish Checklist. | Chủ yếu Phase 3 (Script Write) |
