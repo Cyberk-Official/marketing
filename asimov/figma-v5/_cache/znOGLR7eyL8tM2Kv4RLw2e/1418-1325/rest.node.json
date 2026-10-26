@@ -1,0 +1,84 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:29:36.828Z",
+  "document": {
+    "id": "1418:1325",
+    "name": "Smart contracts for \nthe agent economy.",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -2129,
+      "y": 24287,
+      "width": 525,
+      "height": 134
+    },
+    "absoluteRenderBounds": {
+      "x": -2126.9892578125,
+      "y": 24300.783203125,
+      "width": 517.4119873046875,
+      "height": 121.208984375
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 0]],
+    "size": {
+      "x": 525,
+      "y": 134
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "Smart contracts for \nthe agent economy.",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE", "NONE"],
+    "lineIndentations": [0, 0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textCase": "TITLE",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 56,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 67.20000457763672,
+      "lineHeightPercent": 88.8888931274414,
+      "lineHeightPercentFontSize": 120.00000762939453,
+      "lineHeightUnit": "FONT_SIZE_%"
+    },
+    "layoutVersion": 5,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

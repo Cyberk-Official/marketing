@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "entries": {
+    "default::[data-testid=\"creator-profile\"]::padding-top": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:24:19.108Z",
+      "lastSeen": "2026-04-24T10:24:19.108Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::padding-right": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:24:19.108Z",
+      "lastSeen": "2026-04-24T10:24:19.108Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::padding-bottom": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::padding-left": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::gap": {
+      "values": ["16px"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["16px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::display": {
+      "values": ["flex"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["flex"]
+    },
+    "default::[data-testid=\"creator-profile\"]::flex-direction": {
+      "values": ["row"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["row"]
+    },
+    "default::[data-testid=\"creator-profile\"]::align-self": {
+      "values": ["stretch"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["stretch"]
+    },
+    "default::[data-testid=\"creator-profile\"]::width": {
+      "values": ["1128px"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["1128px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::height": {
+      "values": ["110px"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["110px"]
+    },
+    "default::[data-testid=\"creator-profile\"]::position": {
+      "values": ["absolute"],
+      "firstSeen": "2026-04-24T10:24:19.109Z",
+      "lastSeen": "2026-04-24T10:24:19.109Z",
+      "detected": false,
+      "recentCalls": ["absolute"]
+    }
+  }
+}

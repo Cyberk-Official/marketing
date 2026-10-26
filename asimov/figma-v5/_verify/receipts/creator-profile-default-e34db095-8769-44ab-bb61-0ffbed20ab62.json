@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "e34db095-8769-44ab-bb61-0ffbed20ab62",
+  "timestamp": "2026-04-24T07:42:30.978Z",
+  "kind": "component",
+  "component": "creator-profile",
+  "state": "default",
+  "story": "features-creator-ui-creator-profile--default",
+  "selector": "[data-testid=\"creator-profile\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": ""
+}

@@ -1,0 +1,161 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-04-28T03:16:10.101Z",
+  "document": {
+    "id": "786:14443",
+    "name": "Icon Background",
+    "type": "RECTANGLE",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "vectorNetwork": {
+      "vertices": [
+        {
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "meta": 0
+        },
+        {
+          "position": {
+            "x": 60,
+            "y": 0
+          },
+          "meta": 0
+        },
+        {
+          "position": {
+            "x": 60,
+            "y": 60
+          },
+          "meta": 0
+        },
+        {
+          "position": {
+            "x": 0,
+            "y": 60
+          },
+          "meta": 0
+        }
+      ],
+      "segments": [
+        {
+          "start": 0,
+          "startTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "endTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "end": 1,
+          "meta": 0
+        },
+        {
+          "start": 1,
+          "startTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "endTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "end": 2,
+          "meta": 0
+        },
+        {
+          "start": 2,
+          "startTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "endTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "end": 3,
+          "meta": 0
+        },
+        {
+          "start": 3,
+          "startTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "endTangent": {
+            "x": 0,
+            "y": 0
+          },
+          "end": 0,
+          "meta": 0
+        }
+      ],
+      "regions": [
+        {
+          "loops": [[0, 1, 2, 3]],
+          "windingRule": "nonzero",
+          "meta": 0
+        }
+      ]
+    },
+    "fillGeometry": [
+      {
+        "path": "M0 0L48 0L48 48L0 48L0 0Z",
+        "windingRule": "NONZERO"
+      }
+    ],
+    "strokes": [],
+    "strokeWeight": 0.833333432674408,
+    "strokeAlign": "INSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": 1810,
+      "y": 4569,
+      "width": 48,
+      "height": 48
+    },
+    "absoluteRenderBounds": {
+      "x": 1810,
+      "y": 4569,
+      "width": 48,
+      "height": 48
+    },
+    "preserveRatio": true,
+    "targetAspectRatio": {
+      "x": 59,
+      "y": 59
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 0]],
+    "size": {
+      "x": 48,
+      "y": 48
+    },
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

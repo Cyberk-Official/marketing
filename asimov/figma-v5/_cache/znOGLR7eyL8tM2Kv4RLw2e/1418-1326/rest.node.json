@@ -1,0 +1,82 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:29:36.828Z",
+  "document": {
+    "id": "1418:1326",
+    "name": "AI agents that pay, trust, and hire each other —\nthrough smart contracts we write.",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.7019608020782471,
+          "g": 0.7019608020782471,
+          "b": 0.7019608020782471,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -2129,
+      "y": 24445,
+      "width": 524,
+      "height": 92
+    },
+    "absoluteRenderBounds": {
+      "x": -2128.6640625,
+      "y": 24453.50390625,
+      "width": 495.92333984375,
+      "height": 56.84765625
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 158]],
+    "size": {
+      "x": 524,
+      "y": 92
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "characters": "AI agents that pay, trust, and hire each other —\nthrough smart contracts we write.",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE", "NONE"],
+    "lineIndentations": [0, 0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 33.599998474121094,
+      "lineHeightPercent": 103.70370483398438,
+      "lineHeightPercentFontSize": 140,
+      "lineHeightUnit": "FONT_SIZE_%"
+    },
+    "layoutVersion": 5,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

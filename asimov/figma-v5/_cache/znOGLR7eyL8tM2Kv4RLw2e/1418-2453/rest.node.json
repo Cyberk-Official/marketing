@@ -1,0 +1,82 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:08.969Z",
+  "document": {
+    "id": "1418:2453",
+    "name": "Highlighted review text",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09236027300357819,
+          "g": 0.09236027300357819,
+          "b": 0.09236027300357819,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -13367.5,
+      "y": 25580,
+      "width": 311,
+      "height": 24
+    },
+    "absoluteRenderBounds": {
+      "x": -13367.248046875,
+      "y": 25585.751953125,
+      "width": 249.779296875,
+      "height": 17.369140625
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 32]],
+    "size": {
+      "x": 311,
+      "y": 24
+    },
+    "layoutAlign": "STRETCH",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "characters": "They were extremely proactive.",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24.30000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "layoutVersion": 5,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

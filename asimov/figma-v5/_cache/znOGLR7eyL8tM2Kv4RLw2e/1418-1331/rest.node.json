@@ -1,0 +1,177 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:33.422Z",
+  "document": {
+    "id": "1418:1331",
+    "name": "Frame 53",
+    "visible": false,
+    "type": "FRAME",
+    "scrollBehavior": "SCROLLS",
+    "children": [
+      {
+        "id": "1418:1332",
+        "name": "We build AI agents and smart contracts. The convergence of AI × blockchain is exactly where our expertise meets.",
+        "type": "TEXT",
+        "scrollBehavior": "SCROLLS",
+        "blendMode": "PASS_THROUGH",
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.7628206014633179,
+              "g": 0.7628206014633179,
+              "b": 0.7628206014633179,
+              "a": 1
+            }
+          }
+        ],
+        "fillGeometry": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "OUTSIDE",
+        "strokeGeometry": [],
+        "absoluteBoundingBox": {
+          "x": -2113,
+          "y": 24865,
+          "width": 422,
+          "height": 48
+        },
+        "absoluteRenderBounds": null,
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "relativeTransform": [[1, 0, 8], [0, 1, 4]],
+        "size": {
+          "x": 422,
+          "y": 48
+        },
+        "layoutAlign": "STRETCH",
+        "layoutGrow": 0,
+        "layoutSizingHorizontal": "FILL",
+        "layoutSizingVertical": "HUG",
+        "characters": "We build AI agents and smart contracts. The convergence of AI × blockchain is exactly where our expertise meets.",
+        "characterStyleOverrides": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8
+        ],
+        "styleOverrideTable": {
+          "6": {
+            "fontFamily": "Satoshi Variable",
+            "fontPostScriptName": "SatoshiVariable-Medium",
+            "fontStyle": "Medium",
+            "fontWeight": 500,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ]
+          },
+          "8": {
+            "fontFamily": "Satoshi Variable",
+            "fontPostScriptName": "SatoshiVariable-Medium",
+            "fontStyle": "Medium",
+            "fontWeight": 500,
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                }
+              }
+            ]
+          }
+        },
+        "lineTypes": ["NONE"],
+        "lineIndentations": [0],
+        "style": {
+          "fontFamily": "Satoshi Variable",
+          "fontPostScriptName": "SatoshiVariable-Regular",
+          "fontStyle": "Regular",
+          "fontWeight": 400,
+          "textAutoResize": "HEIGHT",
+          "fontSize": 16,
+          "textAlignHorizontal": "LEFT",
+          "textAlignVertical": "TOP",
+          "letterSpacing": 0,
+          "lineHeightPx": 24,
+          "lineHeightPercent": 111.1111068725586,
+          "lineHeightPercentFontSize": 150,
+          "lineHeightUnit": "FONT_SIZE_%"
+        },
+        "layoutVersion": 5,
+        "effects": [],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      }
+    ],
+    "blendMode": "PASS_THROUGH",
+    "clipsContent": false,
+    "background": [],
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "backgroundColor": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0
+    },
+    "layoutMode": "VERTICAL",
+    "counterAxisSizingMode": "FIXED",
+    "counterAxisAlignItems": "CENTER",
+    "primaryAxisAlignItems": "CENTER",
+    "paddingLeft": 8,
+    "paddingRight": 8,
+    "paddingTop": 4,
+    "paddingBottom": 8,
+    "itemSpacing": 10,
+    "layoutWrap": "NO_WRAP",
+    "fillGeometry": [],
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -2121,
+      "y": 24861,
+      "width": 438,
+      "height": 60
+    },
+    "absoluteRenderBounds": null,
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 8], [0, 1, 8]],
+    "size": {
+      "x": 438,
+      "y": 60
+    },
+    "layoutAlign": "STRETCH",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

@@ -1,0 +1,174 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-04-28T03:16:10.101Z",
+  "document": {
+    "id": "484:55239",
+    "name": "tabs",
+    "type": "FRAME",
+    "scrollBehavior": "SCROLLS",
+    "children": [
+      {
+        "id": "484:55240",
+        "name": "Tab Label",
+        "type": "TEXT",
+        "scrollBehavior": "SCROLLS",
+        "blendMode": "PASS_THROUGH",
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            }
+          }
+        ],
+        "fillGeometry": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "OUTSIDE",
+        "strokeGeometry": [],
+        "absoluteBoundingBox": {
+          "x": 2554.75,
+          "y": 4506,
+          "width": 34,
+          "height": 20
+        },
+        "absoluteRenderBounds": {
+          "x": 2555.261962890625,
+          "y": 4510.31982421875,
+          "width": 31.83203125,
+          "height": 11.84033203125
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "relativeTransform": [[1, 0, 95.75], [0, 1, 10]],
+        "size": {
+          "x": 34,
+          "y": 20
+        },
+        "layoutAlign": "INHERIT",
+        "layoutGrow": 0,
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "HUG",
+        "characters": "AOL",
+        "characterStyleOverrides": [],
+        "styleOverrideTable": {},
+        "lineTypes": ["NONE"],
+        "lineIndentations": [0],
+        "style": {
+          "fontFamily": "Instrument Sans",
+          "fontPostScriptName": "InstrumentSans-Medium",
+          "fontStyle": "Medium",
+          "fontWeight": 500,
+          "textAutoResize": "WIDTH_AND_HEIGHT",
+          "fontSize": 16,
+          "textAlignHorizontal": "LEFT",
+          "textAlignVertical": "TOP",
+          "letterSpacing": 0,
+          "lineHeightPx": 19.520000457763672,
+          "lineHeightPercent": 100,
+          "lineHeightUnit": "INTRINSIC_%"
+        },
+        "layoutVersion": 5,
+        "effects": [],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      }
+    ],
+    "blendMode": "PASS_THROUGH",
+    "clipsContent": false,
+    "background": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.11372549086809158,
+          "g": 0.13725490868091583,
+          "b": 0.25882354378700256,
+          "a": 1
+        }
+      }
+    ],
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.11372549086809158,
+          "g": 0.13725490868091583,
+          "b": 0.25882354378700256,
+          "a": 1
+        }
+      }
+    ],
+    "strokes": [],
+    "cornerRadius": 4,
+    "cornerSmoothing": 0,
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "backgroundColor": {
+      "r": 0.11372549086809158,
+      "g": 0.13725490868091583,
+      "b": 0.25882354378700256,
+      "a": 1
+    },
+    "layoutMode": "HORIZONTAL",
+    "primaryAxisSizingMode": "FIXED",
+    "counterAxisAlignItems": "CENTER",
+    "primaryAxisAlignItems": "CENTER",
+    "paddingLeft": 16,
+    "paddingRight": 16,
+    "paddingTop": 10,
+    "paddingBottom": 10,
+    "itemSpacing": 10,
+    "layoutWrap": "NO_WRAP",
+    "fillGeometry": [
+      {
+        "path": "M0 4C0 1.79086 1.79086 0 4 0L221.5 0C223.709 0 225.5 1.79086 225.5 4L225.5 36C225.5 38.2091 223.709 40 221.5 40L4 40C1.79086 40 0 38.2091 0 36L0 4Z",
+        "windingRule": "NONZERO"
+      }
+    ],
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": 2459,
+      "y": 4496,
+      "width": 225.5,
+      "height": 40
+    },
+    "absoluteRenderBounds": {
+      "x": 2459,
+      "y": 4496,
+      "width": 225.5,
+      "height": 40
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 4], [0, 1, 4]],
+    "size": {
+      "x": 225.5,
+      "y": 40
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 1,
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

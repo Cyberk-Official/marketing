@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "a59b55a5-f135-4274-85b4-82d5d736c46a",
+  "timestamp": "2026-04-24T07:41:23.685Z",
+  "kind": "component",
+  "component": "fee-earning-card",
+  "state": "default",
+  "story": "features-creator-ui-fee-earning-card--default",
+  "selector": "[data-testid=\"fee-earning-card\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": ""
+}

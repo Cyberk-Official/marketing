@@ -1,0 +1,12 @@
+{
+  "name": "gradual-sell-table",
+  "layer": "features/creator/ui",
+  "category": "complex",
+  "source": {
+    "file": "USq2satM9LeDU7M6ilKlky",
+    "canonical_node": "498:14082"
+  },
+  "states": ["default"],
+  "aliases": [],
+  "version": 1
+}

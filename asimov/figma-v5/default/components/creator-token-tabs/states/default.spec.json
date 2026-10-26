@@ -1,0 +1,250 @@
+{
+  "state": "default",
+  "node": "498:13932",
+  "baseline": "default.png",
+  "export_scale": 2,
+  "has_raster_assets": true,
+  "dimensions": {
+    "width": 534,
+    "height": 40
+  },
+  "css": {
+    "padding-top": "0px",
+    "padding-right": "0px",
+    "padding-bottom": "0px",
+    "padding-left": "0px",
+    "gap": "12px",
+    "display": "flex",
+    "flex-direction": "row",
+    "align-items": "center",
+    "width": "fit-content",
+    "height": "fit-content",
+    "position": "absolute"
+  },
+  "unsupported": [],
+  "subNodes": [
+    {
+      "id": "498:13935",
+      "name": "Rectangle 7",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 103,
+        "y": 8,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "97df00f4b398893458d8dba4f65fe5a81db44afd",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/97df00f4b398893458d8dba4f65fe5a81db44afd.png"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    },
+    {
+      "id": "498:13938",
+      "name": "Rectangle 8",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 206,
+        "y": 8,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "ba5f50a3a407381d3b4092ec49187ad097e44870",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/ba5f50a3a407381d3b4092ec49187ad097e44870.png"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    },
+    {
+      "id": "498:13941",
+      "name": "Rectangle 8",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 320,
+        "y": 8,
+        "width": 24,
+        "height": 24
+      },
+      "renderBox": {
+        "x": 318,
+        "y": 6,
+        "width": 28,
+        "height": 28
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "2c0ac919ed147b1b78e70c626e2dfb21eb161f36",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/2c0ac919ed147b1b78e70c626e2dfb21eb161f36.png"
+        }
+      ],
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0.7058823704719543,
+            "b": 0.3764705955982208,
+            "a": 1
+          },
+          "opacity": 0.5,
+          "weight": 2,
+          "align": "OUTSIDE"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0 12M24 12M24 12M0 12M12 0M24 12M12 24M0 12M12 24L12 22C6.47715 22 2 17.5228 2 12L0 12L-2 12C-2 19.732 4.26801 26 12 26L12 24ZM24 12L22 12C22 17.5228 17.5228 22 12 22L12 24L12 26C19.732 26 26 19.732 26 12L24 12ZM12 0L12 2C17.5228 2 22 6.47715 22 12L24 12L26 12C26 4.26801 19.732 -2 12 -2L12 0ZM12 0L12 -2C4.26801 -2 -2 4.26801 -2 12L0 12L2 12C2 6.47715 6.47715 2 12 2L12 0Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    },
+    {
+      "id": "498:13944",
+      "name": "Rectangle 7",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 449,
+        "y": 8,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "97df00f4b398893458d8dba4f65fe5a81db44afd",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/97df00f4b398893458d8dba4f65fe5a81db44afd.png"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    }
+  ],
+  "textNodes": [
+    {
+      "id": "498:13933",
+      "name": "Created:",
+      "localBox": {
+        "x": 0,
+        "y": 12.5,
+        "width": 83,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "Created:"
+    },
+    {
+      "id": "498:13936",
+      "name": "AOLM",
+      "localBox": {
+        "x": 135,
+        "y": 12.5,
+        "width": 43,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "AOLM"
+    },
+    {
+      "id": "498:13939",
+      "name": "valor",
+      "localBox": {
+        "x": 238,
+        "y": 12.5,
+        "width": 54,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "valor"
+    },
+    {
+      "id": "498:13942",
+      "name": "burger",
+      "localBox": {
+        "x": 352,
+        "y": 12.5,
+        "width": 69,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "burger"
+    },
+    {
+      "id": "498:13945",
+      "name": "abcd",
+      "localBox": {
+        "x": 481,
+        "y": 12.5,
+        "width": 45,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "abcd"
+    }
+  ]
+}

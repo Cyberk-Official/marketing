@@ -1,0 +1,83 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:33.421Z",
+  "document": {
+    "id": "1418:1321",
+    "name": "Talk to Anderson Button Text",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 0.6530612111091614,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -955,
+      "y": 24181.5,
+      "width": 120,
+      "height": 19
+    },
+    "absoluteRenderBounds": {
+      "x": -954.8319702148438,
+      "y": 24186.294921875,
+      "width": 118.1744384765625,
+      "height": 10.373046875
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 12], [0, 1, 8.5]],
+    "size": {
+      "x": 120,
+      "y": 19
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "Talk with Anderson",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textCase": "TITLE",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 14,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 18.899999618530273,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "layoutVersion": 5,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

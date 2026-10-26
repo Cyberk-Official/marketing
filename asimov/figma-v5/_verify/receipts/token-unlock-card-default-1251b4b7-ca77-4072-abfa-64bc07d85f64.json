@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "1251b4b7-ca77-4072-abfa-64bc07d85f64",
+  "timestamp": "2026-04-24T07:50:33.617Z",
+  "kind": "component",
+  "component": "token-unlock-card",
+  "state": "default",
+  "story": "features-creator-ui-token-unlock-card--default",
+  "selector": "[data-testid=\"token-unlock-card\"]",
+  "gate_results": {
+    "measurement": "pass",
+    "visual": "pass"
+  },
+  "aggregate_status": "pass",
+  "signature": "7ff88cc020f6288552b1a22127cecb0dbedec5c5ecf5de8080796df2db9948d0"
+}

@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "entries": {
+    "default::[data-testid=\"creator-token-tabs\"]::padding-top": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:25:40.672Z",
+      "lastSeen": "2026-04-24T10:26:23.825Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::padding-right": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:25:40.672Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::padding-bottom": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:25:40.672Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::padding-left": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["0px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::gap": {
+      "values": ["12px"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["12px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::display": {
+      "values": ["flex"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["flex"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::flex-direction": {
+      "values": ["row"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["row"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::align-items": {
+      "values": ["center"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.826Z",
+      "detected": false,
+      "recentCalls": ["center"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::width": {
+      "values": ["536.109px"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.827Z",
+      "detected": false,
+      "recentCalls": ["536.109px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::height": {
+      "values": ["40px"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.827Z",
+      "detected": false,
+      "recentCalls": ["40px"]
+    },
+    "default::[data-testid=\"creator-token-tabs\"]::position": {
+      "values": ["absolute"],
+      "firstSeen": "2026-04-24T10:25:40.673Z",
+      "lastSeen": "2026-04-24T10:26:23.827Z",
+      "detected": false,
+      "recentCalls": ["absolute"]
+    }
+  }
+}

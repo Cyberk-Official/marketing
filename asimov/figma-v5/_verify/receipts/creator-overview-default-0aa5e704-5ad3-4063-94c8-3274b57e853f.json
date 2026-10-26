@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "0aa5e704-5ad3-4063-94c8-3274b57e853f",
+  "timestamp": "2026-04-24T07:44:04.961Z",
+  "kind": "component",
+  "component": "creator-overview",
+  "state": "default",
+  "story": "features-creator-ui-creator-overview--default",
+  "selector": "[data-testid=\"creator-overview\"]",
+  "gate_results": {
+    "measurement": "pass",
+    "visual": "pass"
+  },
+  "aggregate_status": "pass",
+  "signature": ""
+}

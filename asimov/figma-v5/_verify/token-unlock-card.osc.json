@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "entries": {
+    "default::[data-testid=\"token-unlock-card\"]::background-color": {
+      "values": ["rgba(21,26,52,1)"],
+      "firstSeen": "2026-04-24T07:50:30.906Z",
+      "lastSeen": "2026-04-24T07:50:30.906Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::padding-top": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:50:30.907Z",
+      "lastSeen": "2026-04-24T07:50:30.907Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::padding-right": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:50:30.907Z",
+      "lastSeen": "2026-04-24T07:50:30.907Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::padding-bottom": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:50:30.907Z",
+      "lastSeen": "2026-04-24T07:50:30.907Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::padding-left": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:50:30.907Z",
+      "lastSeen": "2026-04-24T07:50:30.907Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::gap": {
+      "values": ["24px"],
+      "firstSeen": "2026-04-24T07:50:30.907Z",
+      "lastSeen": "2026-04-24T07:50:30.907Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::display": {
+      "values": ["flex"],
+      "firstSeen": "2026-04-24T07:50:30.908Z",
+      "lastSeen": "2026-04-24T07:50:30.908Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::flex-direction": {
+      "values": ["column"],
+      "firstSeen": "2026-04-24T07:50:30.908Z",
+      "lastSeen": "2026-04-24T07:50:30.908Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::flex-grow": {
+      "values": ["1"],
+      "firstSeen": "2026-04-24T07:50:30.908Z",
+      "lastSeen": "2026-04-24T07:50:30.908Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::width": {
+      "values": ["365px"],
+      "firstSeen": "2026-04-24T07:50:30.908Z",
+      "lastSeen": "2026-04-24T07:50:30.908Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::height": {
+      "values": ["262.203px"],
+      "firstSeen": "2026-04-24T07:50:30.908Z",
+      "lastSeen": "2026-04-24T07:50:30.908Z",
+      "detected": false
+    },
+    "default::[data-testid=\"token-unlock-card\"]::position": {
+      "values": ["absolute"],
+      "firstSeen": "2026-04-24T07:50:30.908Z",
+      "lastSeen": "2026-04-24T07:50:30.908Z",
+      "detected": false
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-04-28T03:16:59.552Z",
+  "document": {
+    "id": "484:49698",
+    "name": "image 9",
+    "type": "RECTANGLE",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "opacity": 0.10000000149011612,
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "visible": false,
+        "type": "IMAGE",
+        "scaleMode": "FILL",
+        "imageRef": "85a673046341fad5afc0cf1b733dd5f7deabd748"
+      },
+      {
+        "blendMode": "NORMAL",
+        "type": "IMAGE",
+        "scaleMode": "STRETCH",
+        "imageRef": "5fbe46c2bde5021726076853b044806c3ab66ec3",
+        "imageTransform": [[0.8759124279022217, 0, 0.06204379349946976], [0, 1, -4.440892098500626e-16]]
+      }
+    ],
+    "fillGeometry": [
+      {
+        "path": "M0 0L480 0L480 548L0 548L0 0Z",
+        "windingRule": "NONZERO"
+      }
+    ],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": 184,
+      "y": -3735,
+      "width": 480,
+      "height": 548
+    },
+    "absoluteRenderBounds": {
+      "x": 184,
+      "y": -3735,
+      "width": 480,
+      "height": 548
+    },
+    "targetAspectRatio": {
+      "x": 480,
+      "y": 548
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 5.684341886080802e-14], [0, 1, -2.2737367544323206e-13]],
+    "size": {
+      "x": 480,
+      "y": 548
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutPositioning": "ABSOLUTE",
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "entries": {
+    "default::[data-testid=\"fee-earning-card\"]::background-color": {
+      "values": ["rgba(21,26,52,1)"],
+      "firstSeen": "2026-04-24T07:41:23.657Z",
+      "lastSeen": "2026-04-24T07:41:44.703Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::padding-top": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.704Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::padding-right": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.704Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::padding-bottom": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.704Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::padding-left": {
+      "values": ["18px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.704Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::gap": {
+      "values": ["24px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::display": {
+      "values": ["flex"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::flex-direction": {
+      "values": ["column"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::flex-grow": {
+      "values": ["0", "1"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::width": {
+      "values": ["365px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::height": {
+      "values": ["262.203px"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    },
+    "default::[data-testid=\"fee-earning-card\"]::position": {
+      "values": ["absolute"],
+      "firstSeen": "2026-04-24T07:41:23.658Z",
+      "lastSeen": "2026-04-24T07:41:44.705Z",
+      "detected": false
+    }
+  }
+}

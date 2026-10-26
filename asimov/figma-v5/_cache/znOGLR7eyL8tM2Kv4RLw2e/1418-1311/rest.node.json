@@ -1,0 +1,101 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:33.421Z",
+  "document": {
+    "id": "1418:1311",
+    "name": "Home",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.6089744567871094,
+          "g": 0.5972633957862854,
+          "b": 0.5972633957862854,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -1742.5,
+      "y": 24180.5,
+      "width": 43,
+      "height": 21
+    },
+    "absoluteRenderBounds": {
+      "x": -1741.1080322265625,
+      "y": 24186.044921875,
+      "width": 40.771728515625,
+      "height": 11.646484375
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 181.5], [0, 1, 0]],
+    "size": {
+      "x": 43,
+      "y": 21
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "Home",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0.16,
+      "lineHeightPx": 20.799999237060547,
+      "lineHeightPercent": 96.29629516601562,
+      "lineHeightPercentFontSize": 130,
+      "lineHeightUnit": "FONT_SIZE_%"
+    },
+    "layoutVersion": 5,
+    "effects": [
+      {
+        "type": "DROP_SHADOW",
+        "visible": false,
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 0.25
+        },
+        "blendMode": "NORMAL",
+        "offset": {
+          "x": 0,
+          "y": 4
+        },
+        "radius": 4,
+        "showShadowBehindNode": false
+      }
+    ],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

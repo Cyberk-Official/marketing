@@ -1,0 +1,10 @@
+{
+  "creator-profile": ["creator-screen"],
+  "creator-overview": ["creator-screen"],
+  "creator-token-tabs": ["creator-screen"],
+  "fee-earning-card": ["creator-screen"],
+  "token-unlock-card": ["creator-screen"],
+  "reward-split-card": ["creator-screen"],
+  "send-coins-table": ["creator-screen"],
+  "gradual-sell-table": ["creator-screen"]
+}

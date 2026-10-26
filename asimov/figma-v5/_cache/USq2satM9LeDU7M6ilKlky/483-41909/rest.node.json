@@ -1,0 +1,170 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-04-27T23:49:37.404Z",
+  "document": {
+    "id": "483:41909",
+    "name": "tab",
+    "type": "FRAME",
+    "scrollBehavior": "SCROLLS",
+    "children": [
+      {
+        "id": "483:41910",
+        "name": "New",
+        "type": "TEXT",
+        "scrollBehavior": "SCROLLS",
+        "boundVariables": {
+          "fills": [
+            {
+              "type": "VARIABLE_ALIAS",
+              "id": "VariableID:4:50"
+            }
+          ]
+        },
+        "blendMode": "PASS_THROUGH",
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 0.36864691972732544,
+              "g": 0.4104945957660675,
+              "b": 0.5464993715286255,
+              "a": 1
+            },
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:4:50"
+              }
+            }
+          }
+        ],
+        "fillGeometry": [],
+        "strokes": [],
+        "strokeWeight": 1,
+        "strokeAlign": "OUTSIDE",
+        "strokeGeometry": [],
+        "absoluteBoundingBox": {
+          "x": 400,
+          "y": 372.5,
+          "width": 35,
+          "height": 15
+        },
+        "absoluteRenderBounds": {
+          "x": 401.302001953125,
+          "y": 375.49798583984375,
+          "width": 32.757598876953125,
+          "height": 9.00201416015625
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "relativeTransform": [[1, 0, 8], [0, 1, 8]],
+        "size": {
+          "x": 35,
+          "y": 15
+        },
+        "layoutAlign": "INHERIT",
+        "layoutGrow": 0,
+        "layoutSizingHorizontal": "HUG",
+        "layoutSizingVertical": "HUG",
+        "characters": "New",
+        "characterStyleOverrides": [],
+        "styleOverrideTable": {},
+        "lineTypes": ["NONE"],
+        "lineIndentations": [0],
+        "style": {
+          "fontFamily": "Nord",
+          "fontPostScriptName": "Nord-Regular",
+          "fontStyle": "Regular",
+          "fontWeight": 400,
+          "textAutoResize": "WIDTH_AND_HEIGHT",
+          "fontSize": 14,
+          "textAlignHorizontal": "LEFT",
+          "textAlignVertical": "TOP",
+          "letterSpacing": 0.84,
+          "lineHeightPx": 14.199999809265137,
+          "lineHeightPercent": 84.5238037109375,
+          "lineHeightPercentFontSize": 101.42857360839844,
+          "lineHeightUnit": "PIXELS"
+        },
+        "layoutVersion": 5,
+        "styles": {
+          "text": "20:6859"
+        },
+        "effects": [],
+        "interactions": [],
+        "complexStrokeProperties": {
+          "strokeType": "BASIC"
+        }
+      }
+    ],
+    "blendMode": "PASS_THROUGH",
+    "clipsContent": false,
+    "background": [],
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "backgroundColor": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 0
+    },
+    "layoutMode": "HORIZONTAL",
+    "counterAxisAlignItems": "CENTER",
+    "primaryAxisAlignItems": "CENTER",
+    "paddingLeft": 8,
+    "paddingRight": 8,
+    "paddingTop": 8,
+    "paddingBottom": 8,
+    "itemSpacing": 8,
+    "layoutWrap": "NO_WRAP",
+    "fillGeometry": [],
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": 392,
+      "y": 364.5,
+      "width": 51,
+      "height": 31
+    },
+    "absoluteRenderBounds": {
+      "x": 392,
+      "y": 364.5,
+      "width": 51,
+      "height": 31
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 96], [0, 1, 0]],
+    "size": {
+      "x": 51,
+      "y": 31
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {
+    "20:6859": {
+      "key": "6a6d536b1ddd2687f85989c2de9915c64d59119f",
+      "name": "Tab",
+      "styleType": "TEXT",
+      "remote": false,
+      "description": ""
+    }
+  }
+}

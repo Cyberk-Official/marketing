@@ -1,0 +1,639 @@
+{
+  "state": "default",
+  "node": "498:14082",
+  "baseline": "default.png",
+  "export_scale": 2,
+  "has_raster_assets": false,
+  "dimensions": {
+    "width": 1128,
+    "height": 349
+  },
+  "css": {
+    "background-color": "rgb(21, 26, 52)",
+    "padding-top": "18px",
+    "padding-right": "18px",
+    "padding-bottom": "18px",
+    "padding-left": "18px",
+    "gap": "24px",
+    "display": "flex",
+    "flex-direction": "column",
+    "align-self": "stretch",
+    "width": "100%",
+    "height": "fit-content",
+    "position": "absolute"
+  },
+  "unsupported": [],
+  "subNodes": [
+    {
+      "id": "498:14088",
+      "name": "restore",
+      "type": "INSTANCE_BOUNDARY",
+      "localBox": {
+        "x": 1089.5,
+        "y": 18,
+        "width": 20,
+        "height": 20
+      },
+      "unsupported": "INSTANCE: separate component instance; compose at parent level"
+    },
+    {
+      "id": "498:14098",
+      "name": "Vector",
+      "type": "VECTOR",
+      "localBox": {
+        "x": 784,
+        "y": 103,
+        "width": 8,
+        "height": 4
+      },
+      "renderBox": {
+        "x": 783.5,
+        "y": 102.5,
+        "width": 9,
+        "height": 5
+      },
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6117647290229797,
+            "g": 0.6392157077789307,
+            "b": 0.686274528503418,
+            "a": 1
+          },
+          "weight": 1,
+          "align": "CENTER"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0.353553 -0.353553C0.158291 -0.548816 -0.158291 -0.548816 -0.353553 -0.353553C-0.548816 -0.158291 -0.548816 0.158291 -0.353553 0.353553L0 0L0.353553 -0.353553ZM4 4L3.64645 4.35355C3.84171 4.54882 4.15829 4.54882 4.35355 4.35355L4 4ZM8.35355 0.353553C8.54882 0.158291 8.54882 -0.158291 8.35355 -0.353553C8.15829 -0.548816 7.84171 -0.548816 7.64645 -0.353553L8 0L8.35355 0.353553ZM0 0L-0.353553 0.353553L3.64645 4.35355L4 4L4.35355 3.64645L0.353553 -0.353553L0 0ZM4 4L4.35355 4.35355L8.35355 0.353553L8 0L7.64645 -0.353553L3.64645 3.64645L4 4Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "vectorAssetUrl": "/figma-assets/e7b2380cd48abac648cc.svg"
+    },
+    {
+      "id": "498:14104",
+      "name": "Vector",
+      "type": "VECTOR",
+      "localBox": {
+        "x": 34,
+        "y": 153,
+        "width": 8,
+        "height": 4
+      },
+      "renderBox": {
+        "x": 33.5,
+        "y": 152.5,
+        "width": 9,
+        "height": 5
+      },
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6117647290229797,
+            "g": 0.6392157077789307,
+            "b": 0.686274528503418,
+            "a": 1
+          },
+          "weight": 1,
+          "align": "CENTER"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0.353553 -0.353553C0.158291 -0.548816 -0.158291 -0.548816 -0.353553 -0.353553C-0.548816 -0.158291 -0.548816 0.158291 -0.353553 0.353553L0 0L0.353553 -0.353553ZM4 4L3.64645 4.35355C3.84171 4.54882 4.15829 4.54882 4.35355 4.35355L4 4ZM8.35355 0.353553C8.54882 0.158291 8.54882 -0.158291 8.35355 -0.353553C8.15829 -0.548816 7.84171 -0.548816 7.64645 -0.353553L8 0L8.35355 0.353553ZM0 0L-0.353553 0.353553L3.64645 4.35355L4 4L4.35355 3.64645L0.353553 -0.353553L0 0ZM4 4L4.35355 4.35355L8.35355 0.353553L8 0L7.64645 -0.353553L3.64645 3.64645L4 4Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "vectorAssetUrl": "/figma-assets/e7b2380cd48abac648cc.svg"
+    },
+    {
+      "id": "498:14117",
+      "name": "Vector",
+      "type": "VECTOR",
+      "localBox": {
+        "x": 34,
+        "y": 205,
+        "width": 8,
+        "height": 4
+      },
+      "renderBox": {
+        "x": 33.5,
+        "y": 204.5,
+        "width": 9,
+        "height": 5
+      },
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6117647290229797,
+            "g": 0.6392157077789307,
+            "b": 0.686274528503418,
+            "a": 1
+          },
+          "weight": 1,
+          "align": "CENTER"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0.353553 -0.353553C0.158291 -0.548816 -0.158291 -0.548816 -0.353553 -0.353553C-0.548816 -0.158291 -0.548816 0.158291 -0.353553 0.353553L0 0L0.353553 -0.353553ZM4 4L3.64645 4.35355C3.84171 4.54882 4.15829 4.54882 4.35355 4.35355L4 4ZM8.35355 0.353553C8.54882 0.158291 8.54882 -0.158291 8.35355 -0.353553C8.15829 -0.548816 7.84171 -0.548816 7.64645 -0.353553L8 0L8.35355 0.353553ZM0 0L-0.353553 0.353553L3.64645 4.35355L4 4L4.35355 3.64645L0.353553 -0.353553L0 0ZM4 4L4.35355 4.35355L8.35355 0.353553L8 0L7.64645 -0.353553L3.64645 3.64645L4 4Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "vectorAssetUrl": "/figma-assets/e7b2380cd48abac648cc.svg"
+    },
+    {
+      "id": "498:14130",
+      "name": "Vector",
+      "type": "VECTOR",
+      "localBox": {
+        "x": 34,
+        "y": 257,
+        "width": 8,
+        "height": 4
+      },
+      "renderBox": {
+        "x": 33.5,
+        "y": 256.5,
+        "width": 9,
+        "height": 5
+      },
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.6117647290229797,
+            "g": 0.6392157077789307,
+            "b": 0.686274528503418,
+            "a": 1
+          },
+          "weight": 1,
+          "align": "CENTER"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0.353553 -0.353553C0.158291 -0.548816 -0.158291 -0.548816 -0.353553 -0.353553C-0.548816 -0.158291 -0.548816 0.158291 -0.353553 0.353553L0 0L0.353553 -0.353553ZM4 4L3.64645 4.35355C3.84171 4.54882 4.15829 4.54882 4.35355 4.35355L4 4ZM8.35355 0.353553C8.54882 0.158291 8.54882 -0.158291 8.35355 -0.353553C8.15829 -0.548816 7.84171 -0.548816 7.64645 -0.353553L8 0L8.35355 0.353553ZM0 0L-0.353553 0.353553L3.64645 4.35355L4 4L4.35355 3.64645L0.353553 -0.353553L0 0ZM4 4L4.35355 4.35355L8.35355 0.353553L8 0L7.64645 -0.353553L3.64645 3.64645L4 4Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "vectorAssetUrl": "/figma-assets/e7b2380cd48abac648cc.svg"
+    },
+    {
+      "id": "498:14141",
+      "name": "add",
+      "type": "INSTANCE_BOUNDARY",
+      "localBox": {
+        "x": 18,
+        "y": 307,
+        "width": 24,
+        "height": 24
+      },
+      "unsupported": "INSTANCE: separate component instance; compose at parent level"
+    }
+  ],
+  "textNodes": [
+    {
+      "id": "498:14084",
+      "name": "Gradual sell strategy",
+      "localBox": {
+        "x": 18,
+        "y": 18,
+        "width": 215,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "Gradual sell strategy"
+    },
+    {
+      "id": "498:14085",
+      "name": "Reduce market impact by selling as a liquidity provider.",
+      "localBox": {
+        "x": 18,
+        "y": 41,
+        "width": 1092,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Reduce market impact by selling as a liquidity provider."
+    },
+    {
+      "id": "498:14087",
+      "name": "History",
+      "localBox": {
+        "x": 1034.5,
+        "y": 19,
+        "width": 47,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "History"
+    },
+    {
+      "id": "498:14092",
+      "name": "Price range",
+      "localBox": {
+        "x": 30,
+        "y": 97.5,
+        "width": 97,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.72
+      },
+      "characters": "Price range"
+    },
+    {
+      "id": "498:14094",
+      "name": "SELL Amount",
+      "localBox": {
+        "x": 492,
+        "y": 97.5,
+        "width": 98,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.72
+      },
+      "characters": "SELL Amount"
+    },
+    {
+      "id": "498:14096",
+      "name": "Remaining",
+      "localBox": {
+        "x": 698,
+        "y": 97.5,
+        "width": 78,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.72
+      },
+      "characters": "Remaining"
+    },
+    {
+      "id": "498:14100",
+      "name": "Action",
+      "localBox": {
+        "x": 1042,
+        "y": 97.5,
+        "width": 52,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 12,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.72
+      },
+      "characters": "Action"
+    },
+    {
+      "id": "498:14105",
+      "name": "3601.345 - 3601.345",
+      "localBox": {
+        "x": 52,
+        "y": 146,
+        "width": 130,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "3601.345 - 3601.345"
+    },
+    {
+      "id": "498:14107",
+      "name": "45.30K",
+      "localBox": {
+        "x": 492,
+        "y": 146,
+        "width": 47,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "45.30K"
+    },
+    {
+      "id": "498:14109",
+      "name": "30.1K",
+      "localBox": {
+        "x": 699,
+        "y": 146,
+        "width": 34,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "30.1K"
+    },
+    {
+      "id": "498:14111",
+      "name": "Remove LP",
+      "localBox": {
+        "x": 935,
+        "y": 146,
+        "width": 73,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Remove LP"
+    },
+    {
+      "id": "498:14113",
+      "name": "Claim USD",
+      "localBox": {
+        "x": 1024,
+        "y": 146,
+        "width": 70,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Claim USD"
+    },
+    {
+      "id": "498:14118",
+      "name": "3601.345 - 3601.345",
+      "localBox": {
+        "x": 52,
+        "y": 198,
+        "width": 130,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "3601.345 - 3601.345"
+    },
+    {
+      "id": "498:14120",
+      "name": "45.30K",
+      "localBox": {
+        "x": 492,
+        "y": 198,
+        "width": 47,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "45.30K"
+    },
+    {
+      "id": "498:14122",
+      "name": "30.1K",
+      "localBox": {
+        "x": 699,
+        "y": 198,
+        "width": 34,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "30.1K"
+    },
+    {
+      "id": "498:14124",
+      "name": "Remove LP",
+      "localBox": {
+        "x": 935,
+        "y": 198,
+        "width": 73,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Remove LP"
+    },
+    {
+      "id": "498:14126",
+      "name": "Claim USD",
+      "localBox": {
+        "x": 1024,
+        "y": 198,
+        "width": 70,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Claim USD"
+    },
+    {
+      "id": "498:14131",
+      "name": "3601.345 - 3601.345",
+      "localBox": {
+        "x": 52,
+        "y": 250,
+        "width": 130,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "3601.345 - 3601.345"
+    },
+    {
+      "id": "498:14133",
+      "name": "45.30K",
+      "localBox": {
+        "x": 492,
+        "y": 250,
+        "width": 47,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "45.30K"
+    },
+    {
+      "id": "498:14135",
+      "name": "30.1K",
+      "localBox": {
+        "x": 699,
+        "y": 250,
+        "width": 34,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "30.1K"
+    },
+    {
+      "id": "498:14137",
+      "name": "Remove LP",
+      "localBox": {
+        "x": 935,
+        "y": 250,
+        "width": 73,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Remove LP"
+    },
+    {
+      "id": "498:14139",
+      "name": "Claim USD",
+      "localBox": {
+        "x": 1024,
+        "y": 250,
+        "width": 70,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Claim USD"
+    },
+    {
+      "id": "498:14142",
+      "name": "Add Sell Token",
+      "localBox": {
+        "x": 50,
+        "y": 310,
+        "width": 95,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Add Sell Token"
+    }
+  ]
+}

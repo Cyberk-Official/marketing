@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "8cf6d95b-ba0e-4595-9bac-b558c79df891",
+  "timestamp": "2026-04-24T07:59:18.853Z",
+  "kind": "component",
+  "component": "creator-token-tabs",
+  "state": "default",
+  "story": "features-creator-ui-creator-token-tabs--default",
+  "selector": "[data-testid=\"creator-token-tabs\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": "10519540cf639c21baa2cf6b19abe663c0f799cef267e84986a08a611001b432"
+}

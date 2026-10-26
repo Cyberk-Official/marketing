@@ -1,0 +1,82 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:33.418Z",
+  "document": {
+    "id": "1418:1899",
+    "name": "Footer Text",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.566237211227417,
+          "g": 0.566237211227417,
+          "b": 0.566237211227417,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 0.800000011920929,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -2129,
+      "y": 29362,
+      "width": 200,
+      "height": 19
+    },
+    "absoluteRenderBounds": {
+      "x": -2128.7900390625,
+      "y": 29366.892578125,
+      "width": 198.90380859375,
+      "height": 13.103515625
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 0]],
+    "size": {
+      "x": 200,
+      "y": 19
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "All copyrights reserved by Cyberk",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 14,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 18.899999618530273,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "layoutVersion": 4,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

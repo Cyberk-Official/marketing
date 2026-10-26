@@ -1,0 +1,82 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:33.420Z",
+  "document": {
+    "id": "1418:5107",
+    "name": "Footer Link",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.44354718923568726,
+          "g": 0.4402652084827423,
+          "b": 0.4402652084827423,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": 3061,
+      "y": 26147.751953125,
+      "width": 60,
+      "height": 20
+    },
+    "absoluteRenderBounds": {
+      "x": 3062.0400390625,
+      "y": 26150.767578125,
+      "width": 57.820068359375,
+      "height": 12.255859375
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 36]],
+    "size": {
+      "x": 60,
+      "y": 20
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "Service",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Sora",
+      "fontPostScriptName": "Sora-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.16,
+      "lineHeightPx": 20.15999984741211,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "layoutVersion": 4,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

@@ -1,0 +1,84 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:08.968Z",
+  "document": {
+    "id": "1418:2403",
+    "name": "Title",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": -13077.5,
+      "y": 25133,
+      "width": 465,
+      "height": 58
+    },
+    "absoluteRenderBounds": {
+      "x": -13073.13671875,
+      "y": 25145.0078125,
+      "width": 458.609375,
+      "height": 35.568359375
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 367.5], [0, 1, 0]],
+    "size": {
+      "x": 465,
+      "y": 58
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "Ride With Confidence",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textCase": "TITLE",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 48,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 57.60000228881836,
+      "lineHeightPercent": 88.8888931274414,
+      "lineHeightPercentFontSize": 120.00000762939453,
+      "lineHeightUnit": "FONT_SIZE_%"
+    },
+    "layoutVersion": 5,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

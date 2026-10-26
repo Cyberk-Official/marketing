@@ -1,0 +1,405 @@
+{
+  "state": "default",
+  "node": "501:14539",
+  "baseline": "default.png",
+  "export_scale": 2,
+  "has_raster_assets": true,
+  "dimensions": {
+    "width": 1128,
+    "height": 119
+  },
+  "css": {
+    "padding-top": "0px",
+    "padding-right": "0px",
+    "padding-bottom": "0px",
+    "padding-left": "0px",
+    "gap": "12px",
+    "display": "flex",
+    "flex-direction": "column",
+    "align-self": "stretch",
+    "width": "100%",
+    "height": "fit-content",
+    "position": "absolute"
+  },
+  "unsupported": [],
+  "subNodes": [
+    {
+      "id": "611:13851",
+      "name": "Rectangle 8",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 935,
+        "y": 75,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "ba5f50a3a407381d3b4092ec49187ad097e44870",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/ba5f50a3a407381d3b4092ec49187ad097e44870.png"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    },
+    {
+      "id": "611:13852",
+      "name": "Rectangle 7",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 951,
+        "y": 75,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "97df00f4b398893458d8dba4f65fe5a81db44afd",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/97df00f4b398893458d8dba4f65fe5a81db44afd.png"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    },
+    {
+      "id": "611:13853",
+      "name": "Rectangle 9",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 967,
+        "y": 75,
+        "width": 24,
+        "height": 24
+      },
+      "renderBox": {
+        "x": 965,
+        "y": 73,
+        "width": 28,
+        "height": 28
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "2c0ac919ed147b1b78e70c626e2dfb21eb161f36",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/2c0ac919ed147b1b78e70c626e2dfb21eb161f36.png"
+        }
+      ],
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0,
+            "g": 0.7058823704719543,
+            "b": 0.3764705955982208,
+            "a": 1
+          },
+          "opacity": 0.5,
+          "weight": 2,
+          "align": "OUTSIDE"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 12C0 5.37258 5.37258 0 12 0L12 0C18.6274 0 24 5.37258 24 12L24 12C24 18.6274 18.6274 24 12 24L12 24C5.37258 24 0 18.6274 0 12L0 12Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0 12M24 12M24 12M0 12M12 0M24 12M12 24M0 12M12 24L12 22C6.47715 22 2 17.5228 2 12L0 12L-2 12C-2 19.732 4.26801 26 12 26L12 24ZM24 12L22 12C22 17.5228 17.5228 22 12 22L12 24L12 26C19.732 26 26 19.732 26 12L24 12ZM12 0L12 2C17.5228 2 22 6.47715 22 12L24 12L26 12C26 4.26801 19.732 -2 12 -2L12 0ZM12 0L12 -2C4.26801 -2 -2 4.26801 -2 12L0 12L2 12C2 6.47715 6.47715 2 12 2L12 0Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    }
+  ],
+  "textNodes": [
+    {
+      "id": "501:14540",
+      "name": "Header Title",
+      "localBox": {
+        "x": 0,
+        "y": 0,
+        "width": 85,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "Overview"
+    },
+    {
+      "id": "501:14544",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 20,
+        "y": 47,
+        "width": 92,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Coins Created"
+    },
+    {
+      "id": "501:14545",
+      "name": "Stat Value",
+      "localBox": {
+        "x": 20,
+        "y": 75,
+        "width": 92,
+        "height": 24
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 24.4,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "3",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 24.4px. Pin CSS with `leading-[24px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14549",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 202.6669921875,
+        "y": 47,
+        "width": 95,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Treasury Value"
+    },
+    {
+      "id": "501:14550",
+      "name": "Stat Value",
+      "localBox": {
+        "x": 202.6669921875,
+        "y": 75,
+        "width": 95,
+        "height": 24
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 24.4,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "$500,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 24.4px. Pin CSS with `leading-[24px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14559",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 385.3330078125,
+        "y": 47,
+        "width": 114,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Total Fees Earned"
+    },
+    {
+      "id": "501:14560",
+      "name": "Stat Value",
+      "localBox": {
+        "x": 385.3330078125,
+        "y": 75,
+        "width": 114,
+        "height": 24
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 24.4,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "$10,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 24.4px. Pin CSS with `leading-[24px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14564",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 568,
+        "y": 47,
+        "width": 149,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Claim Fees"
+    },
+    {
+      "id": "501:14565",
+      "name": "Stat Value",
+      "localBox": {
+        "x": 568,
+        "y": 75,
+        "width": 149,
+        "height": 24
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 24.4,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "$10,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 24.4px. Pin CSS with `leading-[24px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14568",
+      "name": "Claim all",
+      "localBox": {
+        "x": 745,
+        "y": 64.5,
+        "width": 57,
+        "height": 17
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 600,
+        "fontSize": 14,
+        "lineHeightPx": 17.08,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "Claim all",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 17.08px. Pin CSS with `leading-[17px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~3px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "611:13821",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 866,
+        "y": 47,
+        "width": 87,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Token Unlock"
+    },
+    {
+      "id": "611:13822",
+      "name": "Stat Value",
+      "localBox": {
+        "x": 866,
+        "y": 75,
+        "width": 65,
+        "height": 24
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 24.4,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "10,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 24.4px. Pin CSS with `leading-[24px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "611:13825",
+      "name": "Claim all",
+      "localBox": {
+        "x": 1043,
+        "y": 64.5,
+        "width": 57,
+        "height": 17
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 600,
+        "fontSize": 14,
+        "lineHeightPx": 17.08,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "Claim all",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 17.08px. Pin CSS with `leading-[17px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~3px per line (direction depends on stacking)."
+      ]
+    }
+  ]
+}

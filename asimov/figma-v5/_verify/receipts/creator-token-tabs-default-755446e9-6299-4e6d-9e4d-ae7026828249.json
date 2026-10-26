@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "receipt_id": "755446e9-6299-4e6d-9e4d-ae7026828249",
+  "timestamp": "2026-04-24T10:26:26.167Z",
+  "kind": "component",
+  "component": "creator-token-tabs",
+  "state": "default",
+  "story": "features-creator-ui-creator-token-tabs--default",
+  "selector": "[data-testid=\"creator-token-tabs\"]",
+  "gate_results": {
+    "measurement": "pass",
+    "visual": "pass"
+  },
+  "aggregate_status": "pass",
+  "thresholds_hash": "fa3c75c1c05f8b06",
+  "tol_scale": 1,
+  "signature": "a5d6d9c664b7bc0622ff8517a3a0d87d4d22964c69e62b7a372173d6e9959731"
+}

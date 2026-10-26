@@ -1,0 +1,25 @@
+{
+  "cachedAt": "2026-04-27T23:36:02.319Z",
+  "content": [
+    {
+      "type": "text",
+      "text": "const imgLine874 = \"https://www.figma.com/api/mcp/asset/c0d317fb-bbe0-425e-a41f-7ffd6ed52759\";\n\nexport default function StatContainer() {\n  return (\n    <div className=\"bg-[var(--dark-2,#151a34)] content-stretch flex flex-col gap-[20px] items-start p-[20px] relative rounded-[4px] size-full\" data-node-id=\"484:55065\" data-name=\"Stat Container\">\n      <div className=\"content-stretch flex flex-col gap-[10px] items-start relative shrink-0\" data-node-id=\"484:55066\" data-name=\"stats\">\n        <p className=\"font-['Instrument_Sans:Regular',sans-serif] font-normal leading-[18px] relative shrink-0 text-[14px] text-[color:var(--grey-2,#5e698b)] w-full\" data-node-id=\"484:55067\" style={{ fontVariationSettings: \"'wdth' 100\" }}>\n          Total Staked\n        </p>\n        <p className=\"font-['Instrument_Sans:Medium',sans-serif] font-medium leading-[normal] relative shrink-0 text-[20px] text-white w-full\" data-node-id=\"484:55068\" style={{ fontVariationSettings: \"'wdth' 100\" }}>\n          0\n        </p>\n      </div>\n      <p className=\"font-['Instrument_Sans:Regular',sans-serif] font-normal leading-[16px] min-w-full relative shrink-0 text-[12px] text-[color:var(--grey-1,#a7b8ee)] w-[min-content]\" data-node-id=\"484:55069\" style={{ fontVariationSettings: \"'wdth' 100\" }}>\n        AOL\n      </p>\n      <div className=\"absolute flex h-[17px] items-center justify-center left-0 top-[16px] w-0\">\n        <div className=\"flex-none rotate-90\">\n          <div className=\"h-0 relative w-[17px]\" data-node-id=\"484:55070\">\n            <div className=\"absolute inset-[-2px_0_0_0]\">\n              <img alt=\"\" className=\"block max-w-none size-full\" src={imgLine874} />\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  );\n}"
+    },
+    {
+      "type": "text",
+      "text": "SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.\n1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens\n2. Convert React syntax to the target framework/library\n3. Transform all Tailwind classes to the target styling system while preserving exact visual design\n4. Follow the project's existing patterns and conventions\nDO NOT install any Tailwind as a dependency unless the user instructs you to do so.\n"
+    },
+    {
+      "type": "text",
+      "text": "Node ids have been added to the code as data attributes, e.g. `data-node-id=\"1:2\"`."
+    },
+    {
+      "type": "text",
+      "text": "These styles are contained in the design: Base Regular: Font(family: \"Instrument Sans\", style: Regular, size: 14, weight: 400, lineHeight: 18, letterSpacing: 0), White-b: #FFFFFF, H5: Font(family: \"Instrument Sans\", style: Medium, size: 20, weight: 500, lineHeight: 100, letterSpacing: 0), sm: Font(family: \"Instrument Sans\", style: Regular, size: 12, weight: 400, lineHeight: 16, letterSpacing: 0)."
+    },
+    {
+      "type": "text",
+      "text": "Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire."
+    }
+  ]
+}

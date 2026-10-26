@@ -1,0 +1,576 @@
+<!-- cachedAt: 2026-04-27T23:49:22.644Z -->
+<frame id="483:41381" name="Home _ Card" x="0" y="-21" width="1440" height="1396">
+  <rounded-rectangle id="483:41382" name="Rectangle 928428" x="280" y="676" width="1160" height="165" />
+  <symbol id="518:11437" name="header" x="280" y="0" width="1160" height="68" />
+  <text id="483:41393" name="Text" x="70" y="45" width="0" height="15" />
+  <symbol id="582:11506" name="sidebar" x="0" y="0" width="280" height="1396" />
+  <frame id="483:41433" name="SECTION" x="296" y="93" width="819" height="276">
+    <frame id="483:41434" name="tab" x="0" y="0" width="819" height="276">
+      <frame id="483:41435" name="title" x="0" y="0" width="141" height="15">
+        <text id="483:41436" name="TRENDING COINS" x="0" y="0" width="141" height="15" />
+        <frame id="483:41437" name="Frame 1" x="161" y="-9" width="68" height="32">
+          <frame id="483:41438" name="next" x="32" y="0" width="32" height="32">
+            <instance id="483:41439" name="arrow-right-01-sharp" x="4" y="4" width="24" height="24" />
+          </frame>
+          <frame id="483:41440" name="next" x="36" y="0" width="32" height="32">
+            <instance id="483:41441" name="arrow-right-01-sharp" x="4" y="4" width="24" height="24" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="483:41442" name="list" x="0" y="31" width="819" height="245">
+        <frame id="483:41443" name="card" x="0" y="0" width="232" height="245">
+          <rounded-rectangle id="483:41444" name="Rectangle 7" x="0" y="0" width="232" height="232" />
+          <frame id="483:41445" name="AMOUNT" x="144" y="12" width="74" height="38">
+            <text id="483:41446" name="$1.87M" x="8" y="8" width="58" height="22" />
+          </frame>
+          <rounded-rectangle id="483:41447" name="Rectangle 928359" x="0" y="-5.684341886080802e-14" width="234.849609375" height="245" />
+          <rounded-rectangle id="483:41448" name="image 17" x="200" y="191" width="42" height="42" />
+          <frame id="483:41449" name="image 10 [Vectorized]" x="11" y="12" width="89.82929992675781" height="26">
+            <frame id="483:41450" name="ICON" x="6" y="7.036041259765625" width="9.829302787780762" height="11.92791748046875" />
+            <text id="483:41454" name="High Cap" x="23.829303741455078" y="4" width="60" height="18" />
+          </frame>
+          <frame id="483:41455" name="info" x="0" y="133.659912109375" width="232" height="111.340087890625">
+            <frame id="483:41456" name="name" x="8" y="8" width="108.86921691894531" height="20">
+              <frame id="483:41457" name="name" x="0" y="0" width="108.86921691894531" height="20">
+                <frame id="483:41458" name="name" x="0" y="0" width="108.86921691894531" height="20">
+                  <text id="483:41459" name="GRIFFIN" x="0" y="0" width="62" height="20" />
+                  <text id="483:41460" name="$GRF" x="65.86921691894531" y="0" width="43" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="483:41461" name="Griffin is a decentralized platform leveraging blockchain to empower creators and collectors with innovative tools." x="8" y="32" width="216" height="32.340087890625" />
+            <frame id="483:41462" name="progress" x="8" y="68.340087890625" width="216" height="35">
+              <frame id="483:41463" name="progress" x="0" y="8" width="216" height="12">
+                <rounded-rectangle id="483:41464" name="Rectangle 928358" x="0" y="0" width="145" height="12" />
+                <rounded-rectangle id="483:41465" name="Rectangle 928361" x="0" y="0" width="161" height="12" />
+              </frame>
+              <frame id="483:41466" name="ruler" x="0" y="30" width="216" height="5">
+                <frame id="483:41467" name="ruler" x="0" y="0" width="216" height="5">
+                  <line id="483:41468" name="Line 786" x="-6.617444900424222e-24" y="0" width="0" height="5" />
+                  <line id="483:41469" name="Line 787" x="2.700000047683716" y="0" width="0" height="5" />
+                  <line id="483:41470" name="Line 788" x="5.400000095367432" y="0" width="0" height="5" />
+                  <line id="483:41471" name="Line 789" x="8.100000381469727" y="0" width="0" height="5" />
+                  <line id="483:41472" name="Line 790" x="10.800000190734863" y="0" width="0" height="5" />
+                  <line id="483:41473" name="Line 791" x="13.5" y="0" width="0" height="5" />
+                  <line id="483:41474" name="Line 792" x="16.200000762939453" y="0" width="0" height="5" />
+                  <line id="483:41475" name="Line 793" x="18.900001525878906" y="0" width="0" height="5" />
+                  <line id="483:41476" name="Line 794" x="21.60000228881836" y="0" width="0" height="5" />
+                  <line id="483:41477" name="Line 795" x="24.300003051757812" y="0" width="0" height="5" />
+                  <line id="483:41478" name="Line 796" x="27.000003814697266" y="0" width="0" height="5" />
+                  <line id="483:41479" name="Line 797" x="29.70000457763672" y="0" width="0" height="5" />
+                  <line id="483:41480" name="Line 798" x="32.40000534057617" y="0" width="0" height="5" />
+                  <line id="483:41481" name="Line 799" x="35.100006103515625" y="0" width="0" height="5" />
+                  <line id="483:41482" name="Line 800" x="37.80000686645508" y="0" width="0" height="5" />
+                  <line id="483:41483" name="Line 801" x="40.50000762939453" y="0" width="0" height="5" />
+                  <line id="483:41484" name="Line 802" x="43.200008392333984" y="0" width="0" height="5" />
+                  <line id="483:41485" name="Line 803" x="45.90000915527344" y="0" width="0" height="5" />
+                  <line id="483:41486" name="Line 804" x="48.60000991821289" y="0" width="0" height="5" />
+                  <line id="483:41487" name="Line 805" x="51.300010681152344" y="0" width="0" height="5" />
+                  <line id="483:41488" name="Line 806" x="54.0000114440918" y="0" width="0" height="5" />
+                  <line id="483:41489" name="Line 807" x="56.70001220703125" y="0" width="0" height="5" />
+                  <line id="483:41490" name="Line 808" x="59.4000129699707" y="0" width="0" height="5" />
+                  <line id="483:41491" name="Line 809" x="62.100013732910156" y="0" width="0" height="5" />
+                  <line id="483:41492" name="Line 810" x="64.80001068115234" y="0" width="0" height="5" />
+                  <line id="483:41493" name="Line 811" x="67.50000762939453" y="0" width="0" height="5" />
+                  <line id="483:41494" name="Line 812" x="70.20000457763672" y="0" width="0" height="5" />
+                  <line id="483:41495" name="Line 813" x="72.9000015258789" y="0" width="0" height="5" />
+                  <line id="483:41496" name="Line 814" x="75.5999984741211" y="0" width="0" height="5" />
+                  <line id="483:41497" name="Line 815" x="78.29999542236328" y="0" width="0" height="5" />
+                  <line id="483:41498" name="Line 816" x="80.99999237060547" y="0" width="0" height="5" />
+                  <line id="483:41499" name="Line 817" x="83.69998931884766" y="0" width="0" height="5" />
+                  <line id="483:41500" name="Line 818" x="86.39998626708984" y="0" width="0" height="5" />
+                  <line id="483:41501" name="Line 819" x="89.09998321533203" y="0" width="0" height="5" />
+                  <line id="483:41502" name="Line 820" x="91.79998016357422" y="0" width="0" height="5" />
+                  <line id="483:41503" name="Line 821" x="94.4999771118164" y="0" width="0" height="5" />
+                  <line id="483:41504" name="Line 822" x="97.1999740600586" y="0" width="0" height="5" />
+                  <line id="483:41505" name="Line 823" x="99.89997100830078" y="0" width="0" height="5" />
+                  <line id="483:41506" name="Line 824" x="102.59996795654297" y="0" width="0" height="5" />
+                  <line id="483:41507" name="Line 825" x="105.29996490478516" y="0" width="0" height="5" />
+                  <line id="483:41508" name="Line 826" x="107.99996185302734" y="0" width="0" height="5" />
+                  <line id="483:41509" name="Line 827" x="110.69995880126953" y="0" width="0" height="5" />
+                  <line id="483:41510" name="Line 828" x="113.39995574951172" y="0" width="0" height="5" />
+                  <line id="483:41511" name="Line 829" x="116.0999526977539" y="0" width="0" height="5" />
+                  <line id="483:41512" name="Line 830" x="118.7999496459961" y="0" width="0" height="5" />
+                  <line id="483:41513" name="Line 831" x="121.49994659423828" y="0" width="0" height="5" />
+                  <line id="483:41514" name="Line 832" x="124.19994354248047" y="0" width="0" height="5" />
+                  <line id="483:41515" name="Line 833" x="126.89994049072266" y="0" width="0" height="5" />
+                  <line id="483:41516" name="Line 834" x="129.59994506835938" y="0" width="0" height="5" />
+                  <line id="483:41517" name="Line 835" x="132.29994201660156" y="0" width="0" height="5" />
+                  <line id="483:41518" name="Line 836" x="134.99993896484375" y="0" width="0" height="5" />
+                  <line id="483:41519" name="Line 837" x="137.69993591308594" y="0" width="0" height="5" />
+                  <line id="483:41520" name="Line 838" x="140.39993286132812" y="0" width="0" height="5" />
+                  <line id="483:41521" name="Line 839" x="143.0999298095703" y="0" width="0" height="5" />
+                  <line id="483:41522" name="Line 840" x="145.7999267578125" y="0" width="0" height="5" />
+                  <line id="483:41523" name="Line 841" x="148.4999237060547" y="0" width="0" height="5" />
+                  <line id="483:41524" name="Line 842" x="151.19992065429688" y="0" width="0" height="5" />
+                  <line id="483:41525" name="Line 843" x="153.89991760253906" y="0" width="0" height="5" />
+                  <line id="483:41526" name="Line 844" x="156.59991455078125" y="0" width="0" height="5" />
+                  <line id="483:41527" name="Line 845" x="159.29991149902344" y="0" width="0" height="5" />
+                  <line id="483:41528" name="Line 846" x="161.99990844726562" y="0" width="0" height="5" />
+                  <line id="483:41529" name="Line 847" x="164.6999053955078" y="0" width="0" height="5" />
+                  <line id="483:41530" name="Line 848" x="167.39990234375" y="0" width="0" height="5" />
+                  <line id="483:41531" name="Line 849" x="170.0998992919922" y="0" width="0" height="5" />
+                  <line id="483:41532" name="Line 850" x="172.79989624023438" y="0" width="0" height="5" />
+                  <line id="483:41533" name="Line 851" x="175.49989318847656" y="0" width="0" height="5" />
+                  <line id="483:41534" name="Line 852" x="178.19989013671875" y="0" width="0" height="5" />
+                  <line id="483:41535" name="Line 853" x="180.89988708496094" y="0" width="0" height="5" />
+                  <line id="483:41536" name="Line 854" x="183.59988403320312" y="0" width="0" height="5" />
+                  <line id="483:41537" name="Line 855" x="186.2998809814453" y="0" width="0" height="5" />
+                  <line id="483:41538" name="Line 856" x="188.9998779296875" y="0" width="0" height="5" />
+                  <line id="483:41539" name="Line 857" x="191.6998748779297" y="0" width="0" height="5" />
+                  <line id="483:41540" name="Line 858" x="194.39987182617188" y="0" width="0" height="5" />
+                  <line id="483:41541" name="Line 859" x="197.09986877441406" y="0" width="0" height="5" />
+                  <line id="483:41542" name="Line 860" x="199.79986572265625" y="0" width="0" height="5" />
+                  <line id="483:41543" name="Line 861" x="202.49986267089844" y="0" width="0" height="5" />
+                  <line id="483:41544" name="Line 862" x="205.19985961914062" y="0" width="0" height="5" />
+                  <line id="483:41545" name="Line 863" x="207.8998565673828" y="0" width="0" height="5" />
+                  <line id="483:41546" name="Line 864" x="210.599853515625" y="0" width="0" height="5" />
+                  <line id="483:41547" name="Line 865" x="213.2998504638672" y="0" width="0" height="5" />
+                  <line id="483:41548" name="Line 866" x="215.99984741210938" y="0" width="0" height="5" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="483:41553" name="card" x="240" y="0" width="231" height="245">
+          <rounded-rectangle id="483:41554" name="Rectangle 7" x="0" y="0" width="230.7001953125" height="230.7001953125" />
+          <rounded-rectangle id="483:41555" name="Rectangle 928359" x="-1.8189894035458565e-12" y="-5.684341886080802e-14" width="231" height="245" />
+          <frame id="483:41556" name="info" x="0" y="133.659912109375" width="231" height="111.340087890625">
+            <rounded-rectangle id="483:41557" name="image 17" x="201" y="64.340087890625" width="42" height="42" />
+            <frame id="483:41558" name="name" x="8" y="8" width="99.86921691894531" height="20">
+              <frame id="483:41559" name="name" x="0" y="0" width="99.86921691894531" height="20">
+                <frame id="483:41560" name="name" x="0" y="0" width="99.86921691894531" height="20">
+                  <text id="483:41561" name="ASTRA" x="0" y="0" width="54" height="20" />
+                  <text id="483:41562" name="$AST" x="57.86922073364258" y="0" width="42" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="483:41563" name="Astra is a cutting-edge space exploration initiative utilizing AI to enhance research and discovery missions." x="8" y="32" width="215" height="32.340087890625" />
+            <frame id="483:41564" name="progress" x="8" y="68.340087890625" width="215" height="35">
+              <frame id="483:41565" name="progress" x="0" y="8" width="215" height="12">
+                <rounded-rectangle id="483:41566" name="Rectangle 928358" x="0" y="0" width="145" height="12" />
+                <rounded-rectangle id="483:41567" name="Rectangle 928361" x="0" y="0" width="201.69647216796875" height="12" />
+              </frame>
+              <frame id="483:41568" name="ruler" x="0" y="30" width="215" height="5">
+                <frame id="483:41569" name="ruler" x="0" y="0" width="215" height="5">
+                  <line id="483:41570" name="Line 786" x="-6.617444900424222e-24" y="0" width="0" height="5" />
+                  <line id="483:41571" name="Line 787" x="2.6875" y="0" width="0" height="5" />
+                  <line id="483:41572" name="Line 788" x="5.375" y="0" width="0" height="5" />
+                  <line id="483:41573" name="Line 789" x="8.0625" y="0" width="0" height="5" />
+                  <line id="483:41574" name="Line 790" x="10.75" y="0" width="0" height="5" />
+                  <line id="483:41575" name="Line 791" x="13.4375" y="0" width="0" height="5" />
+                  <line id="483:41576" name="Line 792" x="16.125" y="0" width="0" height="5" />
+                  <line id="483:41577" name="Line 793" x="18.8125" y="0" width="0" height="5" />
+                  <line id="483:41578" name="Line 794" x="21.5" y="0" width="0" height="5" />
+                  <line id="483:41579" name="Line 795" x="24.1875" y="0" width="0" height="5" />
+                  <line id="483:41580" name="Line 796" x="26.875" y="0" width="0" height="5" />
+                  <line id="483:41581" name="Line 797" x="29.5625" y="0" width="0" height="5" />
+                  <line id="483:41582" name="Line 798" x="32.25" y="0" width="0" height="5" />
+                  <line id="483:41583" name="Line 799" x="34.9375" y="0" width="0" height="5" />
+                  <line id="483:41584" name="Line 800" x="37.625" y="0" width="0" height="5" />
+                  <line id="483:41585" name="Line 801" x="40.3125" y="0" width="0" height="5" />
+                  <line id="483:41586" name="Line 802" x="43" y="0" width="0" height="5" />
+                  <line id="483:41587" name="Line 803" x="45.6875" y="0" width="0" height="5" />
+                  <line id="483:41588" name="Line 804" x="48.375" y="0" width="0" height="5" />
+                  <line id="483:41589" name="Line 805" x="51.0625" y="0" width="0" height="5" />
+                  <line id="483:41590" name="Line 806" x="53.75" y="0" width="0" height="5" />
+                  <line id="483:41591" name="Line 807" x="56.4375" y="0" width="0" height="5" />
+                  <line id="483:41592" name="Line 808" x="59.125" y="0" width="0" height="5" />
+                  <line id="483:41593" name="Line 809" x="61.8125" y="0" width="0" height="5" />
+                  <line id="483:41594" name="Line 810" x="64.5" y="0" width="0" height="5" />
+                  <line id="483:41595" name="Line 811" x="67.1875" y="0" width="0" height="5" />
+                  <line id="483:41596" name="Line 812" x="69.875" y="0" width="0" height="5" />
+                  <line id="483:41597" name="Line 813" x="72.5625" y="0" width="0" height="5" />
+                  <line id="483:41598" name="Line 814" x="75.25" y="0" width="0" height="5" />
+                  <line id="483:41599" name="Line 815" x="77.9375" y="0" width="0" height="5" />
+                  <line id="483:41600" name="Line 816" x="80.625" y="0" width="0" height="5" />
+                  <line id="483:41601" name="Line 817" x="83.3125" y="0" width="0" height="5" />
+                  <line id="483:41602" name="Line 818" x="86" y="0" width="0" height="5" />
+                  <line id="483:41603" name="Line 819" x="88.6875" y="0" width="0" height="5" />
+                  <line id="483:41604" name="Line 820" x="91.375" y="0" width="0" height="5" />
+                  <line id="483:41605" name="Line 821" x="94.0625" y="0" width="0" height="5" />
+                  <line id="483:41606" name="Line 822" x="96.75" y="0" width="0" height="5" />
+                  <line id="483:41607" name="Line 823" x="99.4375" y="0" width="0" height="5" />
+                  <line id="483:41608" name="Line 824" x="102.125" y="0" width="0" height="5" />
+                  <line id="483:41609" name="Line 825" x="104.8125" y="0" width="0" height="5" />
+                  <line id="483:41610" name="Line 826" x="107.5" y="0" width="0" height="5" />
+                  <line id="483:41611" name="Line 827" x="110.1875" y="0" width="0" height="5" />
+                  <line id="483:41612" name="Line 828" x="112.875" y="0" width="0" height="5" />
+                  <line id="483:41613" name="Line 829" x="115.5625" y="0" width="0" height="5" />
+                  <line id="483:41614" name="Line 830" x="118.25" y="0" width="0" height="5" />
+                  <line id="483:41615" name="Line 831" x="120.9375" y="0" width="0" height="5" />
+                  <line id="483:41616" name="Line 832" x="123.625" y="0" width="0" height="5" />
+                  <line id="483:41617" name="Line 833" x="126.3125" y="0" width="0" height="5" />
+                  <line id="483:41618" name="Line 834" x="129" y="0" width="0" height="5" />
+                  <line id="483:41619" name="Line 835" x="131.6875" y="0" width="0" height="5" />
+                  <line id="483:41620" name="Line 836" x="134.375" y="0" width="0" height="5" />
+                  <line id="483:41621" name="Line 837" x="137.0625" y="0" width="0" height="5" />
+                  <line id="483:41622" name="Line 838" x="139.75" y="0" width="0" height="5" />
+                  <line id="483:41623" name="Line 839" x="142.4375" y="0" width="0" height="5" />
+                  <line id="483:41624" name="Line 840" x="145.125" y="0" width="0" height="5" />
+                  <line id="483:41625" name="Line 841" x="147.8125" y="0" width="0" height="5" />
+                  <line id="483:41626" name="Line 842" x="150.5" y="0" width="0" height="5" />
+                  <line id="483:41627" name="Line 843" x="153.1875" y="0" width="0" height="5" />
+                  <line id="483:41628" name="Line 844" x="155.875" y="0" width="0" height="5" />
+                  <line id="483:41629" name="Line 845" x="158.5625" y="0" width="0" height="5" />
+                  <line id="483:41630" name="Line 846" x="161.25" y="0" width="0" height="5" />
+                  <line id="483:41631" name="Line 847" x="163.9375" y="0" width="0" height="5" />
+                  <line id="483:41632" name="Line 848" x="166.625" y="0" width="0" height="5" />
+                  <line id="483:41633" name="Line 849" x="169.3125" y="0" width="0" height="5" />
+                  <line id="483:41634" name="Line 850" x="172" y="0" width="0" height="5" />
+                  <line id="483:41635" name="Line 851" x="174.6875" y="0" width="0" height="5" />
+                  <line id="483:41636" name="Line 852" x="177.375" y="0" width="0" height="5" />
+                  <line id="483:41637" name="Line 853" x="180.0625" y="0" width="0" height="5" />
+                  <line id="483:41638" name="Line 854" x="182.75" y="0" width="0" height="5" />
+                  <line id="483:41639" name="Line 855" x="185.4375" y="0" width="0" height="5" />
+                  <line id="483:41640" name="Line 856" x="188.125" y="0" width="0" height="5" />
+                  <line id="483:41641" name="Line 857" x="190.8125" y="0" width="0" height="5" />
+                  <line id="483:41642" name="Line 858" x="193.5" y="0" width="0" height="5" />
+                  <line id="483:41643" name="Line 859" x="196.1875" y="0" width="0" height="5" />
+                  <line id="483:41644" name="Line 860" x="198.875" y="0" width="0" height="5" />
+                  <line id="483:41645" name="Line 861" x="201.5625" y="0" width="0" height="5" />
+                  <line id="483:41646" name="Line 862" x="204.25" y="0" width="0" height="5" />
+                  <line id="483:41647" name="Line 863" x="206.9375" y="0" width="0" height="5" />
+                  <line id="483:41648" name="Line 864" x="209.625" y="0" width="0" height="5" />
+                  <line id="483:41649" name="Line 865" x="212.3125" y="0" width="0" height="5" />
+                  <line id="483:41650" name="Line 866" x="215" y="0" width="0" height="5" />
+                </frame>
+              </frame>
+              <frame id="518:11427" name="point" x="197" y="-6.5" width="18" height="48" />
+            </frame>
+          </frame>
+          <frame id="483:41655" name="AMOUNT" x="141" y="12" width="79" height="38">
+            <text id="483:41656" name="$2.45M" x="8" y="8" width="63" height="22" />
+          </frame>
+          <frame id="483:41657" name="image 10 [Vectorized]" x="11" y="12" width="89.82929992675781" height="26">
+            <frame id="483:41658" name="ICON" x="6" y="7.036041259765625" width="9.829302787780762" height="11.92791748046875" />
+            <text id="483:41662" name="High Cap" x="23.829303741455078" y="4" width="60" height="18" />
+          </frame>
+        </frame>
+        <frame id="483:41663" name="card" x="479" y="0" width="231" height="245">
+          <rounded-rectangle id="483:41664" name="Rectangle 7" x="0" y="0" width="231" height="231" />
+          <rounded-rectangle id="483:41665" name="Rectangle 928359" x="0" y="-5.684341886080802e-14" width="231" height="245" />
+          <frame id="483:41666" name="AMOUNT" x="148" y="12" width="73" height="38">
+            <text id="483:41667" name="$3.12M" x="8" y="8" width="57" height="22" />
+          </frame>
+          <frame id="483:41668" name="image 10 [Vectorized]" x="11" y="12" width="89.82929992675781" height="26">
+            <frame id="483:41669" name="ICON" x="6" y="7.036041259765625" width="9.829302787780762" height="11.92791748046875" />
+            <text id="483:41673" name="High Cap" x="23.829303741455078" y="4" width="60" height="18" />
+          </frame>
+          <frame id="483:41674" name="info" x="0" y="133.659912109375" width="231" height="111.340087890625">
+            <rounded-rectangle id="483:41675" name="image 17" x="201" y="62.340087890625" width="42" height="42" />
+            <frame id="483:41676" name="name" x="8" y="8" width="100.86921691894531" height="20">
+              <frame id="483:41677" name="name" x="0" y="0" width="100.86921691894531" height="20">
+                <frame id="483:41678" name="name" x="0" y="0" width="100.86921691894531" height="20">
+                  <text id="483:41679" name="NEXUS" x="0" y="0" width="54" height="20" />
+                  <text id="483:41680" name="$NEX" x="57.86922073364258" y="0" width="43" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="483:41681" name="Nexus connects communities through a robust social platform designed for collaboration and inclusive growth." x="8" y="32" width="215" height="32.340087890625" />
+            <frame id="483:41682" name="progress" x="8" y="68.340087890625" width="215" height="35">
+              <frame id="483:41683" name="progress" x="0" y="8" width="215" height="12">
+                <rounded-rectangle id="483:41684" name="Rectangle 928358" x="0" y="0" width="145" height="12" />
+                <rounded-rectangle id="483:41685" name="Rectangle 928361" x="0" y="0" width="161" height="12" />
+              </frame>
+              <frame id="483:41686" name="ruler" x="0" y="30" width="215" height="5">
+                <frame id="483:41687" name="ruler" x="0" y="0" width="215" height="5">
+                  <line id="483:41688" name="Line 786" x="-6.617444900424222e-24" y="0" width="0" height="5" />
+                  <line id="483:41689" name="Line 787" x="2.6875" y="0" width="0" height="5" />
+                  <line id="483:41690" name="Line 788" x="5.375" y="0" width="0" height="5" />
+                  <line id="483:41691" name="Line 789" x="8.0625" y="0" width="0" height="5" />
+                  <line id="483:41692" name="Line 790" x="10.75" y="0" width="0" height="5" />
+                  <line id="483:41693" name="Line 791" x="13.4375" y="0" width="0" height="5" />
+                  <line id="483:41694" name="Line 792" x="16.125" y="0" width="0" height="5" />
+                  <line id="483:41695" name="Line 793" x="18.8125" y="0" width="0" height="5" />
+                  <line id="483:41696" name="Line 794" x="21.5" y="0" width="0" height="5" />
+                  <line id="483:41697" name="Line 795" x="24.1875" y="0" width="0" height="5" />
+                  <line id="483:41698" name="Line 796" x="26.875" y="0" width="0" height="5" />
+                  <line id="483:41699" name="Line 797" x="29.5625" y="0" width="0" height="5" />
+                  <line id="483:41700" name="Line 798" x="32.25" y="0" width="0" height="5" />
+                  <line id="483:41701" name="Line 799" x="34.9375" y="0" width="0" height="5" />
+                  <line id="483:41702" name="Line 800" x="37.625" y="0" width="0" height="5" />
+                  <line id="483:41703" name="Line 801" x="40.3125" y="0" width="0" height="5" />
+                  <line id="483:41704" name="Line 802" x="43" y="0" width="0" height="5" />
+                  <line id="483:41705" name="Line 803" x="45.6875" y="0" width="0" height="5" />
+                  <line id="483:41706" name="Line 804" x="48.375" y="0" width="0" height="5" />
+                  <line id="483:41707" name="Line 805" x="51.0625" y="0" width="0" height="5" />
+                  <line id="483:41708" name="Line 806" x="53.75" y="0" width="0" height="5" />
+                  <line id="483:41709" name="Line 807" x="56.4375" y="0" width="0" height="5" />
+                  <line id="483:41710" name="Line 808" x="59.125" y="0" width="0" height="5" />
+                  <line id="483:41711" name="Line 809" x="61.8125" y="0" width="0" height="5" />
+                  <line id="483:41712" name="Line 810" x="64.5" y="0" width="0" height="5" />
+                  <line id="483:41713" name="Line 811" x="67.1875" y="0" width="0" height="5" />
+                  <line id="483:41714" name="Line 812" x="69.875" y="0" width="0" height="5" />
+                  <line id="483:41715" name="Line 813" x="72.5625" y="0" width="0" height="5" />
+                  <line id="483:41716" name="Line 814" x="75.25" y="0" width="0" height="5" />
+                  <line id="483:41717" name="Line 815" x="77.9375" y="0" width="0" height="5" />
+                  <line id="483:41718" name="Line 816" x="80.625" y="0" width="0" height="5" />
+                  <line id="483:41719" name="Line 817" x="83.3125" y="0" width="0" height="5" />
+                  <line id="483:41720" name="Line 818" x="86" y="0" width="0" height="5" />
+                  <line id="483:41721" name="Line 819" x="88.6875" y="0" width="0" height="5" />
+                  <line id="483:41722" name="Line 820" x="91.375" y="0" width="0" height="5" />
+                  <line id="483:41723" name="Line 821" x="94.0625" y="0" width="0" height="5" />
+                  <line id="483:41724" name="Line 822" x="96.75" y="0" width="0" height="5" />
+                  <line id="483:41725" name="Line 823" x="99.4375" y="0" width="0" height="5" />
+                  <line id="483:41726" name="Line 824" x="102.125" y="0" width="0" height="5" />
+                  <line id="483:41727" name="Line 825" x="104.8125" y="0" width="0" height="5" />
+                  <line id="483:41728" name="Line 826" x="107.5" y="0" width="0" height="5" />
+                  <line id="483:41729" name="Line 827" x="110.1875" y="0" width="0" height="5" />
+                  <line id="483:41730" name="Line 828" x="112.875" y="0" width="0" height="5" />
+                  <line id="483:41731" name="Line 829" x="115.5625" y="0" width="0" height="5" />
+                  <line id="483:41732" name="Line 830" x="118.25" y="0" width="0" height="5" />
+                  <line id="483:41733" name="Line 831" x="120.9375" y="0" width="0" height="5" />
+                  <line id="483:41734" name="Line 832" x="123.625" y="0" width="0" height="5" />
+                  <line id="483:41735" name="Line 833" x="126.3125" y="0" width="0" height="5" />
+                  <line id="483:41736" name="Line 834" x="129" y="0" width="0" height="5" />
+                  <line id="483:41737" name="Line 835" x="131.6875" y="0" width="0" height="5" />
+                  <line id="483:41738" name="Line 836" x="134.375" y="0" width="0" height="5" />
+                  <line id="483:41739" name="Line 837" x="137.0625" y="0" width="0" height="5" />
+                  <line id="483:41740" name="Line 838" x="139.75" y="0" width="0" height="5" />
+                  <line id="483:41741" name="Line 839" x="142.4375" y="0" width="0" height="5" />
+                  <line id="483:41742" name="Line 840" x="145.125" y="0" width="0" height="5" />
+                  <line id="483:41743" name="Line 841" x="147.8125" y="0" width="0" height="5" />
+                  <line id="483:41744" name="Line 842" x="150.5" y="0" width="0" height="5" />
+                  <line id="483:41745" name="Line 843" x="153.1875" y="0" width="0" height="5" />
+                  <line id="483:41746" name="Line 844" x="155.875" y="0" width="0" height="5" />
+                  <line id="483:41747" name="Line 845" x="158.5625" y="0" width="0" height="5" />
+                  <line id="483:41748" name="Line 846" x="161.25" y="0" width="0" height="5" />
+                  <line id="483:41749" name="Line 847" x="163.9375" y="0" width="0" height="5" />
+                  <line id="483:41750" name="Line 848" x="166.625" y="0" width="0" height="5" />
+                  <line id="483:41751" name="Line 849" x="169.3125" y="0" width="0" height="5" />
+                  <line id="483:41752" name="Line 850" x="172" y="0" width="0" height="5" />
+                  <line id="483:41753" name="Line 851" x="174.6875" y="0" width="0" height="5" />
+                  <line id="483:41754" name="Line 852" x="177.375" y="0" width="0" height="5" />
+                  <line id="483:41755" name="Line 853" x="180.0625" y="0" width="0" height="5" />
+                  <line id="483:41756" name="Line 854" x="182.75" y="0" width="0" height="5" />
+                  <line id="483:41757" name="Line 855" x="185.4375" y="0" width="0" height="5" />
+                  <line id="483:41758" name="Line 856" x="188.125" y="0" width="0" height="5" />
+                  <line id="483:41759" name="Line 857" x="190.8125" y="0" width="0" height="5" />
+                  <line id="483:41760" name="Line 858" x="193.5" y="0" width="0" height="5" />
+                  <line id="483:41761" name="Line 859" x="196.1875" y="0" width="0" height="5" />
+                  <line id="483:41762" name="Line 860" x="198.875" y="0" width="0" height="5" />
+                  <line id="483:41763" name="Line 861" x="201.5625" y="0" width="0" height="5" />
+                  <line id="483:41764" name="Line 862" x="204.25" y="0" width="0" height="5" />
+                  <line id="483:41765" name="Line 863" x="206.9375" y="0" width="0" height="5" />
+                  <line id="483:41766" name="Line 864" x="209.625" y="0" width="0" height="5" />
+                  <line id="483:41767" name="Line 865" x="212.3125" y="0" width="0" height="5" />
+                  <line id="483:41768" name="Line 866" x="215" y="0" width="0" height="5" />
+                </frame>
+              </frame>
+              <frame id="518:11432" name="point" x="156" y="-6.5" width="18" height="48" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="483:41773" name="card" x="718" y="0" width="231" height="245">
+          <rounded-rectangle id="483:41774" name="Rectangle 7" x="0" y="0" width="267" height="267" />
+          <rounded-rectangle id="483:41775" name="Rectangle 928360" x="-18" y="0" width="267" height="245" />
+          <frame id="483:41776" name="AMOUNT" x="170" y="12" width="73" height="38">
+            <text id="483:41777" name="$3.12M" x="8" y="8" width="57" height="22" />
+          </frame>
+          <frame id="483:41778" name="image 10 [Vectorized]" x="11" y="12" width="89.82929992675781" height="26">
+            <frame id="483:41779" name="ICON" x="6" y="7.036041259765625" width="9.829302787780762" height="11.92791748046875" />
+            <text id="483:41783" name="High Cap" x="23.829303741455078" y="4" width="60" height="18" />
+          </frame>
+          <frame id="483:41784" name="info" x="0" y="119.659912109375" width="231" height="125.340087890625">
+            <rounded-rectangle id="483:41785" name="image 17" x="201" y="69.340087890625" width="42" height="42" />
+            <frame id="483:41786" name="name" x="12" y="12" width="113.86921691894531" height="22">
+              <frame id="483:41787" name="name" x="0" y="0" width="113.86921691894531" height="22">
+                <frame id="483:41788" name="name" x="0" y="0" width="113.86921691894531" height="22">
+                  <text id="483:41789" name="NEXUS" x="0" y="0" width="61" height="22" />
+                  <text id="483:41790" name="$NEX" x="64.86921691894531" y="0" width="49" height="22" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="483:41791" name="Nexus connects communities through a robust social platform designed for collaboration and inclusive growth." x="12" y="36" width="207" height="32.340087890625" />
+            <frame id="483:41792" name="progress" x="12" y="70.340087890625" width="207" height="43">
+              <frame id="483:41793" name="progress" x="0" y="16" width="207" height="12">
+                <rounded-rectangle id="483:41794" name="Rectangle 928358" x="0" y="0" width="145" height="12" />
+                <rounded-rectangle id="483:41795" name="Rectangle 928361" x="0" y="0" width="161" height="12" />
+              </frame>
+              <frame id="483:41796" name="ruler" x="0" y="38" width="207" height="5">
+                <frame id="483:41797" name="ruler" x="0" y="0" width="207" height="5">
+                  <line id="483:41798" name="Line 786" x="-6.617444900424222e-24" y="0" width="0" height="5" />
+                  <line id="483:41799" name="Line 787" x="2.5875000953674316" y="0" width="0" height="5" />
+                  <line id="483:41800" name="Line 788" x="5.175000190734863" y="0" width="0" height="5" />
+                  <line id="483:41801" name="Line 789" x="7.762500286102295" y="0" width="0" height="5" />
+                  <line id="483:41802" name="Line 790" x="10.350000381469727" y="0" width="0" height="5" />
+                  <line id="483:41803" name="Line 791" x="12.9375" y="0" width="0" height="5" />
+                  <line id="483:41804" name="Line 792" x="15.524999618530273" y="0" width="0" height="5" />
+                  <line id="483:41805" name="Line 793" x="18.112499237060547" y="0" width="0" height="5" />
+                  <line id="483:41806" name="Line 794" x="20.69999885559082" y="0" width="0" height="5" />
+                  <line id="483:41807" name="Line 795" x="23.287498474121094" y="0" width="0" height="5" />
+                  <line id="483:41808" name="Line 796" x="25.874998092651367" y="0" width="0" height="5" />
+                  <line id="483:41809" name="Line 797" x="28.46249771118164" y="0" width="0" height="5" />
+                  <line id="483:41810" name="Line 798" x="31.049997329711914" y="0" width="0" height="5" />
+                  <line id="483:41811" name="Line 799" x="33.63749694824219" y="0" width="0" height="5" />
+                  <line id="483:41812" name="Line 800" x="36.224998474121094" y="0" width="0" height="5" />
+                  <line id="483:41813" name="Line 801" x="38.8125" y="0" width="0" height="5" />
+                  <line id="483:41814" name="Line 802" x="41.400001525878906" y="0" width="0" height="5" />
+                  <line id="483:41815" name="Line 803" x="43.98750305175781" y="0" width="0" height="5" />
+                  <line id="483:41816" name="Line 804" x="46.57500457763672" y="0" width="0" height="5" />
+                  <line id="483:41817" name="Line 805" x="49.162506103515625" y="0" width="0" height="5" />
+                  <line id="483:41818" name="Line 806" x="51.75000762939453" y="0" width="0" height="5" />
+                  <line id="483:41819" name="Line 807" x="54.33750915527344" y="0" width="0" height="5" />
+                  <line id="483:41820" name="Line 808" x="56.925010681152344" y="0" width="0" height="5" />
+                  <line id="483:41821" name="Line 809" x="59.51251220703125" y="0" width="0" height="5" />
+                  <line id="483:41822" name="Line 810" x="62.100013732910156" y="0" width="0" height="5" />
+                  <line id="483:41823" name="Line 811" x="64.68751525878906" y="0" width="0" height="5" />
+                  <line id="483:41824" name="Line 812" x="67.27501678466797" y="0" width="0" height="5" />
+                  <line id="483:41825" name="Line 813" x="69.86251831054688" y="0" width="0" height="5" />
+                  <line id="483:41826" name="Line 814" x="72.45001983642578" y="0" width="0" height="5" />
+                  <line id="483:41827" name="Line 815" x="75.03752136230469" y="0" width="0" height="5" />
+                  <line id="483:41828" name="Line 816" x="77.6250228881836" y="0" width="0" height="5" />
+                  <line id="483:41829" name="Line 817" x="80.2125244140625" y="0" width="0" height="5" />
+                  <line id="483:41830" name="Line 818" x="82.8000259399414" y="0" width="0" height="5" />
+                  <line id="483:41831" name="Line 819" x="85.38752746582031" y="0" width="0" height="5" />
+                  <line id="483:41832" name="Line 820" x="87.97502899169922" y="0" width="0" height="5" />
+                  <line id="483:41833" name="Line 821" x="90.56253051757812" y="0" width="0" height="5" />
+                  <line id="483:41834" name="Line 822" x="93.15003204345703" y="0" width="0" height="5" />
+                  <line id="483:41835" name="Line 823" x="95.73753356933594" y="0" width="0" height="5" />
+                  <line id="483:41836" name="Line 824" x="98.32503509521484" y="0" width="0" height="5" />
+                  <line id="483:41837" name="Line 825" x="100.91253662109375" y="0" width="0" height="5" />
+                  <line id="483:41838" name="Line 826" x="103.50003814697266" y="0" width="0" height="5" />
+                  <line id="483:41839" name="Line 827" x="106.08753967285156" y="0" width="0" height="5" />
+                  <line id="483:41840" name="Line 828" x="108.67504119873047" y="0" width="0" height="5" />
+                  <line id="483:41841" name="Line 829" x="111.26254272460938" y="0" width="0" height="5" />
+                  <line id="483:41842" name="Line 830" x="113.85004425048828" y="0" width="0" height="5" />
+                  <line id="483:41843" name="Line 831" x="116.43754577636719" y="0" width="0" height="5" />
+                  <line id="483:41844" name="Line 832" x="119.0250473022461" y="0" width="0" height="5" />
+                  <line id="483:41845" name="Line 833" x="121.612548828125" y="0" width="0" height="5" />
+                  <line id="483:41846" name="Line 834" x="124.2000503540039" y="0" width="0" height="5" />
+                  <line id="483:41847" name="Line 835" x="126.78755187988281" y="0" width="0" height="5" />
+                  <line id="483:41848" name="Line 836" x="129.3750457763672" y="0" width="0" height="5" />
+                  <line id="483:41849" name="Line 837" x="131.96253967285156" y="0" width="0" height="5" />
+                  <line id="483:41850" name="Line 838" x="134.55003356933594" y="0" width="0" height="5" />
+                  <line id="483:41851" name="Line 839" x="137.1375274658203" y="0" width="0" height="5" />
+                  <line id="483:41852" name="Line 840" x="139.7250213623047" y="0" width="0" height="5" />
+                  <line id="483:41853" name="Line 841" x="142.31251525878906" y="0" width="0" height="5" />
+                  <line id="483:41854" name="Line 842" x="144.90000915527344" y="0" width="0" height="5" />
+                  <line id="483:41855" name="Line 843" x="147.4875030517578" y="0" width="0" height="5" />
+                  <line id="483:41856" name="Line 844" x="150.0749969482422" y="0" width="0" height="5" />
+                  <line id="483:41857" name="Line 845" x="152.66249084472656" y="0" width="0" height="5" />
+                  <line id="483:41858" name="Line 846" x="155.24998474121094" y="0" width="0" height="5" />
+                  <line id="483:41859" name="Line 847" x="157.8374786376953" y="0" width="0" height="5" />
+                  <line id="483:41860" name="Line 848" x="160.4249725341797" y="0" width="0" height="5" />
+                  <line id="483:41861" name="Line 849" x="163.01246643066406" y="0" width="0" height="5" />
+                  <line id="483:41862" name="Line 850" x="165.59996032714844" y="0" width="0" height="5" />
+                  <line id="483:41863" name="Line 851" x="168.1874542236328" y="0" width="0" height="5" />
+                  <line id="483:41864" name="Line 852" x="170.7749481201172" y="0" width="0" height="5" />
+                  <line id="483:41865" name="Line 853" x="173.36244201660156" y="0" width="0" height="5" />
+                  <line id="483:41866" name="Line 854" x="175.94993591308594" y="0" width="0" height="5" />
+                  <line id="483:41867" name="Line 855" x="178.5374298095703" y="0" width="0" height="5" />
+                  <line id="483:41868" name="Line 856" x="181.1249237060547" y="0" width="0" height="5" />
+                  <line id="483:41869" name="Line 857" x="183.71241760253906" y="0" width="0" height="5" />
+                  <line id="483:41870" name="Line 858" x="186.29991149902344" y="0" width="0" height="5" />
+                  <line id="483:41871" name="Line 859" x="188.8874053955078" y="0" width="0" height="5" />
+                  <line id="483:41872" name="Line 860" x="191.4748992919922" y="0" width="0" height="5" />
+                  <line id="483:41873" name="Line 861" x="194.06239318847656" y="0" width="0" height="5" />
+                  <line id="483:41874" name="Line 862" x="196.64988708496094" y="0" width="0" height="5" />
+                  <line id="483:41875" name="Line 863" x="199.2373809814453" y="0" width="0" height="5" />
+                  <line id="483:41876" name="Line 864" x="201.8248748779297" y="0" width="0" height="5" />
+                  <line id="483:41877" name="Line 865" x="204.41236877441406" y="0" width="0" height="5" />
+                  <line id="483:41878" name="Line 866" x="206.99986267089844" y="0" width="0" height="5" />
+                </frame>
+              </frame>
+              <frame id="483:41879" name="point" x="152" y="0" width="18" height="43" />
+              <rounded-rectangle id="483:41882" name="image 16" x="186" y="10" width="24" height="24" />
+            </frame>
+          </frame>
+          <rounded-rectangle id="483:41883" name="Rectangle 928359" x="-18" y="0" width="267" height="245" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="483:41884" name="lIVE" x="1123" y="93" width="300" height="276">
+    <frame id="483:41885" name="TITLE" x="0" y="0" width="116" height="15">
+      <text id="483:41886" name="lIVE aCTIVITY" x="0" y="0" width="116" height="15" />
+      <frame id="483:41887" name="Frame 1" x="292" y="0" width="32" height="32" hidden="true">
+        <frame id="483:41888" name="next" x="0" y="0" width="32" height="32">
+          <frame id="483:41889" name="arrow-right-01-sharp" x="4" y="4" width="24" height="24" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1277:19250" name="card" x="0" y="31" width="300" height="320">
+      <instance id="1277:19251" name="card" x="12" y="12" width="276" height="40" />
+      <line id="1277:19252" name="Line 870" x="12" y="64" width="291.7591552734375" height="0" />
+      <instance id="1277:19253" name="card" x="12" y="76" width="276" height="40" />
+      <line id="1277:19254" name="Line 869" x="12" y="128" width="291.7591552734375" height="0" />
+      <instance id="1277:19255" name="card" x="12" y="140" width="276" height="40" />
+      <line id="1277:19256" name="Line 868" x="12" y="192" width="291.7591552734375" height="0" />
+      <instance id="1277:19257" name="card" x="12" y="204" width="276" height="40" />
+      <line id="1277:19258" name="Line 871" x="12" y="256" width="291.7591552734375" height="0" />
+      <instance id="1277:19259" name="card" x="12" y="268" width="276" height="40" />
+      <rounded-rectangle id="1277:19260" name="image 21" x="74" y="-12" width="228" height="341" />
+    </frame>
+  </frame>
+  <frame id="483:41904" name="list" x="296" y="385" width="1127" height="988">
+    <frame id="483:41905" name="tab bar" x="0" y="0" width="1127" height="32">
+      <frame id="483:41906" name="tabs" x="0" y="0.5" width="613" height="31">
+        <frame id="483:41907" name="tab" x="0" y="0" width="84" height="31">
+          <text id="483:41908" name="MOVERS" x="8" y="8" width="68" height="15" />
+        </frame>
+        <frame id="483:41909" name="tab" x="96" y="0" width="51" height="31">
+          <text id="483:41910" name="New" x="8" y="8" width="35" height="15" />
+        </frame>
+        <frame id="483:41911" name="tab" x="159" y="0" width="117" height="31">
+          <text id="483:41912" name="Graduated" x="8" y="8" width="101" height="15" />
+        </frame>
+        <frame id="483:41913" name="tab" x="288" y="0" width="89" height="31">
+          <text id="483:41914" name="HIGHCAP" x="8" y="8" width="73" height="15" />
+        </frame>
+        <frame id="483:41915" name="tab" x="389" y="0" width="82" height="31">
+          <text id="483:41916" name="LOWCAP" x="8" y="8" width="66" height="15" />
+        </frame>
+        <frame id="483:41917" name="tab" x="483" y="0" width="130" height="31">
+          <text id="483:41918" name="DISQUALIFIED" x="8" y="8" width="114" height="15" />
+        </frame>
+      </frame>
+      <frame id="483:41919" name="tab" x="1063" y="0" width="64" height="32">
+        <frame id="483:41920" name="tab" x="2" y="2" width="28" height="28">
+          <boolean-operation id="483:41921" name="Union" x="8" y="8" width="12" height="12" />
+        </frame>
+        <frame id="483:41925" name="tab" x="34" y="2" width="28" height="28">
+          <frame id="483:41926" name="icon" x="8" y="8" width="12" height="12" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="483:41928" name="card" x="0" y="44" width="1128" height="892">
+      <instance id="483:41929" name="demo" x="0" y="0" width="370" height="217" />
+      <instance id="483:41930" name="demo" x="378" y="0" width="370" height="217" />
+      <instance id="483:41931" name="demo" x="756" y="0" width="370" height="217" />
+      <instance id="483:41932" name="demo" x="0" y="225" width="370" height="217" />
+      <instance id="483:41933" name="demo" x="378" y="225" width="370" height="217" />
+      <instance id="483:41934" name="demo" x="756" y="225" width="370" height="217" />
+      <instance id="483:41935" name="demo" x="0" y="450" width="370" height="217" />
+      <instance id="483:41936" name="demo" x="378" y="450" width="370" height="217" />
+      <instance id="483:41937" name="demo" x="756" y="450" width="370" height="217" />
+      <instance id="483:41938" name="demo" x="0" y="675" width="370" height="217" />
+      <instance id="483:41939" name="demo" x="378" y="675" width="370" height="217" />
+      <instance id="483:41940" name="demo" x="756" y="675" width="370" height="217" />
+    </frame>
+    <frame id="483:41941" name="row" x="0" y="948" width="1127" height="40">
+      <frame id="483:41942" name="Frame 1" x="447.5" y="4" width="232" height="32">
+        <frame id="483:41943" name="next" x="32" y="0" width="32" height="32">
+          <instance id="483:41944" name="arrow-right-01-sharp" x="4" y="4" width="24" height="24" />
+        </frame>
+        <frame id="483:41945" name="next" x="72" y="0" width="32" height="32">
+          <text id="483:41946" name="1" x="19" y="7" width="6" height="18" />
+        </frame>
+        <frame id="483:41947" name="next" x="112" y="0" width="32" height="32">
+          <text id="483:41948" name="2" x="20" y="7" width="8" height="18" />
+        </frame>
+        <frame id="483:41949" name="next" x="152" y="0" width="32" height="32">
+          <text id="483:41950" name="3" x="20.5" y="7" width="9" height="18" />
+        </frame>
+        <frame id="483:41951" name="next" x="192" y="0" width="32" height="32">
+          <text id="483:41952" name="4" x="20.5" y="7" width="9" height="18" />
+        </frame>
+        <frame id="483:41953" name="next" x="200" y="0" width="32" height="32">
+          <instance id="483:41954" name="arrow-right-01-sharp" x="4" y="4" width="24" height="24" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="518:11422" name="point" x="459" y="320" width="18" height="48" />
+</frame>

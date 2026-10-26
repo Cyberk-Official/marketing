@@ -1,0 +1,286 @@
+{
+  "state": "default",
+  "node": "501:14589",
+  "baseline": "default.png",
+  "export_scale": 2,
+  "has_raster_assets": false,
+  "dimensions": {
+    "width": 365,
+    "height": 263
+  },
+  "css": {
+    "background-color": "rgb(21, 26, 52)",
+    "padding-top": "18px",
+    "padding-right": "18px",
+    "padding-bottom": "18px",
+    "padding-left": "18px",
+    "gap": "24px",
+    "display": "flex",
+    "flex-direction": "column",
+    "flex-grow": "1",
+    "width": "100%",
+    "height": "fit-content",
+    "position": "absolute"
+  },
+  "unsupported": [],
+  "subNodes": [
+    {
+      "id": "603:14538",
+      "name": "arrow-expand-01-sharp",
+      "type": "INSTANCE_BOUNDARY",
+      "localBox": {
+        "x": 323.3330078125,
+        "y": 24,
+        "width": 18,
+        "height": 18
+      },
+      "unsupported": "INSTANCE: separate component instance; compose at parent level"
+    }
+  ],
+  "textNodes": [
+    {
+      "id": "501:14591",
+      "name": "TOKEN UNLOCK",
+      "localBox": {
+        "x": 18,
+        "y": 18,
+        "width": 127,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "TOKEN UNLOCK"
+    },
+    {
+      "id": "501:14592",
+      "name": "View your token vesting schedule and claim unlocked tokens",
+      "localBox": {
+        "x": 18,
+        "y": 41,
+        "width": 291.33331298828125,
+        "height": 36
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "View your token vesting schedule and claim unlocked tokens"
+    },
+    {
+      "id": "501:14596",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 18,
+        "y": 101,
+        "width": 152.66665649414062,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Total Amount"
+    },
+    {
+      "id": "501:14598",
+      "name": "Staked Value",
+      "localBox": {
+        "x": 18,
+        "y": 129,
+        "width": 67,
+        "height": 20
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 19.52,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "300,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 19.52px. Pin CSS with `leading-[20px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14599",
+      "name": "Currency",
+      "localBox": {
+        "x": 93,
+        "y": 130,
+        "width": 42,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "AOLM"
+    },
+    {
+      "id": "501:14602",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 194.6669921875,
+        "y": 101,
+        "width": 152.66665649414062,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Token Claimed"
+    },
+    {
+      "id": "501:14604",
+      "name": "Staked Value",
+      "localBox": {
+        "x": 194.6669921875,
+        "y": 129,
+        "width": 67,
+        "height": 20
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 19.52,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "300,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 19.52px. Pin CSS with `leading-[20px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14605",
+      "name": "Currency",
+      "localBox": {
+        "x": 269.6669921875,
+        "y": 130,
+        "width": 42,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "AOLM"
+    },
+    {
+      "id": "501:14609",
+      "name": "Stat Label",
+      "localBox": {
+        "x": 34,
+        "y": 181,
+        "width": 200.33331298828125,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Unlocked"
+    },
+    {
+      "id": "501:14611",
+      "name": "Staked Value",
+      "localBox": {
+        "x": 34,
+        "y": 209,
+        "width": 67,
+        "height": 20
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 19.52,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "300,000",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 19.52px. Pin CSS with `leading-[20px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "501:14612",
+      "name": "Currency",
+      "localBox": {
+        "x": 109,
+        "y": 210,
+        "width": 42,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "AOLM"
+    },
+    {
+      "id": "501:14615",
+      "name": "Claim all",
+      "localBox": {
+        "x": 266.3330078125,
+        "y": 196.5,
+        "width": 57,
+        "height": 17
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 600,
+        "fontSize": 14,
+        "lineHeightPx": 17.08,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "Claim all",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 17.08px. Pin CSS with `leading-[17px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~3px per line (direction depends on stacking)."
+      ]
+    }
+  ]
+}

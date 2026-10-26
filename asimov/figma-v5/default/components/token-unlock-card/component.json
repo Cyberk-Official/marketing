@@ -1,0 +1,12 @@
+{
+  "name": "token-unlock-card",
+  "layer": "features/creator/ui",
+  "category": "simple",
+  "source": {
+    "file": "USq2satM9LeDU7M6ilKlky",
+    "canonical_node": "501:14589"
+  },
+  "states": ["default"],
+  "aliases": [],
+  "version": 1
+}

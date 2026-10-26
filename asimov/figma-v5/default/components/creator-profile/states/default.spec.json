@@ -1,0 +1,230 @@
+{
+  "state": "default",
+  "node": "498:13895",
+  "baseline": "default.png",
+  "export_scale": 2,
+  "has_raster_assets": true,
+  "dimensions": {
+    "width": 1128,
+    "height": 110
+  },
+  "css": {
+    "padding-top": "0px",
+    "padding-right": "0px",
+    "padding-bottom": "0px",
+    "padding-left": "0px",
+    "gap": "16px",
+    "display": "flex",
+    "flex-direction": "row",
+    "align-self": "stretch",
+    "width": "100%",
+    "height": "fit-content",
+    "position": "absolute"
+  },
+  "unsupported": [],
+  "subNodes": [
+    {
+      "id": "498:13896",
+      "name": "Rectangle 7",
+      "type": "RECTANGLE",
+      "localBox": {
+        "x": 0,
+        "y": 0,
+        "width": 80,
+        "height": 80
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "97df00f4b398893458d8dba4f65fe5a81db44afd",
+          "scaleMode": "FILL",
+          "assetUrl": "/figma-assets/97df00f4b398893458d8dba4f65fe5a81db44afd.png"
+        }
+      ],
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "weight": 2,
+          "align": "INSIDE"
+        }
+      ],
+      "fillGeometry": [
+        {
+          "path": "M0 40C0 17.9086 17.9086 0 40 0L40 0C62.0914 0 80 17.9086 80 40L80 40C80 62.0914 62.0914 80 40 80L40 80C17.9086 80 0 62.0914 0 40L0 40Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M0 40M80 40M80 40M0 40M40 0M80 40M40 80M0 40M40 80L40 78C19.0132 78 2 60.9868 2 40L0 40L-2 40C-2 63.196 16.804 82 40 82L40 80ZM80 40L78 40C78 60.9868 60.9868 78 40 78L40 80L40 82C63.196 82 82 63.196 82 40L80 40ZM40 0L40 2C60.9868 2 78 19.0132 78 40L80 40L82 40C82 16.804 63.196 -2 40 -2L40 0ZM40 0L40 -2C16.804 -2 -2 16.804 -2 40L0 40L2 40C2 19.0132 19.0132 2 40 2L40 0Z",
+          "windingRule": "NONZERO"
+        }
+      ]
+    },
+    {
+      "id": "601:14479",
+      "name": "x",
+      "type": "INSTANCE_BOUNDARY",
+      "localBox": {
+        "x": 216,
+        "y": 3,
+        "width": 18,
+        "height": 18
+      },
+      "unsupported": "INSTANCE: separate component instance; compose at parent level"
+    },
+    {
+      "id": "603:14489",
+      "name": "internet",
+      "type": "INSTANCE_BOUNDARY",
+      "localBox": {
+        "x": 246,
+        "y": 3,
+        "width": 18,
+        "height": 18
+      },
+      "unsupported": "INSTANCE: separate component instance; compose at parent level"
+    },
+    {
+      "id": "603:14520",
+      "name": "telegram",
+      "type": "INSTANCE_BOUNDARY",
+      "localBox": {
+        "x": 276,
+        "y": 2.9999999999999964,
+        "width": 18,
+        "height": 18.000000000000004
+      },
+      "unsupported": "INSTANCE: separate component instance; compose at parent level"
+    },
+    {
+      "id": "601:14474",
+      "name": "Vector",
+      "type": "VECTOR",
+      "localBox": {
+        "x": 190.6669921875,
+        "y": 43.66666603088379,
+        "width": 10.666666984558105,
+        "height": 10.666666984558105
+      },
+      "renderBox": {
+        "x": 190.1669921875,
+        "y": 43.16666603088379,
+        "width": 11.6669921875,
+        "height": 11.666666030883789
+      },
+      "strokes": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.36864691972732544,
+            "g": 0.4104945957660675,
+            "b": 0.5464993715286255,
+            "a": 1
+          },
+          "weight": 1,
+          "align": "CENTER"
+        }
+      ],
+      "strokeGeometry": [
+        {
+          "path": "M2.66667 8.5C2.94281 8.5 3.16667 8.27614 3.16667 8C3.16667 7.72386 2.94281 7.5 2.66667 7.5L2.66667 8L2.66667 8.5ZM0 6.66667L-0.5 6.66667L0 6.66667ZM1.33333 0L1.33333 -0.5L1.33333 0ZM6.66667 0L6.66667 -0.5L6.66667 0ZM7.5 2.66667C7.5 2.94281 7.72386 3.16667 8 3.16667C8.27614 3.16667 8.5 2.94281 8.5 2.66667L8 2.66667L7.5 2.66667ZM9.33333 2.66667L9.33333 2.16667L9.33333 2.66667ZM2.66667 4L2.16667 4L2.66667 4ZM2.66667 8L2.66667 7.5L1.33333 7.5L1.33333 8L1.33333 8.5L2.66667 8.5L2.66667 8ZM1.33333 8L1.33333 7.5C1.11232 7.5 0.900358 7.4122 0.744078 7.25592L0.390524 7.60948L0.0369709 7.96303C0.380787 8.30685 0.847103 8.5 1.33333 8.5L1.33333 8ZM0.390524 7.60948L0.744078 7.25592C0.587797 7.09964 0.5 6.88768 0.5 6.66667L0 6.66667L-0.5 6.66667C-0.5 7.1529 -0.306846 7.61921 0.0369709 7.96303L0.390524 7.60948ZM0 6.66667L0.5 6.66667L0.5 1.33333L0 1.33333L-0.5 1.33333L-0.5 6.66667L0 6.66667ZM0 1.33333L0.5 1.33333C0.5 1.11232 0.587797 0.900358 0.744078 0.744078L0.390524 0.390524L0.0369709 0.0369709C-0.306846 0.380788 -0.5 0.847103 -0.5 1.33333L0 1.33333ZM0.390524 0.390524L0.744078 0.744078C0.900358 0.587797 1.11232 0.5 1.33333 0.5L1.33333 0L1.33333 -0.5C0.847103 -0.5 0.380788 -0.306846 0.0369709 0.0369709L0.390524 0.390524ZM1.33333 0L1.33333 0.5L6.66667 0.5L6.66667 0L6.66667 -0.5L1.33333 -0.5L1.33333 0ZM6.66667 0L6.66667 0.5C6.88768 0.5 7.09964 0.587797 7.25592 0.744078L7.60948 0.390524L7.96303 0.0369709C7.61921 -0.306846 7.1529 -0.5 6.66667 -0.5L6.66667 0ZM7.60948 0.390524L7.25592 0.744078C7.4122 0.900358 7.5 1.11232 7.5 1.33333L8 1.33333L8.5 1.33333C8.5 0.847103 8.30685 0.380787 7.96303 0.0369709L7.60948 0.390524ZM8 1.33333L7.5 1.33333L7.5 2.66667L8 2.66667L8.5 2.66667L8.5 1.33333L8 1.33333ZM4 10.6667L4 11.1667L9.33333 11.1667L9.33333 10.6667L9.33333 10.1667L4 10.1667L4 10.6667ZM9.33333 10.6667L9.33333 11.1667C9.81956 11.1667 10.2859 10.9735 10.6297 10.6297L10.2761 10.2761L9.92259 9.92259C9.76631 10.0789 9.55435 10.1667 9.33333 10.1667L9.33333 10.6667ZM10.2761 10.2761L10.6297 10.6297C10.9735 10.2859 11.1667 9.81956 11.1667 9.33333L10.6667 9.33333L10.1667 9.33333C10.1667 9.55435 10.0789 9.76631 9.92259 9.92259L10.2761 10.2761ZM10.6667 9.33333L11.1667 9.33333L11.1667 4L10.6667 4L10.1667 4L10.1667 9.33333L10.6667 9.33333ZM10.6667 4L11.1667 4C11.1667 3.51377 10.9735 3.04745 10.6297 2.70364L10.2761 3.05719L9.92259 3.41074C10.0789 3.56703 10.1667 3.77899 10.1667 4L10.6667 4ZM10.2761 3.05719L10.6297 2.70364C10.2859 2.35982 9.81956 2.16667 9.33333 2.16667L9.33333 2.66667L9.33333 3.16667C9.55435 3.16667 9.76631 3.25446 9.92259 3.41074L10.2761 3.05719ZM9.33333 2.66667L9.33333 2.16667L4 2.16667L4 2.66667L4 3.16667L9.33333 3.16667L9.33333 2.66667ZM4 2.66667L4 2.16667C3.51377 2.16667 3.04745 2.35982 2.70364 2.70364L3.05719 3.05719L3.41074 3.41074C3.56703 3.25446 3.77899 3.16667 4 3.16667L4 2.66667ZM3.05719 3.05719L2.70364 2.70364C2.35982 3.04745 2.16667 3.51377 2.16667 4L2.66667 4L3.16667 4C3.16667 3.77899 3.25446 3.56703 3.41074 3.41074L3.05719 3.05719ZM2.66667 4L2.16667 4L2.16667 9.33333L2.66667 9.33333L3.16667 9.33333L3.16667 4L2.66667 4ZM2.66667 9.33333L2.16667 9.33333C2.16667 9.81956 2.35982 10.2859 2.70364 10.6297L3.05719 10.2761L3.41074 9.92259C3.25446 9.76631 3.16667 9.55435 3.16667 9.33333L2.66667 9.33333ZM3.05719 10.2761L2.70364 10.6297C3.04745 10.9735 3.51377 11.1667 4 11.1667L4 10.6667L4 10.1667C3.77899 10.1667 3.56703 10.0789 3.41074 9.92259L3.05719 10.2761Z",
+          "windingRule": "NONZERO"
+        }
+      ],
+      "vectorAssetUrl": "/figma-assets/b91aaea7aca567ca248d.svg"
+    }
+  ],
+  "textNodes": [
+    {
+      "id": "498:13898",
+      "name": "Luna Kim",
+      "localBox": {
+        "x": 96,
+        "y": 0,
+        "width": 88,
+        "height": 24
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 24.4,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "Luna Kim",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 24.4px. Pin CSS with `leading-[24px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~4px per line (direction depends on stacking)."
+      ]
+    },
+    {
+      "id": "601:14472",
+      "name": "2oQN...bonk",
+      "localBox": {
+        "x": 104,
+        "y": 40,
+        "width": 80,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "2oQN...bonk"
+    },
+    {
+      "id": "498:13907",
+      "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mae",
+      "localBox": {
+        "x": 96,
+        "y": 74,
+        "width": 566.453125,
+        "height": 36
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac neque eget "
+    },
+    {
+      "id": "603:14524",
+      "name": "Edit Profile",
+      "localBox": {
+        "x": 1047,
+        "y": 9.5,
+        "width": 73,
+        "height": 17
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 600,
+        "fontSize": 14,
+        "lineHeightPx": 17.08,
+        "lineHeightUnit": "INTRINSIC_%",
+        "letterSpacing": 0
+      },
+      "characters": "Edit Profile",
+      "requiresLabel": true,
+      "warnings": [
+        "Figma \"Auto\" line-height resolved to 17.08px. Pin CSS with `leading-[17px]` (or the exact px). NEVER use leading-none / leading-normal / leading-tight / line-height: normal for this node — they are font-metric-dependent and will shift layout by ~3px per line (direction depends on stacking)."
+      ]
+    }
+  ]
+}

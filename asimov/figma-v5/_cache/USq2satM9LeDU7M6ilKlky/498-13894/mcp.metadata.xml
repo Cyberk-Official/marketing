@@ -1,0 +1,392 @@
+<!-- cachedAt: 2026-04-24T07:01:40.641Z -->
+<frame id="498:13894" name="left" x="280.0498046875" y="67.5" width="1160" height="1366">
+  <frame id="498:13895" name="creator" x="16" y="16" width="1128" height="110">
+    <rounded-rectangle id="498:13896" name="Rectangle 7" x="0" y="0" width="80" height="80" />
+    <frame id="498:13897" name="Frame 679" x="96" y="0" width="927" height="110">
+      <frame id="601:14482" name="Frame 777" x="0" y="0" width="198" height="24">
+        <text id="498:13898" name="Luna Kim" x="0" y="0" width="88" height="24" />
+        <line id="601:14487" name="Line 887" x="104" y="1" width="9.616505849407986e-7" height="22" />
+        <text id="601:14488" name="Social Media" x="112" y="6.5" width="81" height="18" hidden="true" />
+        <frame id="603:14515" name="Frame 778" x="120" y="3" width="78" height="18">
+          <instance id="601:14479" name="x" x="0" y="0" width="18" height="18" />
+          <instance id="603:14489" name="internet" x="30" y="0" width="18" height="18" />
+          <instance id="603:14520" name="telegram" x="60" y="3.552713678800501e-15" width="18" height="18.000000000000004" />
+        </frame>
+      </frame>
+      <frame id="498:13899" name="Frame 680" x="0" y="32" width="116" height="34">
+        <frame id="601:14471" name="copy add" x="0" y="0" width="116" height="34">
+          <text id="601:14472" name="2oQN...bonk" x="8" y="8" width="80" height="18" />
+          <frame id="601:14473" name="Frame" x="92" y="9" width="16" height="16" />
+        </frame>
+      </frame>
+      <text id="498:13907" name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac neque eget magna blandit laoreet et a mauris." x="0" y="74" width="566.453125" height="36" />
+    </frame>
+    <frame id="603:14523" name="button" x="1039" y="0" width="89" height="36">
+      <text id="603:14524" name="Edit Profile" x="8" y="9.5" width="73" height="17" />
+    </frame>
+  </frame>
+  <line id="498:13908" name="Line 885" x="16" y="146" width="1128" height="0" />
+  <frame id="501:14539" name="Header Container" x="16" y="166" width="1128" height="119">
+    <text id="501:14540" name="Header Title" x="0" y="0" width="85" height="15" />
+    <frame id="501:14541" name="stats" x="0" y="27" width="1128" height="92">
+      <frame id="501:14542" name="Stat Container" x="0" y="0" width="166.6666717529297" height="92">
+        <frame id="501:14543" name="stats" x="20" y="20" width="92" height="52">
+          <text id="501:14544" name="Stat Label" x="0" y="0" width="92" height="18" />
+          <text id="501:14545" name="Stat Value" x="0" y="28" width="92" height="24" />
+        </frame>
+        <line id="501:14546" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+      </frame>
+      <frame id="501:14547" name="Stat Container" x="182.6666717529297" y="0" width="166.66665649414062" height="92">
+        <frame id="501:14548" name="stats" x="20" y="20" width="95" height="52">
+          <text id="501:14549" name="Stat Label" x="0" y="0" width="95" height="18" />
+          <text id="501:14550" name="Stat Value" x="0" y="28" width="95" height="24" />
+        </frame>
+        <line id="501:14551" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+      </frame>
+      <frame id="501:14557" name="Stat Container" x="365.33331298828125" y="0" width="166.66665649414062" height="92">
+        <frame id="501:14558" name="stats" x="20" y="20" width="114" height="52">
+          <text id="501:14559" name="Stat Label" x="0" y="0" width="114" height="18" />
+          <text id="501:14560" name="Stat Value" x="0" y="28" width="114" height="24" />
+        </frame>
+        <line id="501:14561" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+      </frame>
+      <frame id="501:14562" name="Stat Container" x="548" y="0" width="282" height="92">
+        <frame id="501:14563" name="stats" x="20" y="20" width="149" height="52">
+          <text id="501:14564" name="Stat Label" x="0" y="0" width="149" height="18" />
+          <text id="501:14565" name="Stat Value" x="0" y="28" width="149" height="24" />
+        </frame>
+        <line id="501:14566" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        <frame id="501:14567" name="button" x="189" y="28" width="73" height="36">
+          <text id="501:14568" name="Claim all" x="8" y="9.5" width="57" height="17" />
+        </frame>
+      </frame>
+      <frame id="611:13819" name="Stat Container" x="846" y="0" width="282" height="92">
+        <frame id="611:13820" name="stats" x="20" y="20" width="149" height="52">
+          <text id="611:13821" name="Stat Label" x="0" y="0" width="87" height="18" />
+          <frame id="611:13855" name="Frame 781" x="0" y="28" width="149" height="24">
+            <text id="611:13822" name="Stat Value" x="0" y="0" width="65" height="24" />
+            <frame id="611:13850" name="tokens" x="69" y="0" width="56" height="24">
+              <rounded-rectangle id="611:13851" name="Rectangle 8" x="0" y="0" width="24" height="24" />
+              <rounded-rectangle id="611:13852" name="Rectangle 7" x="16" y="0" width="24" height="24" />
+              <rounded-rectangle id="611:13853" name="Rectangle 9" x="32" y="0" width="24" height="24" />
+            </frame>
+          </frame>
+        </frame>
+        <line id="611:13823" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        <frame id="611:13824" name="button" x="189" y="28" width="73" height="36">
+          <text id="611:13825" name="Claim all" x="8" y="9.5" width="57" height="17" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="498:13932" name="tabs" x="16" y="305" width="534" height="40">
+    <text id="498:13933" name="Created:" x="0" y="12.5" width="83" height="15" />
+    <frame id="498:13934" name="tab" x="95" y="0" width="91" height="40">
+      <rounded-rectangle id="498:13935" name="Rectangle 7" x="8" y="8" width="24" height="24" />
+      <text id="498:13936" name="AOLM" x="40" y="12.5" width="43" height="15" />
+    </frame>
+    <frame id="498:13937" name="tab" x="198" y="0" width="102" height="40">
+      <rounded-rectangle id="498:13938" name="Rectangle 8" x="8" y="8" width="24" height="24" />
+      <text id="498:13939" name="valor" x="40" y="12.5" width="54" height="15" />
+    </frame>
+    <frame id="498:13940" name="tab" x="312" y="0" width="117" height="40">
+      <rounded-rectangle id="498:13941" name="Rectangle 8" x="8" y="8" width="24" height="24" />
+      <text id="498:13942" name="burger" x="40" y="12.5" width="69" height="15" />
+    </frame>
+    <frame id="498:13943" name="tab" x="441" y="0" width="93" height="40">
+      <rounded-rectangle id="498:13944" name="Rectangle 7" x="8" y="8" width="24" height="24" />
+      <text id="498:13945" name="abcd" x="40" y="12.5" width="45" height="15" />
+    </frame>
+  </frame>
+  <frame id="498:13946" name="section" x="16" y="365" width="1128" height="985">
+    <frame id="501:14570" name="left main" x="0" y="0" width="1128" height="259">
+      <frame id="501:14571" name="section" x="0" y="0" width="365.3333435058594" height="261.60015869140625">
+        <frame id="501:14572" name="title" x="18" y="18" width="329.3333435058594" height="57.60015869140625">
+          <text id="501:14573" name="FEE EARNING" x="0" y="0" width="113" height="15" />
+          <text id="501:14574" name="View total fees generated and withdraw available earnings." x="0" y="23" width="329.3333435058594" height="34.60015869140625" />
+        </frame>
+        <frame id="501:14575" name="section" x="18" y="99.60015869140625" width="329.3333435058594" height="144">
+          <frame id="501:14576" name="Frame 674" x="0" y="0" width="329.3333435058594" height="48">
+            <frame id="501:14577" name="stats" x="0" y="0" width="152.6666717529297" height="48">
+              <text id="501:14578" name="Stat Label" x="0" y="0" width="152.6666717529297" height="18" />
+              <text id="501:14579" name="Stat Value" x="0" y="28" width="152.6666717529297" height="20" />
+            </frame>
+            <frame id="501:14580" name="stats" x="176.6666717529297" y="0" width="152.6666717529297" height="48">
+              <text id="501:14581" name="Stat Label" x="0" y="0" width="152.6666717529297" height="18" />
+              <text id="501:14582" name="Stat Value" x="0" y="28" width="152.6666717529297" height="20" />
+            </frame>
+          </frame>
+          <frame id="501:14583" name="Frame 675" x="0" y="64" width="329.3333435058594" height="80">
+            <frame id="501:14584" name="stats" x="16" y="16" width="218.33334350585938" height="48">
+              <text id="501:14585" name="Stat Label" x="0" y="0" width="218.33334350585938" height="18" />
+              <text id="501:14586" name="Stat Value" x="0" y="28" width="218.33334350585938" height="20" />
+            </frame>
+            <frame id="501:14587" name="button" x="258.3333435058594" y="22" width="55" height="36">
+              <text id="501:14588" name="Claim" x="8" y="9.5" width="39" height="17" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="501:14589" name="section" x="381.3333435058594" y="0" width="365.33331298828125" height="263">
+        <frame id="501:14590" name="title" x="18" y="18" width="329.33331298828125" height="59">
+          <frame id="603:14544" name="Frame 779" x="0" y="0" width="291.33331298828125" height="59">
+            <text id="501:14591" name="TOKEN UNLOCK" x="0" y="0" width="127" height="15" />
+            <text id="501:14592" name="View your token vesting schedule and claim unlocked tokens" x="0" y="23" width="291.33331298828125" height="36" />
+          </frame>
+          <frame id="603:14526" name="copy add" x="299.33331298828125" y="0" width="30" height="30">
+            <instance id="603:14538" name="arrow-expand-01-sharp" x="6" y="6" width="18" height="18" />
+          </frame>
+        </frame>
+        <frame id="501:14593" name="section" x="18" y="101" width="329.33331298828125" height="144">
+          <frame id="501:14594" name="Frame 674" x="0" y="0" width="329.33331298828125" height="48">
+            <frame id="501:14595" name="stats" x="0" y="0" width="152.66665649414062" height="48">
+              <text id="501:14596" name="Stat Label" x="0" y="0" width="152.66665649414062" height="18" />
+              <frame id="501:14597" name="Staked Value Container" x="0" y="28" width="152.66665649414062" height="20">
+                <text id="501:14598" name="Staked Value" x="0" y="0" width="67" height="20" />
+                <text id="501:14599" name="Currency" x="75" y="1" width="42" height="18" />
+                <text id="501:14600" name="Currency" x="117" y="3.5" width="29" height="13" hidden="true" />
+              </frame>
+            </frame>
+            <frame id="501:14601" name="stats" x="176.66665649414062" y="0" width="152.66665649414062" height="48">
+              <text id="501:14602" name="Stat Label" x="0" y="0" width="152.66665649414062" height="18" />
+              <frame id="501:14603" name="Staked Value Container" x="0" y="28" width="152.66665649414062" height="20">
+                <text id="501:14604" name="Staked Value" x="0" y="0" width="67" height="20" />
+                <text id="501:14605" name="Currency" x="75" y="1" width="42" height="18" />
+                <text id="501:14606" name="Currency" x="117" y="3.5" width="29" height="13" hidden="true" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="501:14607" name="Frame 675" x="0" y="64" width="329.33331298828125" height="80">
+            <frame id="501:14608" name="stats" x="16" y="16" width="200.33331298828125" height="48">
+              <text id="501:14609" name="Stat Label" x="0" y="0" width="200.33331298828125" height="18" />
+              <frame id="501:14610" name="Staked Value Container" x="0" y="28" width="200.33331298828125" height="20">
+                <text id="501:14611" name="Staked Value" x="0" y="0" width="67" height="20" />
+                <text id="501:14612" name="Currency" x="75" y="1" width="42" height="18" />
+                <text id="501:14613" name="Currency" x="117" y="3.5" width="29" height="13" hidden="true" />
+              </frame>
+            </frame>
+            <frame id="501:14614" name="button" x="240.33331298828125" y="22" width="73" height="36">
+              <text id="501:14615" name="Claim all" x="8" y="9.5" width="57" height="17" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="501:14616" name="section" x="762.6666259765625" y="0" width="365.33331298828125" height="259">
+        <frame id="501:14617" name="title" x="18" y="18" width="329.33331298828125" height="59">
+          <text id="501:14618" name="Reward Split" x="0" y="0" width="122" height="15" />
+          <text id="501:14619" name="Change the wallet that receivers fees. Split rewards across up to 10 wallets." x="0" y="23" width="329.33331298828125" height="36" />
+        </frame>
+        <frame id="501:14620" name="list" x="18" y="101" width="329.33331298828125" height="142">
+          <frame id="501:14621" name="TITEL" x="0" y="0" width="329.33331298828125" height="18">
+            <text id="501:14622" name="Wallet List (3)" x="0" y="0" width="89" height="18" />
+            <text id="501:14623" name="Add Wallet" x="257.33331298828125" y="0" width="72" height="18" />
+          </frame>
+          <frame id="501:14624" name="wallet" x="0" y="30" width="329.33331298828125" height="50">
+            <frame id="501:14625" name="%" x="0" y="0" width="38" height="50">
+              <text id="501:14626" name="1" x="16" y="16" width="6" height="18" />
+            </frame>
+            <frame id="501:14627" name="Wallet" x="42" y="0" width="226.33331298828125" height="50">
+              <text id="501:14628" name="0x49a7Ed1794b61...567" x="16" y="16" width="310.1416015625" height="18" />
+            </frame>
+            <frame id="501:14629" name="%" x="272.33331298828125" y="0" width="57" height="50">
+              <text id="501:14630" name="15%" x="16" y="16" width="25" height="18" />
+            </frame>
+          </frame>
+          <frame id="501:14631" name="wallet" x="0" y="92" width="329.33331298828125" height="50">
+            <frame id="501:14632" name="%" x="0" y="0" width="40" height="50">
+              <text id="501:14633" name="2" x="16" y="16" width="8" height="18" />
+            </frame>
+            <frame id="501:14634" name="Wallet" x="44" y="0" width="224.33331298828125" height="50">
+              <text id="501:14635" name="0x49a7Ed1794b68..567" x="16" y="16" width="310.1416015625" height="18" />
+            </frame>
+            <frame id="501:14636" name="%" x="272.33331298828125" y="0" width="57" height="50">
+              <text id="501:14637" name="15%" x="16" y="16" width="25" height="18" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="498:14015" name="left main" x="0" y="275" width="1128" height="710">
+      <frame id="498:14016" name="section" x="0" y="0" width="1128" height="341">
+        <frame id="498:14017" name="title" x="18" y="18" width="1092" height="41">
+          <text id="498:14018" name="Send Coins" x="0" y="0" width="101" height="15" />
+          <text id="498:14019" name="Send token to other with the option to lock them and release overtime" x="0" y="23" width="1092" height="18" />
+        </frame>
+        <frame id="498:14020" name="table" x="18" y="83" width="1092" height="192">
+          <frame id="498:14021" name="row" x="0" y="0" width="1092" height="36">
+            <frame id="498:14022" name="col" x="0" y="0" width="245" height="35">
+              <text id="498:14023" name="Address" x="16" y="10" width="68" height="15" />
+            </frame>
+            <frame id="498:14024" name="col" x="245" y="0" width="204" height="36">
+              <text id="498:14025" name="TOTAL Amount" x="16" y="10.5" width="107" height="15" />
+              <frame id="498:14026" name="Frame" x="133" y="10" width="16" height="16" />
+            </frame>
+            <frame id="498:14028" name="col" x="449" y="0" width="141" height="36">
+              <text id="498:14029" name="Length" x="16" y="10.5" width="57" height="15" />
+              <frame id="498:14030" name="Frame" x="77" y="10" width="16" height="16" />
+            </frame>
+            <frame id="501:14159" name="col" x="590" y="0" width="141" height="36">
+              <text id="501:14160" name="Start date" x="16" y="10.5" width="87" height="15" />
+              <frame id="501:14161" name="Frame" x="107" y="10" width="16" height="16" />
+            </frame>
+            <frame id="498:14032" name="col" x="731" y="0" width="361" height="35">
+              <text id="498:14033" name="Claim PROGRESS" x="16" y="10" width="124" height="15" />
+            </frame>
+          </frame>
+          <frame id="498:14034" name="row" x="0" y="40" width="1092" height="48">
+            <frame id="498:14035" name="col" x="0" y="3" width="243" height="42">
+              <text id="498:14036" name="0x49a7Ed1794b61...567" x="16" y="12" width="148" height="18" />
+              <frame id="498:14037" name="copy-01" x="170" y="13" width="16" height="16" />
+            </frame>
+            <frame id="498:14041" name="col" x="243" y="3" width="204" height="42">
+              <text id="498:14042" name="45.30K" x="16" y="12" width="47" height="18" />
+            </frame>
+            <frame id="498:14043" name="col" x="447" y="3" width="141" height="42">
+              <text id="498:14044" name="6 months" x="16" y="12" width="61" height="18" />
+            </frame>
+            <frame id="501:14164" name="col" x="588" y="3" width="141" height="42">
+              <text id="501:14165" name="12-12-2025" x="16" y="12" width="69" height="18" />
+            </frame>
+            <frame id="498:14045" name="col" x="729" y="3" width="363" height="42">
+              <text id="501:14153" name="45.30K" x="16" y="12" width="47" height="18" />
+              <frame id="498:14047" name="progress" x="73" y="16" width="235" height="10">
+                <rounded-rectangle id="498:14048" name="Rectangle 928358" x="0" y="0" width="235" height="10" />
+              </frame>
+              <text id="498:14046" name="50%" x="318" y="12" width="29" height="18" />
+            </frame>
+          </frame>
+          <frame id="498:14049" name="row" x="0" y="92" width="1092" height="48">
+            <frame id="498:14050" name="col" x="0" y="3" width="243" height="42">
+              <text id="498:14051" name="0x49a7Ed1794b61...567" x="16" y="12" width="148" height="18" />
+              <frame id="498:14052" name="copy-01" x="170" y="13" width="16" height="16" />
+            </frame>
+            <frame id="498:14056" name="col" x="243" y="3" width="204" height="42">
+              <text id="498:14057" name="45.30K" x="16" y="12" width="47" height="18" />
+            </frame>
+            <frame id="498:14058" name="col" x="447" y="3" width="141" height="42">
+              <text id="498:14059" name="6 months" x="16" y="12" width="61" height="18" />
+            </frame>
+            <frame id="501:14167" name="col" x="588" y="3" width="141" height="42">
+              <text id="501:14168" name="12-12-2025" x="16" y="12" width="69" height="18" />
+            </frame>
+            <frame id="498:14060" name="col" x="729" y="3" width="363" height="42">
+              <text id="501:14155" name="45.30K" x="16" y="12" width="47" height="18" />
+              <frame id="498:14062" name="progress" x="73" y="16" width="235" height="10">
+                <rounded-rectangle id="498:14063" name="Rectangle 928358" x="0" y="0" width="55" height="10" />
+              </frame>
+              <text id="498:14061" name="50%" x="318" y="12" width="29" height="18" />
+            </frame>
+          </frame>
+          <frame id="498:14064" name="row" x="0" y="144" width="1092" height="48">
+            <frame id="498:14065" name="col" x="0" y="-1" width="243" height="50">
+              <text id="498:14066" name="0x49a7Ed1794b61...567" x="16" y="16" width="148" height="18" />
+              <frame id="498:14067" name="copy-01" x="170" y="17" width="16" height="16" />
+            </frame>
+            <frame id="498:14071" name="col" x="243" y="-1" width="204" height="50">
+              <text id="498:14072" name="45.30K" x="16" y="16" width="47" height="18" />
+            </frame>
+            <frame id="498:14073" name="col" x="447" y="-1" width="141" height="50">
+              <text id="498:14074" name="6 months" x="16" y="16" width="61" height="18" />
+            </frame>
+            <frame id="501:14170" name="col" x="588" y="3" width="141" height="42">
+              <text id="501:14171" name="12-12-2025" x="16" y="12" width="69" height="18" />
+            </frame>
+            <frame id="498:14075" name="col" x="729" y="-1" width="363" height="50">
+              <text id="501:14157" name="45.30K" x="16" y="16" width="47" height="18" />
+              <frame id="498:14077" name="progress" x="73" y="20" width="235" height="10">
+                <rounded-rectangle id="498:14078" name="Rectangle 928358" x="0" y="0" width="235" height="10" />
+              </frame>
+              <text id="498:14076" name="50%" x="318" y="16" width="29" height="18" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="498:14079" name="button" x="18" y="299" width="179" height="24">
+          <instance id="498:14080" name="add" x="0" y="0" width="24" height="24" />
+          <text id="498:14081" name="Add Recipient Address" x="32" y="3" width="147" height="18" />
+        </frame>
+      </frame>
+      <frame id="498:14082" name="section" x="0" y="361" width="1128" height="349">
+        <frame id="498:14083" name="title" x="18" y="18" width="1092" height="41">
+          <text id="498:14084" name="Gradual sell strategy" x="0" y="0" width="215" height="15" />
+          <text id="498:14085" name="Reduce market impact by selling as a liquidity provider." x="0" y="23" width="1092" height="18" />
+          <frame id="498:14086" name="button" x="1016.5" y="0" width="75" height="20">
+            <text id="498:14087" name="History" x="0" y="1" width="47" height="18" />
+            <instance id="498:14088" name="restore" x="55" y="0" width="20" height="20" />
+          </frame>
+        </frame>
+        <frame id="498:14089" name="table" x="18" y="83" width="1092" height="200">
+          <frame id="498:14090" name="row" x="0" y="0" width="1092" height="44">
+            <frame id="498:14091" name="col" x="0" y="0" width="458" height="44">
+              <text id="498:14092" name="Price range" x="12" y="14.5" width="97" height="15" />
+            </frame>
+            <frame id="498:14093" name="col" x="458" y="0" width="206" height="44">
+              <text id="498:14094" name="SELL Amount" x="16" y="14.5" width="98" height="15" />
+            </frame>
+            <frame id="498:14095" name="col" x="664" y="0" width="142" height="44">
+              <text id="498:14096" name="Remaining" x="16" y="14.5" width="78" height="15" />
+              <frame id="498:14097" name="Frame" x="98" y="14" width="16" height="16" />
+            </frame>
+            <frame id="498:14099" name="col" x="806" y="0" width="286" height="44">
+              <text id="498:14100" name="Action" x="218" y="14.5" width="52" height="15" />
+            </frame>
+          </frame>
+          <frame id="498:14101" name="row" x="0" y="48" width="1092" height="48">
+            <frame id="498:14102" name="col" x="0" y="3" width="458" height="42">
+              <frame id="498:14103" name="Frame" x="12" y="13" width="16" height="16" />
+              <text id="498:14105" name="3601.345 - 3601.345" x="34" y="12" width="130" height="18" />
+            </frame>
+            <frame id="498:14106" name="col" x="458" y="3" width="207" height="42">
+              <text id="498:14107" name="45.30K" x="16" y="12" width="47" height="18" />
+            </frame>
+            <frame id="498:14108" name="col" x="665" y="3" width="146" height="42">
+              <text id="498:14109" name="30.1K" x="16" y="12" width="34" height="18" />
+            </frame>
+            <frame id="498:14110" name="button" x="811" y="6.3895263671875" width="281" height="35.220947265625">
+              <text id="498:14111" name="Remove LP" x="106" y="8.6104736328125" width="73" height="18" />
+              <line id="498:14112" name="Line 872" x="187" y="8" width="8.401748345931992e-7" height="19.220947265625" />
+              <text id="498:14113" name="Claim USD" x="195" y="8.6104736328125" width="70" height="18" />
+            </frame>
+          </frame>
+          <frame id="498:14114" name="row" x="0" y="100" width="1092" height="48">
+            <frame id="498:14115" name="col" x="0" y="3" width="458" height="42">
+              <frame id="498:14116" name="Frame" x="12" y="13" width="16" height="16" />
+              <text id="498:14118" name="3601.345 - 3601.345" x="34" y="12" width="130" height="18" />
+            </frame>
+            <frame id="498:14119" name="col" x="458" y="3" width="207" height="42">
+              <text id="498:14120" name="45.30K" x="16" y="12" width="47" height="18" />
+            </frame>
+            <frame id="498:14121" name="col" x="665" y="3" width="146" height="42">
+              <text id="498:14122" name="30.1K" x="16" y="12" width="34" height="18" />
+            </frame>
+            <frame id="498:14123" name="button" x="811" y="6.3895263671875" width="281" height="35.220947265625">
+              <text id="498:14124" name="Remove LP" x="106" y="8.6104736328125" width="73" height="18" />
+              <line id="498:14125" name="Line 872" x="187" y="8" width="8.401748345931992e-7" height="19.220947265625" />
+              <text id="498:14126" name="Claim USD" x="195" y="8.6104736328125" width="70" height="18" />
+            </frame>
+          </frame>
+          <frame id="498:14127" name="row" x="0" y="152" width="1092" height="48">
+            <frame id="498:14128" name="col" x="0" y="3" width="458" height="42">
+              <frame id="498:14129" name="Frame" x="12" y="13" width="16" height="16" />
+              <text id="498:14131" name="3601.345 - 3601.345" x="34" y="12" width="130" height="18" />
+            </frame>
+            <frame id="498:14132" name="col" x="458" y="3" width="207" height="42">
+              <text id="498:14133" name="45.30K" x="16" y="12" width="47" height="18" />
+            </frame>
+            <frame id="498:14134" name="col" x="665" y="3" width="146" height="42">
+              <text id="498:14135" name="30.1K" x="16" y="12" width="34" height="18" />
+            </frame>
+            <frame id="498:14136" name="button" x="811" y="6.3895263671875" width="281" height="35.220947265625">
+              <text id="498:14137" name="Remove LP" x="106" y="8.6104736328125" width="73" height="18" />
+              <line id="498:14138" name="Line 872" x="187" y="8" width="8.401748345931992e-7" height="19.220947265625" />
+              <text id="498:14139" name="Claim USD" x="195" y="8.6104736328125" width="70" height="18" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="498:14140" name="button" x="18" y="307" width="127" height="24">
+          <instance id="498:14141" name="add" x="0" y="0" width="24" height="24" />
+          <text id="498:14142" name="Add Sell Token" x="32" y="3" width="95" height="18" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+</frame>

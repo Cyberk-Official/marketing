@@ -1,0 +1,60 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-04-28T03:16:59.552Z",
+  "document": {
+    "id": "484:49715",
+    "name": "Rectangle 928362",
+    "type": "RECTANGLE",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "opacity": 0,
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.08697755634784698,
+          "g": 0.059346169233322144,
+          "b": 0.16987170279026031,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeGeometry": [],
+    "cornerRadius": 16,
+    "cornerSmoothing": 0,
+    "absoluteBoundingBox": {
+      "x": 216,
+      "y": -3655,
+      "width": 416,
+      "height": 196
+    },
+    "absoluteRenderBounds": null,
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 32], [0, 1, 80]],
+    "size": {
+      "x": 416,
+      "y": 196
+    },
+    "layoutAlign": "STRETCH",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "FIXED",
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

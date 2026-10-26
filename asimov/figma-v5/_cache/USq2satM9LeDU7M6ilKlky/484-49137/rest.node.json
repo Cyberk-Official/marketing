@@ -1,0 +1,75 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-04-28T03:16:59.552Z",
+  "document": {
+    "id": "484:49137",
+    "name": "Rectangle 928360",
+    "type": "RECTANGLE",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "opacity": 0.8999999761581421,
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.05098039284348488,
+          "g": 0.07450980693101883,
+          "b": 0.1764705926179886,
+          "a": 1
+        }
+      }
+    ],
+    "fillGeometry": [
+      {
+        "path": "M0 0L1440 0L1440 1308L0 1308L0 0Z",
+        "windingRule": "NONZERO"
+      }
+    ],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeGeometry": [],
+    "styles": {
+      "fill": "4:26"
+    },
+    "absoluteBoundingBox": {
+      "x": -296,
+      "y": -4031,
+      "width": 1440,
+      "height": 1308
+    },
+    "absoluteRenderBounds": {
+      "x": -296,
+      "y": -4031,
+      "width": 1440,
+      "height": 1174
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "CENTER"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 0]],
+    "size": {
+      "x": 1440,
+      "y": 1308
+    },
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {
+    "4:26": {
+      "key": "09f5a7f52002b2416e931183e99a8a2b6d2d4164",
+      "name": "Darkblue",
+      "styleType": "FILL",
+      "remote": false,
+      "description": ""
+    }
+  }
+}

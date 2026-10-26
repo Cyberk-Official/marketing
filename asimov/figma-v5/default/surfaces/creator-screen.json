@@ -1,0 +1,134 @@
+{
+  "name": "creator-screen",
+  "type": "screen",
+  "layout": "default",
+  "figma_urls": ["https://figma.com/design/USq2satM9LeDU7M6ilKlky/?node-id=498-13895"],
+  "components": [
+    {
+      "name": "creator-overview",
+      "states": ["default"]
+    },
+    {
+      "name": "creator-profile",
+      "states": ["default"]
+    },
+    {
+      "name": "creator-token-tabs",
+      "states": ["default"]
+    },
+    {
+      "name": "fee-earning-card",
+      "states": ["default"]
+    },
+    {
+      "name": "gradual-sell-table",
+      "states": ["default"]
+    },
+    {
+      "name": "reward-split-card",
+      "states": ["default"]
+    },
+    {
+      "name": "send-coins-table",
+      "states": ["default"]
+    },
+    {
+      "name": "token-unlock-card",
+      "states": ["default"]
+    }
+  ],
+  "data_regions": [],
+  "states_overall": [],
+  "head": {},
+  "surface_node_id": "498:13894",
+  "baseline_status": {
+    "status": "valid",
+    "generated_at": "2026-04-24T07:18:32.283Z",
+    "source": "REST"
+  },
+  "region_skeleton": {
+    "root_selector": "[data-surface-root=\"creator-screen\"]",
+    "root": {
+      "positioning": "flow",
+      "dimensions": {
+        "w": 1160,
+        "h": 1366
+      }
+    },
+    "regions": [
+      {
+        "id": "creator",
+        "parent": "root",
+        "selector": "[data-region=\"creator\"]",
+        "bbox": {
+          "x": 16,
+          "y": 16,
+          "w": 1128,
+          "h": 110
+        },
+        "positioning": "flow",
+        "layout": "flex-row",
+        "component_slot": "CreatorProfile",
+        "order": 0
+      },
+      {
+        "id": "header-container",
+        "parent": "root",
+        "selector": "[data-region=\"header-container\"]",
+        "bbox": {
+          "x": 16,
+          "y": 166,
+          "w": 1128,
+          "h": 119
+        },
+        "positioning": "flow",
+        "layout": "flex-column",
+        "component_slot": "CreatorOverview",
+        "order": 1
+      },
+      {
+        "id": "tabs",
+        "parent": "root",
+        "selector": "[data-region=\"tabs\"]",
+        "bbox": {
+          "x": 16,
+          "y": 305,
+          "w": 534,
+          "h": 40
+        },
+        "positioning": "flow",
+        "layout": "flex-row",
+        "component_slot": "CreatorTokenTabs",
+        "order": 2
+      },
+      {
+        "id": "section",
+        "parent": "root",
+        "selector": "[data-region=\"section\"]",
+        "bbox": {
+          "x": 16,
+          "y": 365,
+          "w": 1128,
+          "h": 985
+        },
+        "positioning": "flow",
+        "layout": "flex-column",
+        "component_slot": "GradualSellTable",
+        "order": 3
+      }
+    ],
+    "version": 2
+  },
+  "baseline_meta": {
+    "png_dims": {
+      "w": 2320,
+      "h": 2732
+    },
+    "expected_png_dims": {
+      "w": 2320,
+      "h": 2732
+    },
+    "content_sha256": "3617b9993b6b40fabaa17d6f258dad3b69a2453bf0055207afe06624c3700457",
+    "generated_at": "2026-04-24T07:18:32.285Z"
+  }
+}

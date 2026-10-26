@@ -1,0 +1,219 @@
+{
+  "state": "default",
+  "node": "501:14616",
+  "baseline": "default.png",
+  "export_scale": 2,
+  "has_raster_assets": false,
+  "dimensions": {
+    "width": 365,
+    "height": 259
+  },
+  "css": {
+    "background-color": "rgb(21, 26, 52)",
+    "padding-top": "18px",
+    "padding-right": "18px",
+    "padding-bottom": "18px",
+    "padding-left": "18px",
+    "gap": "24px",
+    "display": "flex",
+    "flex-direction": "column",
+    "flex-grow": "1",
+    "align-self": "stretch",
+    "width": "100%",
+    "height": "100%",
+    "position": "absolute"
+  },
+  "unsupported": [],
+  "textNodes": [
+    {
+      "id": "501:14618",
+      "name": "Reward Split",
+      "localBox": {
+        "x": 18,
+        "y": 18,
+        "width": 122,
+        "height": 15
+      },
+      "style": {
+        "fontFamily": "Nord",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 14.2,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0.84
+      },
+      "characters": "Reward Split"
+    },
+    {
+      "id": "501:14619",
+      "name": "Change the wallet that receivers fees. Split rewards across ",
+      "localBox": {
+        "x": 18,
+        "y": 41,
+        "width": 329.33331298828125,
+        "height": 36
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Change the wallet that receivers fees. Split rewards across up to 10 wallets."
+    },
+    {
+      "id": "501:14622",
+      "name": "Wallet List (3)",
+      "localBox": {
+        "x": 18,
+        "y": 101,
+        "width": 89,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Wallet List (3)"
+    },
+    {
+      "id": "501:14623",
+      "name": "Add Wallet",
+      "localBox": {
+        "x": 275.3330078125,
+        "y": 101,
+        "width": 72,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "Add Wallet"
+    },
+    {
+      "id": "501:14626",
+      "name": "1",
+      "localBox": {
+        "x": 34,
+        "y": 147,
+        "width": 6,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "1"
+    },
+    {
+      "id": "501:14628",
+      "name": "0x49a7Ed1794b61...567",
+      "localBox": {
+        "x": 76,
+        "y": 147,
+        "width": 310.1416015625,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "0x49a7Ed1794b61...567"
+    },
+    {
+      "id": "501:14630",
+      "name": "15%",
+      "localBox": {
+        "x": 306.3330078125,
+        "y": 147,
+        "width": 25,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "15%"
+    },
+    {
+      "id": "501:14633",
+      "name": "2",
+      "localBox": {
+        "x": 34,
+        "y": 209,
+        "width": 8,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "2"
+    },
+    {
+      "id": "501:14635",
+      "name": "0x49a7Ed1794b68..567",
+      "localBox": {
+        "x": 78,
+        "y": 209,
+        "width": 310.1416015625,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "0x49a7Ed1794b68..567"
+    },
+    {
+      "id": "501:14637",
+      "name": "15%",
+      "localBox": {
+        "x": 306.3330078125,
+        "y": 209,
+        "width": 25,
+        "height": 18
+      },
+      "style": {
+        "fontFamily": "Instrument Sans",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 18,
+        "lineHeightUnit": "PIXELS",
+        "letterSpacing": 0
+      },
+      "characters": "15%"
+    }
+  ]
+}

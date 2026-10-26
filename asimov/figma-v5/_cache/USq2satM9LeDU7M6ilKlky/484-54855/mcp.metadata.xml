@@ -1,0 +1,388 @@
+<!-- cachedAt: 2026-04-28T03:12:46.244Z -->
+<frame id="484:54855" name="Earn-1" x="1494" y="4115" width="1440" height="1176">
+  <rounded-rectangle id="484:54856" name="Rectangle 928428" x="280" y="676" width="1160" height="165" />
+  <instance id="484:54866" name="Footer" x="275" y="1176" width="1165" height="71" />
+  <text id="484:54867" name="Text" x="70" y="45" width="0" height="15" />
+  <frame id="484:55061" name="Main Container" x="280" y="68" width="1156" height="1006">
+    <frame id="484:55062" name="Header Container" x="16" y="16" width="1124" height="155">
+      <text id="484:55063" name="Header Title" x="0" y="0" width="144" height="15" />
+      <frame id="484:55064" name="stats" x="0" y="27" width="1124" height="128">
+        <frame id="484:55065" name="Stat Container" x="0" y="0" width="174" height="128">
+          <frame id="484:55066" name="stats" x="20" y="20" width="80" height="52">
+            <text id="484:55067" name="Stat Label" x="0" y="0" width="80" height="18" />
+            <text id="484:55068" name="Stat Value" x="0" y="28" width="80" height="24" />
+          </frame>
+          <text id="484:55069" name="Stat Description" x="20" y="92" width="134" height="16" />
+          <line id="484:55070" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        </frame>
+        <frame id="484:55071" name="Stat Container" x="190" y="0" width="174" height="128">
+          <frame id="484:55072" name="stats" x="20" y="20" width="133" height="52">
+            <text id="484:55073" name="Stat Label" x="0" y="0" width="133" height="18" />
+            <text id="484:55074" name="Stat Value" x="0" y="28" width="133" height="24" />
+          </frame>
+          <text id="484:55075" name="Stat Description" x="20" y="92" width="134" height="16" />
+          <line id="484:55076" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        </frame>
+        <frame id="484:55077" name="Stat Container" x="380" y="0" width="174" height="128">
+          <frame id="484:55078" name="stats" x="20" y="20" width="127" height="52">
+            <text id="484:55079" name="Stat Label" x="0" y="0" width="127" height="18" />
+            <text id="484:55080" name="Stat Value" x="0" y="28" width="127" height="24" />
+          </frame>
+          <text id="484:55081" name="Stat Description" x="20" y="92" width="134" height="16" />
+          <line id="484:55082" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        </frame>
+        <frame id="484:55083" name="Stat Container" x="570" y="0" width="174" height="128">
+          <frame id="484:55084" name="stats" x="20" y="20" width="108" height="52">
+            <text id="484:55085" name="Stat Label" x="0" y="0" width="108" height="18" />
+            <text id="484:55086" name="Stat Value" x="0" y="28" width="108" height="24" />
+          </frame>
+          <text id="484:55087" name="Stat Description" x="20" y="92" width="141" height="16" />
+          <line id="484:55088" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        </frame>
+        <frame id="484:55089" name="Stat Container" x="760" y="0" width="174" height="128">
+          <frame id="484:55090" name="stats" x="20" y="20" width="73" height="52">
+            <text id="484:55091" name="Stat Label" x="0" y="0" width="73" height="18" />
+            <text id="484:55092" name="Stat Value" x="0" y="28" width="73" height="24" />
+          </frame>
+          <text id="484:55093" name="Stat Description" x="20" y="92" width="52" height="16" />
+          <line id="484:55094" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        </frame>
+        <frame id="484:55095" name="Stat Container" x="950" y="0" width="174" height="128">
+          <frame id="484:55096" name="stats" x="20" y="20" width="84" height="52">
+            <text id="484:55097" name="Stat Label" x="0" y="0" width="84" height="18" />
+            <text id="484:55098" name="Stat Value" x="0" y="28" width="84" height="24" />
+          </frame>
+          <text id="484:55099" name="Stat Description" x="20" y="92" width="40" height="16" />
+          <line id="484:55100" name="Line 874" x="0" y="16" width="7.430935511365533e-7" height="17" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="616:13741" name="txt" x="16" y="191" width="1124" height="98">
+      <rounded-rectangle id="616:13742" name="image 23" x="0" y="-268" width="1128" height="752" />
+      <frame id="616:13743" name="Frame 23" x="24" y="24" width="1076" height="50">
+        <frame id="616:13744" name="Frame 789" x="0" y="0" width="358" height="50">
+          <text id="616:13745" name="Buy AOL" x="0" y="0" width="358" height="22" />
+          <text id="616:13746" name="Deposit AOL and earn a percentage of platform revenue" x="0" y="32" width="358" height="18" />
+        </frame>
+        <frame id="1277:19209" name="Frame 2085663592" x="715" y="3" width="361" height="44">
+          <frame id="1277:19202" name="Frame 2" x="0" y="0" width="248" height="44">
+            <rounded-rectangle id="1277:19203" name="image 12" x="12" y="14" width="16" height="16" />
+            <text id="1277:19204" name="100.00" x="36" y="13.5" width="149" height="17" />
+            <line id="1277:19205" name="Line 886" x="193" y="15" width="6.119598765508272e-7" height="14" />
+            <frame id="1277:19206" name="Frame 762" x="201" y="13.5" width="35" height="17">
+              <text id="1277:19207" name="USD1" x="0" y="0" width="35" height="17" />
+            </frame>
+          </frame>
+          <frame id="616:13747" name="button" x="260" y="0" width="101" height="44">
+            <text id="616:13748" name="BUY AOL" x="16" y="12" width="69" height="20" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="484:55101" name="Content Container" x="16" y="309" width="1124" height="681">
+      <frame id="484:55102" name="Staking Dashboard" x="0" y="0" width="649" height="673">
+        <frame id="786:14436" name="Container" x="0" y="0" width="649" height="505">
+          <rounded-rectangle id="786:14437" name="image 21" x="662.9971313476562" y="95.8681640625" width="324" height="486" />
+          <rounded-rectangle id="786:14438" name="Staking Dashboard Image" x="0" y="0.5" width="480" height="548" />
+          <frame id="786:14439" name="Header" x="0" y="0" width="649" height="55">
+            <text id="786:14440" name="Title" x="20" y="20" width="177" height="15" />
+          </frame>
+          <frame id="786:14441" name="Main Content" x="0" y="55" width="649" height="92">
+            <frame id="786:14442" name="Icon Container" x="20" y="22" width="48" height="48">
+              <rounded-rectangle id="786:14443" name="Icon Background" x="20" y="22" width="48" height="48" />
+              <frame id="786:14444" name="Solana" x="27.19999933242798" y="29.19999933242798" width="33.60000228881836" height="33.60000228881836">
+                <rounded-rectangle id="786:14445" name="Icon" x="-4.636634826660156" y="-3.63671875" width="40.27326965332031" height="40.27326965332031" />
+              </frame>
+            </frame>
+            <frame id="786:14446" name="Staking Info" x="82" y="20" width="311" height="52">
+              <text id="786:14447" name="Staking Balance Label" x="0" y="0" width="311" height="18" />
+              <frame id="786:14448" name="Staking Balance Container" x="0" y="28" width="311" height="24">
+                <text id="786:14449" name="Staking Balance" x="0" y="0" width="131" height="24" />
+                <text id="786:14450" name="Currency" x="139" y="5.5" width="29" height="13" />
+              </frame>
+            </frame>
+            <frame id="786:14451" name="Stats Container" x="407" y="23" width="188" height="46">
+              <line id="786:14452" name="Line 875" x="0.0000020107240743527655" y="0" width="0.0000020107240743527655" height="46" />
+              <frame id="786:14453" name="Stats Content" x="16.000001907348633" y="0" width="172" height="46">
+                <frame id="786:14454" name="stats" x="0" y="0" width="78" height="46">
+                  <text id="786:14455" name="Rewards Claimed Label" x="0" y="0" width="112" height="18" />
+                  <frame id="786:14456" name="Rewards Claimed Value Container" x="0" y="28" width="78" height="18">
+                    <text id="786:14457" name="Rewards Claimed Value" x="0" y="0" width="52" height="18" />
+                  </frame>
+                </frame>
+                <frame id="786:14462" name="stats" x="94" y="0" width="78" height="46">
+                  <text id="786:14463" name="Rewards Claimed Label" x="0" y="0" width="112" height="18" />
+                  <frame id="786:14464" name="Rewards Claimed Value Container" x="0" y="28" width="78" height="18">
+                    <text id="786:14465" name="Rewards Claimed Value" x="0" y="0" width="15" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="786:14466" name="Frame" x="629" y="56" width="20" height="20" />
+          </frame>
+          <frame id="786:14468" name="Progress Container" x="0" y="147" width="649" height="190">
+            <frame id="786:14469" name="Progress Content" x="16" y="0" width="617" height="128">
+              <frame id="786:14470" name="Progress Info" x="20" y="20" width="577" height="16">
+                <frame id="786:14471" name="Stake Duration Container" x="0" y="-1" width="117" height="18">
+                  <text id="786:14472" name="Stake Duration Label" x="0" y="0" width="32" height="18" />
+                  <text id="786:14473" name="Stake Duration Value" x="40" y="0.5" width="77" height="17" />
+                </frame>
+                <frame id="786:14474" name="Lockup Ends Container" x="409" y="-1" width="168" height="18">
+                  <text id="786:14475" name="Lockup Ends Label" x="0" y="0" width="83" height="18" />
+                  <text id="786:14476" name="Lockup Ends Value" x="91" y="0.5" width="77" height="17" />
+                </frame>
+              </frame>
+              <frame id="786:14477" name="Progress Bar Container" x="20" y="60" width="577" height="8">
+                <rounded-rectangle id="786:14478" name="Progress Bar" x="0" y="0" width="385" height="8" />
+                <frame id="786:14479" name="Progress Marker Container" x="-1" y="-3" width="14" height="14">
+                  <ellipse id="786:14480" name="Ellipse 2975" x="4" y="4" width="6" height="6" />
+                </frame>
+                <frame id="786:14481" name="Progress Marker Container" x="185" y="-3" width="14" height="14">
+                  <ellipse id="786:14482" name="Ellipse 2975" x="4" y="4" width="6" height="6" />
+                </frame>
+                <frame id="786:14483" name="Progress Marker Container" x="743" y="-3" width="14" height="14">
+                  <ellipse id="786:14484" name="Ellipse 2975" x="4" y="4" width="6" height="6" />
+                </frame>
+                <frame id="786:14485" name="Progress Marker Container" x="371" y="-3" width="14" height="14">
+                  <ellipse id="786:14486" name="Ellipse 2975" x="4" y="4" width="6" height="6" />
+                </frame>
+                <frame id="786:14487" name="Progress Marker Container" x="557" y="-3" width="14" height="14">
+                  <ellipse id="786:14488" name="Ellipse 2975" x="4" y="4" width="6" height="6" />
+                </frame>
+              </frame>
+              <frame id="786:14489" name="Progress Info" x="20" y="92" width="755" height="16">
+                <frame id="786:14490" name="Stake Duration Container" x="0" y="0" width="19" height="16">
+                  <text id="786:14491" name="Stake Duration Label" x="0" y="0" width="19" height="16" />
+                </frame>
+                <frame id="786:14492" name="Stake Duration Container" x="185.75" y="0" width="18" height="16">
+                  <text id="786:14493" name="Stake Duration Label" x="0" y="0" width="18" height="16" />
+                </frame>
+                <frame id="786:14494" name="Stake Duration Container" x="370.5" y="0" width="19" height="16">
+                  <text id="786:14495" name="Stake Duration Label" x="0" y="0" width="19" height="16" />
+                </frame>
+                <frame id="786:14496" name="Stake Duration Container" x="556.25" y="0" width="19" height="16">
+                  <text id="786:14497" name="Stake Duration Label" x="0" y="0" width="19" height="16" />
+                </frame>
+                <frame id="786:14498" name="Stake Duration Container" x="742" y="0" width="13" height="16">
+                  <text id="786:14499" name="Stake Duration Label" x="0" y="0" width="13" height="16" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="945:20237" name="early unstake" x="16" y="138" width="617" height="36">
+              <instance id="945:20246" name="error_outline" x="48" y="10" width="16" height="16" />
+              <text id="945:20235" name="Unstaking before 21 Feb 2027 will incur an early withdrawal fee." x="80" y="9" width="399" height="18" />
+              <frame id="945:20175" name="button" x="495" y="0" width="122" height="36">
+                <text id="945:20176" name="Early Unstake" x="16" y="9.5" width="90" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="786:14500" name="Main Content" x="0" y="337" width="649" height="84">
+            <frame id="786:14501" name="Icon Container" x="16" y="18" width="48" height="48">
+              <rounded-rectangle id="786:14502" name="Icon Background" x="16" y="18" width="48" height="48" />
+            </frame>
+            <frame id="786:14503" name="Staking Info" x="78" y="16" width="319" height="52">
+              <text id="786:14504" name="Staking Balance Label" x="0" y="0" width="319" height="18" />
+              <frame id="786:14505" name="Staking Balance Container" x="0" y="28" width="319" height="24">
+                <text id="786:14506" name="Staking Balance" x="0" y="0" width="131" height="24" />
+                <text id="786:14507" name="Currency" x="139" y="3" width="57" height="18" />
+              </frame>
+            </frame>
+            <frame id="786:14508" name="Stats Container" x="411" y="19" width="188" height="46">
+              <line id="786:14509" name="Line 875" x="0.0000020107240743527655" y="0" width="0.0000020107240743527655" height="46" />
+              <frame id="786:14510" name="Stats Content" x="16.000001907348633" y="0" width="172" height="46">
+                <frame id="786:14511" name="stats" x="0" y="0" width="78" height="46">
+                  <text id="786:14512" name="Rewards Claimed Label" x="0" y="0" width="112" height="18" />
+                  <frame id="786:14513" name="Rewards Claimed Value Container" x="0" y="28" width="78" height="18">
+                    <text id="786:14514" name="Rewards Claimed Value" x="0" y="0" width="52" height="18" />
+                  </frame>
+                </frame>
+                <frame id="786:14519" name="stats" x="94" y="0" width="78" height="46">
+                  <text id="786:14520" name="Rewards Claimed Label" x="0" y="0" width="112" height="18" />
+                  <frame id="786:14521" name="Rewards Claimed Value Container" x="0" y="28" width="78" height="18">
+                    <text id="786:14522" name="Rewards Claimed Value" x="0" y="0" width="15" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="786:14523" name="Frame" x="613" y="32" width="20" height="20" />
+          </frame>
+          <frame id="786:14525" name="Main Content" x="0" y="421" width="649" height="84">
+            <frame id="786:14526" name="Icon Container" x="16" y="18" width="48" height="48">
+              <rounded-rectangle id="786:14527" name="Icon Background" x="16" y="18" width="48" height="48" />
+            </frame>
+            <frame id="786:14528" name="Staking Info" x="78" y="16" width="319" height="52">
+              <text id="786:14529" name="Staking Balance Label" x="0" y="0" width="319" height="18" />
+              <frame id="786:14530" name="Staking Balance Container" x="0" y="28" width="319" height="24">
+                <text id="786:14531" name="Staking Balance" x="0" y="0" width="131" height="24" />
+                <text id="786:14532" name="Currency" x="139" y="3" width="47" height="18" />
+              </frame>
+            </frame>
+            <frame id="786:14533" name="Stats Container" x="411" y="19" width="188" height="46">
+              <line id="786:14534" name="Line 875" x="0.0000020107240743527655" y="0" width="0.0000020107240743527655" height="46" />
+              <frame id="786:14535" name="Stats Content" x="16.000001907348633" y="0" width="172" height="46">
+                <frame id="786:14536" name="stats" x="0" y="0" width="78" height="46">
+                  <text id="786:14537" name="Rewards Claimed Label" x="0" y="0" width="112" height="18" />
+                  <frame id="786:14538" name="Rewards Claimed Value Container" x="0" y="28" width="78" height="18">
+                    <text id="786:14539" name="Rewards Claimed Value" x="0" y="0" width="52" height="18" />
+                  </frame>
+                </frame>
+                <frame id="786:14544" name="stats" x="94" y="0" width="78" height="46">
+                  <text id="786:14545" name="Rewards Claimed Label" x="0" y="0" width="112" height="18" />
+                  <frame id="786:14546" name="Rewards Claimed Value Container" x="0" y="28" width="78" height="18">
+                    <text id="786:14547" name="Rewards Claimed Value" x="0" y="0" width="15" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="786:14548" name="Frame" x="613" y="32" width="20" height="20" />
+          </frame>
+        </frame>
+        <frame id="945:20329" name="Container" x="0" y="521" width="649" height="152">
+          <frame id="945:20330" name="Header" x="0" y="0" width="649" height="58">
+            <text id="945:20331" name="Title" x="20" y="21.5" width="134" height="15" />
+            <frame id="945:20332" name="Claim Info" x="164" y="20" width="315" height="18">
+              <text id="945:20333" name="Staking Balance Label" x="0" y="0" width="470" height="24" hidden="true" />
+              <text id="945:20334" name="Staking Balance Label" x="0" y="0" width="315" height="18" />
+            </frame>
+          </frame>
+          <frame id="945:20335" name="Main Content" x="0" y="58" width="649" height="94">
+            <frame id="945:20387" name="Progress Content" x="20" y="20" width="609" height="54">
+              <rounded-rectangle id="945:20421" name="image 12" x="0" y="7" width="40" height="40" />
+              <frame id="945:20388" name="Claim Info" x="56" y="0" width="366" height="54">
+                <text id="945:20389" name="Staking Balance Label" x="0" y="0" width="366" height="18" />
+                <frame id="945:20390" name="Lockup Ends Container" x="0" y="30" width="145" height="24">
+                  <text id="945:20391" name="Lockup Ends Value" x="0" y="0" width="44" height="24" />
+                  <text id="945:20392" name="Lockup Ends Label" x="52" y="2" width="93" height="20" />
+                </frame>
+                <frame id="945:20393" name="Claim Details" x="0" y="65" width="595" height="42" hidden="true">
+                  <text id="945:20394" name="Staking Balance Label" x="0" y="0" width="595" height="18" />
+                  <text id="945:20395" name="Staking Balance Label" x="0" y="25" width="595" height="18" />
+                </frame>
+              </frame>
+              <line id="945:20398" name="Line 875" x="438" y="0" width="0.0000023604152374900877" height="54" />
+              <frame id="945:20399" name="Claim Info Container" x="454" y="4" width="155" height="46">
+                <frame id="945:20400" name="Timer Info" x="0" y="0" width="155" height="46">
+                  <text id="945:20401" name="Staking Balance Label" x="0" y="0" width="155" height="18" />
+                  <text id="945:20402" name="Staking Balance Label" x="0" y="22" width="78" height="24" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="484:55237" name="Container" x="665" y="0" width="459" height="681">
+        <frame id="484:55238" name="Tabs Container" x="0" y="0" width="459" height="48">
+          <frame id="484:55239" name="tabs" x="4" y="4" width="225.5" height="40">
+            <text id="484:55240" name="Tab Label" x="95.75" y="10" width="34" height="20" />
+          </frame>
+          <frame id="484:55241" name="tabs" x="229.5" y="4" width="225.5" height="40">
+            <text id="484:55242" name="Tab Label" x="72.25" y="10" width="81" height="20" />
+          </frame>
+        </frame>
+        <frame id="484:55243" name="Content Container" x="0" y="60" width="459" height="621">
+          <frame id="1269:18171" name="tab" x="20" y="20" width="54" height="15">
+            <text id="1269:18172" name="Tab Label" x="0" y="0" width="54" height="15" />
+          </frame>
+          <frame id="484:55251" name="Stake Container" x="20" y="59" width="419" height="342">
+            <frame id="484:55252" name="trade" x="0" y="0" width="419" height="134">
+              <frame id="484:55253" name="Unstake Amount Info" x="0" y="0" width="419" height="18">
+                <text id="484:55254" name="Buy Amount Label" x="0" y="0" width="92" height="18" />
+                <text id="484:55255" name="Buy Amount Label" x="287" y="0" width="132" height="18" />
+              </frame>
+              <frame id="484:55256" name="buy" x="0" y="30" width="419" height="64">
+                <frame id="484:55257" name="type" x="16" y="16" width="387" height="32">
+                  <text id="484:55258" name="Buy Amount Value" x="0" y="0" width="53" height="32" />
+                  <frame id="484:55259" name="sol" x="327" y="4" width="60" height="24">
+                    <frame id="484:55260" name="Icon Container" x="0" y="0" width="24" height="24">
+                      <rounded-rectangle id="484:55261" name="Icon Background" x="0" y="0" width="24" height="24" />
+                      <frame id="484:55262" name="Solana" x="3.600001573562622" y="3.600001573562622" width="16.80000114440918" height="16.80000114440918">
+                        <rounded-rectangle id="484:55263" name="Icon" x="-1.7455402612686157" y="-1.2657209634780884" width="19.331167221069336" height="19.331167221069336" />
+                      </frame>
+                    </frame>
+                    <text id="484:55264" name="Currency Label" x="31" y="3.5" width="29" height="17" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="484:55265" name="selection" x="0" y="106" width="419" height="28">
+                <frame id="484:55266" name="selection" x="0" y="0" width="98.75" height="28">
+                  <text id="484:55267" name="Selection Value" x="37.875" y="6" width="23" height="16" />
+                </frame>
+                <frame id="484:55268" name="selection" x="106.75" y="0" width="98.75" height="28">
+                  <text id="484:55269" name="Selection Value" x="36.875" y="6" width="25" height="16" />
+                </frame>
+                <frame id="484:55270" name="selection" x="213.5" y="0" width="98.75" height="28">
+                  <text id="484:55271" name="Selection Value" x="37.875" y="6" width="23" height="16" />
+                </frame>
+                <frame id="484:55272" name="selection" x="320.25" y="0" width="98.75" height="28">
+                  <text id="484:55273" name="Selection Value" x="34.875" y="6" width="29" height="16" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="484:55274" name="trade" x="0" y="158" width="419" height="184">
+              <text id="484:55275" name="Buy Amount Label" x="0" y="0" width="419" height="18" />
+              <frame id="484:55276" name="Stake Duration Container" x="0" y="30" width="419" height="154">
+                <frame id="484:55277" name="Stake Duration" x="0" y="0" width="419" height="73">
+                  <frame id="484:55278" name="duration" x="0" y="0" width="134.3333282470703" height="73">
+                    <text id="484:55279" name="Duration Label" x="16" y="16" width="79" height="16" />
+                    <text id="484:55280" name="Duration Value" x="16" y="40" width="25" height="17" />
+                  </frame>
+                  <frame id="484:55281" name="duration" x="142.3333282470703" y="0" width="134.33334350585938" height="73">
+                    <text id="484:55282" name="Duration Label" x="16" y="16" width="87" height="16" />
+                    <text id="484:55283" name="Duration Value" x="16" y="40" width="28" height="17" />
+                  </frame>
+                  <frame id="484:55284" name="duration" x="284.66668701171875" y="0" width="134.33334350585938" height="73">
+                    <text id="484:55285" name="Duration Label" x="16" y="16" width="88" height="16" />
+                    <text id="484:55286" name="Duration Value" x="16" y="40" width="35" height="17" />
+                  </frame>
+                </frame>
+                <frame id="484:55287" name="Stake Duration" x="0" y="81" width="419" height="73">
+                  <frame id="484:55288" name="duration" x="0" y="0" width="134.3333282470703" height="73">
+                    <text id="484:55289" name="Duration Label" x="16" y="16" width="86" height="16" />
+                    <text id="484:55290" name="Duration Value" x="16" y="40" width="17" height="17" />
+                  </frame>
+                  <frame id="484:55291" name="duration" x="142.3333282470703" y="0" width="134.33334350585938" height="73">
+                    <text id="484:55292" name="Duration Label" x="16" y="16" width="94" height="16" />
+                    <text id="484:55293" name="Duration Value" x="16" y="40" width="16" height="17" />
+                  </frame>
+                  <frame id="484:55294" name="duration" x="284.66668701171875" y="0" width="134.33334350585938" height="73">
+                    <text id="484:55295" name="Duration Label" x="16" y="16" width="95" height="16" />
+                    <text id="484:55296" name="Duration Value" x="16" y="40" width="17" height="17" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="484:55297" name="Stake Summary" x="20" y="425" width="419" height="108">
+            <frame id="484:55298" name="Stake Summary Header" x="0" y="0" width="419" height="24">
+              <text id="484:55299" name="Stake Summary Label" x="0" y="3.5" width="75" height="17" />
+              <frame id="484:55300" name="Stake Summary Value" x="342" y="0" width="77" height="24">
+                <rounded-rectangle id="484:55301" name="image 12" x="0" y="0" width="24" height="24" />
+                <text id="484:55302" name="Stake Summary Currency" x="30" y="3.5" width="47" height="17" />
+              </frame>
+            </frame>
+            <line id="484:55303" name="Line 873" x="0" y="40" width="419" height="0" />
+            <frame id="484:55304" name="Staking Power Container" x="0" y="56" width="419" height="18">
+              <text id="484:55305" name="Staking Power Label" x="0" y="0" width="119" height="18" />
+              <frame id="484:55306" name="Staking Power Value" x="333" y="0" width="86" height="17">
+                <text id="484:55307" name="Staking Power Multiplier" x="0" y="0" width="10" height="17" />
+                <text id="484:55308" name="Staking Power Multiplier Value" x="16" y="2" width="70" height="15" />
+              </frame>
+            </frame>
+            <frame id="484:55309" name="Transaction Fee Container" x="0" y="90" width="419" height="18">
+              <text id="484:55310" name="Transaction Fee Label" x="0" y="0" width="102" height="18" />
+              <frame id="484:55311" name="Transaction Fee Value" x="357" y="0" width="62" height="17">
+                <text id="484:55312" name="Transaction Fee Currency" x="0" y="0" width="62" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="484:55313" name="button" x="20" y="557" width="419" height="44">
+            <text id="484:55314" name="Enter Amount" x="156" y="12" width="107" height="20" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <instance id="484:56111" name="Footer" x="280.5" y="1096" width="1165" height="71" />
+  <instance id="582:11812" name="sidebar" x="0" y="0" width="280" height="1176" />
+  <instance id="582:12269" name="header" x="280" y="0" width="1160" height="68" />
+</frame>

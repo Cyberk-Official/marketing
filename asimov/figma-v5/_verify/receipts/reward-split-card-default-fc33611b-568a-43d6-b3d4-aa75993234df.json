@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "fc33611b-568a-43d6-b3d4-aa75993234df",
+  "timestamp": "2026-04-24T07:50:35.126Z",
+  "kind": "component",
+  "component": "reward-split-card",
+  "state": "default",
+  "story": "features-creator-ui-reward-split-card--default",
+  "selector": "[data-testid=\"reward-split-card\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": "3f10f8a226f1cfb94ae62595d2875aebcd8429482c41992531a2bff2a9b09c78"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "93bc8871-5e99-463a-92cb-0b34c0127cd6",
+  "timestamp": "2026-04-24T07:50:57.697Z",
+  "kind": "component",
+  "component": "send-coins-table",
+  "state": "default",
+  "story": "features-creator-ui-send-coins-table--default",
+  "selector": "[data-testid=\"send-coins-table\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": "222a7b30d3a6289def910bf49632861c7ec61d7b11630db177880117cc551048"
+}

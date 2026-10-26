@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "receipt_id": "74e15fc2-6302-467d-9c7a-4ce084041d58",
+  "timestamp": "2026-04-24T10:24:21.639Z",
+  "kind": "component",
+  "component": "creator-profile",
+  "state": "default",
+  "story": "features-creator-ui-creator-profile--default",
+  "selector": "[data-testid=\"creator-profile\"]",
+  "gate_results": {
+    "measurement": "pass",
+    "visual": "pass"
+  },
+  "aggregate_status": "pass",
+  "thresholds_hash": "fa3c75c1c05f8b06",
+  "tol_scale": 1,
+  "signature": "b4b4677bad15c3ebf03fa17b87bebcd554a1e955d246753ef712aff0cb8d091b"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "0f24d795-8bd8-4824-8933-d05187f63c12",
+  "timestamp": "2026-04-24T07:51:05.453Z",
+  "kind": "component",
+  "component": "gradual-sell-table",
+  "state": "default",
+  "story": "features-creator-ui-gradual-sell-table--default",
+  "selector": "[data-testid=\"gradual-sell-table\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": "3cc98cb64eba899594c8b1672cd9ebe36f9a562d27eb2ff413ef0a80d87fd568"
+}

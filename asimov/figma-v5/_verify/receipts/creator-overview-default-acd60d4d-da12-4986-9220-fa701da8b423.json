@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "receipt_id": "acd60d4d-da12-4986-9220-fa701da8b423",
+  "timestamp": "2026-04-24T07:43:16.788Z",
+  "kind": "component",
+  "component": "creator-overview",
+  "state": "default",
+  "story": "features-creator-ui-creator-overview--default",
+  "selector": "[data-testid=\"creator-overview\"]",
+  "gate_results": {
+    "measurement": "fail",
+    "visual": "skipped"
+  },
+  "aggregate_status": "fail",
+  "signature": ""
+}

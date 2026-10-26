@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "entries": {
+    "default::[data-testid=\"creator-overview\"]::padding-top": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.144Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::padding-right": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.144Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::padding-bottom": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.144Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::padding-left": {
+      "values": ["0px"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::gap": {
+      "values": ["12px"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::display": {
+      "values": ["flex"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::flex-direction": {
+      "values": ["column"],
+      "firstSeen": "2026-04-24T07:43:16.762Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::align-self": {
+      "values": ["auto", "stretch"],
+      "firstSeen": "2026-04-24T07:43:16.763Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::width": {
+      "values": ["1128px"],
+      "firstSeen": "2026-04-24T07:43:16.763Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::height": {
+      "values": ["118.203px"],
+      "firstSeen": "2026-04-24T07:43:16.763Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    },
+    "default::[data-testid=\"creator-overview\"]::position": {
+      "values": ["absolute"],
+      "firstSeen": "2026-04-24T07:43:16.763Z",
+      "lastSeen": "2026-04-24T07:44:02.145Z",
+      "detected": false
+    }
+  }
+}

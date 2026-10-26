@@ -1,0 +1,111 @@
+{
+  "_cacheSchemaVersion": 2,
+  "_cachedAt": "2026-05-03T00:30:54.578Z",
+  "document": {
+    "id": "1418:8519",
+    "name": "Ready To Get Started?",
+    "type": "TEXT",
+    "scrollBehavior": "SCROLLS",
+    "blendMode": "PASS_THROUGH",
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "GRADIENT_LINEAR",
+        "gradientHandlePositions": [
+          {
+            "x": 0,
+            "y": 0.5
+          },
+          {
+            "x": 1,
+            "y": 0.5
+          },
+          {
+            "x": 0,
+            "y": 1
+          }
+        ],
+        "gradientStops": [
+          {
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "position": 0
+          },
+          {
+            "color": {
+              "r": 0.6000000238418579,
+              "g": 0.6000000238418579,
+              "b": 0.6000000238418579,
+              "a": 1
+            },
+            "position": 1
+          }
+        ]
+      }
+    ],
+    "fillGeometry": [],
+    "strokes": [],
+    "strokeWeight": 1.0576108694076538,
+    "strokeAlign": "OUTSIDE",
+    "strokeGeometry": [],
+    "absoluteBoundingBox": {
+      "x": 3509,
+      "y": 25557,
+      "width": 388,
+      "height": 52
+    },
+    "absoluteRenderBounds": {
+      "x": 3512.360107421875,
+      "y": 25568.560546875,
+      "width": 382.983642578125,
+      "height": 38.599609375
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "relativeTransform": [[1, 0, 0], [0, 1, 0]],
+    "size": {
+      "x": 388,
+      "y": 52
+    },
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "characters": "Ready To Get Started?",
+    "characterStyleOverrides": [],
+    "styleOverrideTable": {},
+    "lineTypes": ["NONE"],
+    "lineIndentations": [0],
+    "style": {
+      "fontFamily": "Satoshi Variable",
+      "fontPostScriptName": "SatoshiVariable-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 40,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.8,
+      "lineHeightPx": 52,
+      "lineHeightPercent": 96.29629516601562,
+      "lineHeightPercentFontSize": 130,
+      "lineHeightUnit": "FONT_SIZE_%"
+    },
+    "layoutVersion": 5,
+    "effects": [],
+    "interactions": [],
+    "complexStrokeProperties": {
+      "strokeType": "BASIC"
+    }
+  },
+  "components": {},
+  "componentSets": {},
+  "schemaVersion": 0,
+  "styles": {}
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "receipt_id": "195a079d-6376-465f-9f87-4ed70d915b8e",
+  "timestamp": "2026-04-24T11:46:18.556Z",
+  "kind": "surface",
+  "component": "creator-screen",
+  "state": "screen",
+  "story": "widgets-creator-screen-shell--default",
+  "selector": "[data-surface-root=\"creator-screen\"]",
+  "gate_results": {
+    "measurement": "skipped",
+    "visual": "pass",
+    "structural": "pass"
+  },
+  "aggregate_status": "pass",
+  "thresholds_hash": "fa3c75c1c05f8b06",
+  "tol_scale": 1,
+  "signature": "5929eaa19b8de2119255b52922a209020ffeed535581a9adc4d9c134fa454797"
+}
