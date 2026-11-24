@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cyberk – Sales Guide</title>
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@300,400,500,700,900&display=swap" rel="stylesheet">
+<style>
+@page{size:A4;margin:0}
+html,body{margin:0;background:#EDEDEF}
+.page{width:794px;height:1123px;margin:32px auto;box-shadow:0 1px 4px rgba(0,0,0,.08);background:#fff;overflow:hidden}
+@media print{html,body{background:#fff}.page{margin:0;box-shadow:none;break-after:page}.page:last-child{break-after:auto}*{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+.pg{position:relative;width:794px;height:1123px;box-sizing:border-box;padding:64px 72px 56px;display:flex;flex-direction:column;color:#000;font-family:'Satoshi',system-ui,sans-serif}
+.hdr{display:flex;justify-content:space-between;align-items:center;padding-bottom:18px;border-bottom:1px solid #000}
+.hdr p,.ftr p,.ftr span,.eyebrow,.k{margin:0;font-size:11px;font-weight:500;letter-spacing:.32em;text-transform:uppercase}
+.hdr p,.ftr span,.k{color:#717070}
+.k{font-size:10px}
+.ftr{display:flex;justify-content:space-between;align-items:center;padding-top:16px;border-top:1px solid #E4E4E7}
+.body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:40px}
+.h2{margin:0;font-size:44px;font-weight:900;line-height:1.05;letter-spacing:-.02em;text-transform:uppercase}
+.lead{margin:0;max-width:520px;font-size:16px;line-height:1.65;color:#717070}
+.red{color:#D9212E}
+.row{display:grid;grid-template-columns:56px 1fr 1fr;gap:24px;padding:24px 0;border-top:1px solid #E4E4E7}
+.row:first-child{border-top:1px solid #000}
+.row .n{font-size:13px;font-weight:600;letter-spacing:.12em;color:#D9212E;padding-top:6px}
+.row h3{margin:0;font-size:24px;font-weight:700;line-height:1.2;letter-spacing:-.01em}
+.row p{margin:0;font-size:14.5px;line-height:1.6;color:#717070;padding-top:3px}
+.say{border-left:3px solid #D9212E;padding:6px 0 6px 20px}
+.say .k{margin-bottom:10px}
+.say p.q{margin:0;font-size:20px;font-weight:500;line-height:1.45}
+.aud{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.au{border:1px solid #000;border-radius:4px;padding:26px 26px 24px;display:flex;flex-direction:column;gap:10px}
+.au.d{background:#000;color:#fff}
+.au h3{margin:0;font-size:26px;font-weight:800;letter-spacing:-.01em}
+.au p{margin:0;font-size:14.5px;line-height:1.6;color:#717070}
+.au.d p{color:#D4D4D8}
+.au ul{margin:6px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px;font-size:13.5px}
+.au li{display:flex;gap:10px}.au li:before{content:'';flex:none;width:10px;height:2px;margin-top:9px;background:#D9212E}
+.ix{border-top:1px solid #000}
+.ixr{display:grid;grid-template-columns:40px 1fr 230px;gap:16px;align-items:center;padding:15px 0;border-bottom:1px solid #E4E4E7}
+.ixr .n{font-size:12px;font-weight:600;letter-spacing:.1em;color:#D9212E}
+.ixr b{display:block;font-size:16px;font-weight:800}
+.ixr .f{font-size:11.5px;color:#717070;font-family:ui-monospace,Menlo,monospace}
+.ixr .w{font-size:13.5px;line-height:1.45;color:#3F3F46}
+.ixr.soon b,.ixr.soon .w{color:#A1A1AA}
+.chain{display:flex;flex-direction:column;gap:0}
+.cn{display:grid;grid-template-columns:44px 210px 1fr;align-items:center;gap:18px;padding:15px 0;border-top:1px solid #E4E4E7;position:relative}
+.cn:first-child{border-top:1px solid #000}
+.cn .dot{width:30px;height:30px;border-radius:50%;border:1.5px solid #000;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;background:#fff;position:relative;z-index:1}
+.cn.on .dot{background:#000;color:#fff}
+.cn.end .dot{background:#D9212E;border-color:#D9212E;color:#fff}
+.cn b{font-size:19px;font-weight:800;letter-spacing:-.01em}
+.cn span.t{font-size:14px;line-height:1.55;color:#717070}
+.chain-wrap{position:relative}
+.chain-wrap:before{content:'';position:absolute;left:15px;top:30px;bottom:30px;width:1px;background:#000}
+.jr{position:relative;width:650px;height:490px}
+.jc{position:absolute;box-sizing:border-box;border:1px solid #000;border-radius:6px;background:#fff;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.jc .when{font-size:9px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:#717070}
+.jc b{font-size:17px;font-weight:800;letter-spacing:-.01em}
+.jc .pr{font-size:12.5px;font-weight:600}
+.jc .d{font-size:12px;line-height:1.45;color:#717070}
+.jc.dk{background:#000;color:#fff;border-color:#000}.jc.dk .when{color:#A1A1AA}.jc.dk .d{color:#D4D4D8}
+.jc.hl{border:1.5px solid #D9212E}
+.jc.soon{border-style:dashed;border-color:#A1A1AA}.jc.soon b,.jc.soon .pr{color:#717070}
+.jl{position:absolute;font-size:9px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;background:#fff;padding:0 6px}
+.rj{display:flex;flex-direction:column}
+.rjs{display:grid;grid-template-columns:56px 1fr 180px;gap:20px;align-items:center;padding:22px 24px;border:1px solid #000;border-radius:6px}
+.rjs.soon{border-style:dashed;border-color:#A1A1AA}
+.rjs.hl{border:1.5px solid #D9212E}
+.rjs .n{font-size:13px;font-weight:600;letter-spacing:.12em;color:#D9212E}
+.rjs b{display:block;font-size:20px;font-weight:800;letter-spacing:-.01em;margin-bottom:4px}
+.rjs .d{font-size:13.5px;line-height:1.5;color:#717070}
+.rjs .p{font-size:13px;font-weight:600;text-align:right}
+.rjs .w{display:block;font-size:9px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:#717070;margin-bottom:6px}
+.rja{height:34px;padding-left:50px;display:flex;align-items:center}
+.tb{border-top:1px solid #000}
+.tr5{display:grid;grid-template-columns:220px 1fr;gap:24px;align-items:center;padding:14px 0;border-bottom:1px solid #E4E4E7}
+.tr5 .q{display:flex;flex-direction:column;gap:3px}.tr5 .q b{font-size:15px;font-weight:600;line-height:1.45}.tr5 .q span{font-size:13px;line-height:1.5;color:#717070}
+.tr5 .ar{font-size:15px;color:#717070}
+.tr5 .sv{display:flex;flex-direction:column;gap:1px}
+.tr5 .sv b{font-size:17px;font-weight:800}
+.tr5 .sv span{font-size:12px;color:#717070}
+.tr5.top .sv b{color:#D9212E}
+.tr5.soon .q,.tr5.soon .sv b{color:#717070}
+.th5{display:grid;grid-template-columns:220px 1fr;gap:24px;padding:0 0 10px}
+.qs{display:grid;grid-template-columns:1fr 1fr;gap:10px 32px;counter-reset:q}
+.qs div{display:flex;gap:12px;font-size:14px;line-height:1.5;counter-increment:q}
+.qs div:before{content:counter(q,decimal-leading-zero);flex:none;width:20px;font-size:11px;font-weight:600;letter-spacing:.1em;color:#D9212E;padding-top:2px}
+.sh{display:flex;justify-content:space-between;align-items:flex-end;gap:24px}
+.sh .pz{text-align:right;max-width:300px;flex:none}
+.sh .pz b{display:block;white-space:nowrap;font-size:34px;font-weight:900;letter-spacing:-.02em;line-height:1}
+.sh .pz span{font-size:12px;color:#717070}
+.bf{margin:0;font-size:18px;line-height:1.5;font-weight:500;max-width:560px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:36px;padding-top:22px;border-top:1px solid #000}
+.two .k{margin-bottom:14px}
+.ul6{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:10px}
+.ul6 li{display:flex;gap:12px;font-size:14px;line-height:1.5}
+.ul6 li:before{content:'';flex:none;width:12px;height:1px;margin-top:10px;background:#000}
+.ul6.r li:before{background:#D9212E;height:2px;margin-top:9px}
+.nx{display:grid;grid-template-columns:repeat(var(--c),1fr);gap:12px}
+.nx div{border:1px solid #000;border-radius:4px;padding:14px 16px;display:flex;flex-direction:column;gap:3px}
+.nx div .k{font-size:9px;letter-spacing:.2em}
+.nx div b{font-size:15px;font-weight:800}
+.nx div span{font-size:12.5px;line-height:1.45;color:#717070}
+.cs{border-top:1px solid #000}
+.csr{display:grid;grid-template-columns:170px 150px 1fr;gap:18px;padding:13px 0;border-bottom:1px solid #E4E4E7;align-items:baseline}
+.csr b{font-size:15px;font-weight:800}
+.csr .p{font-size:13px;font-weight:600;line-height:1.45}
+.csr .p small{display:block;font-weight:400;color:#717070;font-size:11.5px}
+.csr .f{font-size:13px;line-height:1.5;color:#3F3F46}
+.csr.top b{color:#D9212E}
+.csr.soon b,.csr.soon .f,.csr.soon .p{color:#A1A1AA}
+.csh{display:grid;grid-template-columns:170px 150px 1fr;gap:18px;padding:0 0 10px}
+.rules{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.rules div{background:#F4F4F5;border-radius:4px;padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.rules .k{font-size:9px;letter-spacing:.2em}
+.rules b{font-size:14px;font-weight:800}
+</style></head><body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><symbol id="cyberk-logo" viewBox="0 0 1050 192"><path fill="#000" fill-rule="evenodd" d="M41.5 168.1L0.5 144.3L0.5 96.0L0.5 47.7L41.8 23.8L83.2 -0.0L124.5 23.7L165.9 47.5L165.9 96.0L165.9 144.5L125.0 168.0C102.5 180.9 83.7 191.6 83.3 191.7C82.9 191.8 64.1 181.1 41.5 168.1ZM63.5 156.2C57.2 145.4 42.7 120.2 31.3 100.3C19.8 80.4 10.2 64.1 9.8 64.0C9.3 64.0 9.0 80.8 9.0 101.2L9.0 138.5L41.3 157.2C59.0 167.5 73.8 175.9 74.2 175.9C74.6 176.0 69.7 167.1 63.5 156.2ZM127.8 155.5L157.0 138.7L157.0 100.6C156.9 71.6 156.7 63.0 155.8 64.5C155.2 65.6 140.6 90.9 123.3 120.8C106.1 150.6 92.0 175.3 92.0 175.6C92.0 175.9 93.5 175.3 95.2 174.3C97.0 173.3 111.7 164.8 127.8 155.5ZM78.3 98.9C77.0 97.6 23.7 67.0 23.4 67.3C23.1 67.6 65.2 141.1 75.8 159.0L78.5 163.5L78.8 131.6C78.9 114.0 78.7 99.3 78.3 98.9ZM142.8 67.5C142.6 67.3 130.2 74.2 115.2 82.8L88.0 98.5L88.0 131.0L88.0 163.4L115.6 115.6C130.8 89.3 143.0 67.7 142.8 67.5ZM246.7 143.0C237.4 141.4 230.5 135.6 226.1 126.0C223.1 119.5 223.0 71.9 225.9 65.4C228.4 59.9 233.4 54.5 238.9 51.2L243.5 48.5L275.8 48.2C303.2 47.9 308.9 48.1 312.9 49.5C320.5 52.0 328.3 59.7 330.5 66.8C331.1 68.9 330.9 69.0 326.3 69.0C321.9 69.0 321.3 68.7 319.3 65.5C314.5 58.1 313.0 57.9 276.6 58.2L244.3 58.5L240.6 61.4C233.6 66.7 233.0 69.4 233.0 95.7C233.0 120.8 233.3 122.6 238.3 127.9C244.0 133.9 244.9 134.0 277.7 134.0C311.2 134.0 313.0 133.6 318.6 126.6C321.2 123.4 322.0 123.0 326.2 123.0C331.7 123.0 331.6 122.8 329.0 128.0C326.3 133.4 321.2 138.2 315.4 141.1C310.6 143.5 309.9 143.5 281.0 143.7C264.8 143.8 249.4 143.5 246.7 143.0ZM502.7 143.3C502.3 143.0 502.0 131.0 502.0 116.8L502.0 91.0L544.5 91.0C591.1 91.0 591.3 91.0 596.3 85.1C604.2 75.7 600.1 61.3 588.5 58.1C585.9 57.4 570.1 57.0 543.2 57.0L502.0 57.0L502.0 52.5L502.0 48.0L545.8 48.0L589.5 48.0L594.6 50.4C604.6 55.1 611.0 66.5 609.5 77.4C608.8 82.7 605.0 90.8 601.9 93.6C600.1 95.2 600.2 95.5 604.0 100.7C616.1 117.6 607.9 139.2 588.1 143.0C582.2 144.1 503.8 144.4 502.7 143.3ZM412.8 121.8L413.1 100.5L387.2 74.7L361.4 49.0L368.0 49.0L374.5 49.1L398.2 72.6L422.0 96.0L422.0 119.5L422.0 143.0L417.2 143.0L412.5 143.0L412.8 121.8ZM653.0 116.5L653.0 90.0L687.5 90.0L722.0 90.0L722.0 95.0L722.0 100.0L692.0 100.0L662.0 100.0L662.2 116.8L662.5 133.5L709.8 133.8L757.0 134.0L757.0 138.5L757.0 143.0L705.0 143.0L653.0 143.0L653.0 116.5ZM799.0 124.1L799.0 105.1L839.8 104.8C879.3 104.5 880.6 104.4 884.5 102.3C901.2 93.3 902.1 70.6 886.3 61.3L881.5 58.5L840.5 58.0L799.5 57.5L799.2 52.7L798.9 47.9L840.7 48.2L882.5 48.5L888.2 51.3C908.8 61.4 913.3 88.4 897.2 104.6C893.7 108.1 889.2 110.6 881.2 113.6C879.1 114.5 879.4 115.1 889.0 128.2C894.5 135.8 899.0 142.2 899.0 142.5C899.0 142.8 896.4 143.0 893.3 142.8L887.6 142.5L877.2 128.2L866.8 114.0L837.9 114.0L809.0 114.0L809.0 128.5L809.0 143.0L804.0 143.0L799.0 143.0L799.0 124.1ZM951.0 95.5L951.0 48.0L956.0 48.0L961.0 48.0L961.2 73.6L961.5 99.3L992.5 73.6L1023.5 48.0L1031.0 48.0C1038.3 48.0 1038.4 48.1 1036.3 49.8C1023.6 60.0 1003.0 77.5 1003.0 78.2C1003.0 78.7 1013.4 93.2 1026.0 110.6C1038.7 127.9 1049.0 142.3 1049.0 142.5C1049.0 142.8 1046.4 143.0 1043.2 142.9L1037.5 142.9L1016.2 113.5L994.9 84.1L977.9 98.1L961.0 112.1L961.0 127.6L961.0 143.0L956.0 143.0L951.0 143.0L951.0 95.5ZM590.3 132.6C600.2 128.5 603.6 115.1 596.9 106.6C592.1 100.6 592.0 100.5 551.1 100.2C530.6 100.0 513.2 100.1 512.6 100.3C511.8 100.6 511.6 105.8 511.8 117.4L512.1 134.0L549.6 134.0C579.0 134.0 587.8 133.7 590.3 132.6ZM427.1 87.6L423.9 84.3L442.2 66.7L460.5 49.0L467.0 49.0L473.4 49.0L469.5 53.1C467.3 55.3 457.6 64.8 447.9 74.0L430.3 90.9L427.1 87.6ZM112.4 73.8L140.5 57.5L111.8 57.2C95.9 57.1 70.1 57.1 54.3 57.2L25.7 57.5L53.6 73.7C68.9 82.6 82.1 89.9 82.9 89.9C83.7 90.0 96.9 82.7 112.4 73.8ZM653.0 53.5L653.0 49.0L704.8 49.0L756.5 49.0L756.2 53.5L755.8 58.0L704.4 58.0L653.0 58.0L653.0 53.5ZM146.9 47.6C146.7 47.4 133.0 39.5 116.5 30.0C100.0 20.5 85.8 12.2 84.9 11.7C83.6 10.9 76.5 14.6 51.6 28.9C34.2 39.0 20.0 47.4 20.0 47.6C20.0 47.8 48.6 48.0 83.7 48.0C118.7 48.0 147.1 47.8 146.9 47.6Z"/></symbol></defs></svg>
+<section class="page"><div class="pg">
+<header><svg role="img" aria-label="Cyberk" width="142" height="26" viewBox="0 0 426 78" style="height:26px;width:142px;display:block"><use href="#cyberk-logo"/></svg></header>
+<div style="flex:1;display:flex;flex-direction:column;gap:36px;padding-top:150px">
+<p class="eyebrow red">Internal · For the Cyberk BD team</p>
+<h1 style="margin:0;font-size:104px;line-height:.98;letter-spacing:-.045em;font-weight:300">Sales<br><span style="font-weight:900">Guide</span></h1>
+<p style="margin:0;max-width:440px;font-size:21px;line-height:1.45;font-weight:300;color:#717070">Which service to offer, and when.</p>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>01 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Who we serve</p></header>
+<div class="body">
+<div style="display:flex;flex-direction:column;gap:18px">
+<h2 class="h2">Who we serve</h2>
+<p class="lead">Cyberk works best with teams that need a real product fast and have no time or budget to waste.</p>
+</div>
+<div class="aud">
+<div class="au d"><p class="k" style="color:#A1A1AA">Main client</p><h3>Tech startups</h3><p>Founders turning an idea into a product, often before or between funding rounds.</p>
+<ul><li>Need to launch before the money runs out</li><li>Want something real to show investors</li></ul></div>
+<div class="au"><p class="k">Also</p><h3>SMEs</h3><p>Small and medium businesses building a new digital product or tool.</p>
+<ul><li>Want to test a new idea with low risk</li><li>Have no in-house tech team</li></ul></div>
+</div>
+<div class="say">
+<p class="k">Why the latest technology</p>
+<p class="q">New startup opportunities usually come with new technology. We adopt the newest tools early, so our clients can build on them first.</p>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>02 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Sales kit</p></header>
+<div class="body" style="gap:34px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<h2 class="h2">Sales kit</h2>
+<p class="lead">All client documents are in English and stored in <b style="color:#000;font-weight:600">marketing/services/sale-kit</b>. Send the one that matches the client’s situation.</p>
+</div>
+<div class="ix"><div class="ixr "><span class="n">01</span><div><b>Price list</b><span class="f">cyberk-price-list-en.pdf</span></div><span class="w">Every service and price on one page. Send it when the client asks “how much?”</span></div><div class="ixr "><span class="n">02</span><div><b>Zero to Product</b><span class="f">cyberk-zero-to-product-en.pdf</span></div><span class="w">12 pages. Send it to founders starting a new product.</span></div><div class="ixr "><span class="n">03</span><div><b>6-Day Design Process</b><span class="f">cyberk-design-process-en.pdf</span></div><span class="w">9 pages. Send it to clients who want to start small.</span></div><div class="ixr "><span class="n">04</span><div><b>Tech Labs</b><span class="f">cyberk-tech-labs-en.pdf</span></div><span class="w">11 pages. Send it to clients with a live product that keeps growing.</span></div><div class="ixr soon"><span class="n">05</span><div><b>Source Code Rescue</b><span class="f">Coming soon</span></div><span class="w">For clients unhappy with their current dev team.</span></div><div class="ixr "><span class="n">06</span><div><b>Sales Guide</b><span class="f">This document · internal</span></div><span class="w">For the BD team only. Do not send to clients.</span></div></div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>03 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Why speed matters</p></header>
+<div class="body" style="gap:34px">
+<div style="display:flex;flex-direction:column;gap:18px">
+<h2 class="h2">Why speed matters</h2>
+<p class="lead">Speed is the main reason clients choose Cyberk. Each step leads to the next.</p>
+</div>
+<div class="chain-wrap"><div class="chain"><div class="cn on"><span class="dot">1</span><b>Fast</b><span class="t">We ship in days, not months, on a base that is already built.</span></div><div class="cn "><span class="dot">2</span><b>Lower cost</b><span class="t">Fewer months of work means a smaller bill.</span></div><div class="cn "><span class="dot">3</span><b>Less sunk cost</b><span class="t">Less money spent on ideas before they are tested with real users.</span></div><div class="cn "><span class="dot">4</span><b>Launch early</b><span class="t">A product in users’ hands sooner, with real feedback to learn from.</span></div><div class="cn "><span class="dot">5</span><b>Revenue early</b><span class="t">Paying users start sooner, so the product begins to earn.</span></div><div class="cn end"><span class="dot">6</span><b>Raise sooner</b><span class="t">A live product with users and revenue is a stronger case for investors.</span></div></div></div>
+
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>04 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Customer journey</p></header>
+<div class="body" style="gap:26px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<h2 class="h2">Customer journey</h2>
+<p class="lead">For a new product. Most clients start with Zero to Product. After version 1, the client’s situation decides the next service. Care+ is the last step, when the client pauses or stops.</p>
+</div>
+<div class="jr"><svg width="650" height="490" viewBox="0 0 650 490" fill="none" style="position:absolute;left:0;top:0">
+<defs><marker id="ja" orient="auto" markerWidth="6" markerHeight="6" refX="5" refY="3"><path d="M0 0 L6 3 L0 6 Z" fill="#000"/></marker><marker id="jr" orient="auto" markerWidth="6" markerHeight="6" refX="5" refY="3"><path d="M0 0 L6 3 L0 6 Z" fill="#D9212E"/></marker><marker id="jg" orient="auto" markerWidth="6" markerHeight="6" refX="5" refY="3"><path d="M0 0 L6 3 L0 6 Z" fill="#A1A1AA"/></marker></defs>
+<path d="M150 114 C150 132 205 126 205 146" stroke="#000" stroke-width="1.4" marker-end="url(#ja)"/>
+<path d="M412 208 L452 208" stroke="#000" stroke-width="1.4" marker-end="url(#ja)"/>
+<path d="M236 266 L236 288" stroke="#000" stroke-width="1.4"/>
+<path d="M236 288 C236 312 150 308 150 350" stroke="#000" stroke-width="1.4" marker-end="url(#ja)"/>
+<path d="M236 288 C236 312 480 308 480 350" stroke="#D9212E" stroke-width="1.8" marker-end="url(#jr)"/>
+<path d="M346 442 L304 442" stroke="#000" stroke-width="1.3" stroke-dasharray="3 3" marker-end="url(#ja)"/>
+</svg><div class="jc " style="left:0px;top:0px;width:300px;height:114px"><span class="when">Client is unsure · wants a pilot</span><b>6-day Design</b><span class="pr">$4,500</span><span class="d">Start small without losing the client, and prove we deliver.</span></div><div class="jc dk" style="left:60px;top:150px;width:352px;height:116px"><span class="when">Best first offer · 30 days</span><b>Zero to Product</b><span class="pr">From $25,000</span><span class="d">Design, build and launch version 1 in the first 30 days.</span></div><div class="jc " style="left:456px;top:160px;width:176px;height:96px"><span class="when">At launch</span><b>Teaser Video</b><span class="pr">$2,000</span><span class="d">For investors and users.</span></div><div class="jc " style="left:0px;top:354px;width:302px;height:130px"><span class="when">Pausing · waiting for funding</span><b>Care+</b><span class="pr">$1,000/mo · min. 6 months</span><span class="d">Keeps the product running at very low cost, with someone still taking care of it.</span></div><div class="jc hl" style="left:348px;top:354px;width:302px;height:130px"><span class="when">Growing · adding features</span><b>Tech Labs</b><span class="pr">From $3,000/mo per dev</span><span class="d">Build the client’s in-house team: a reliable tech team for the long run.</span></div><span class="jl" style="left:92px;top:294px;color:#000">After version 1</span><span class="jl" style="left:298px;top:424px;color:#717070;padding:0 2px">Pausing</span></div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>05 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Customer journey</p></header>
+<div class="body" style="gap:34px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<h2 class="h2">Customer journey: existing code</h2>
+<p class="lead">For clients who already have a product and code. This path usually starts with Source Code Rescue, not Zero to Product.</p>
+</div>
+<div class="rj"><div class="rjs soon"><span class="n">01</span><div><span class="w">Unhappy with the current dev team, or wants a quality check</span><b>Source Code Rescue</b><span class="d">We find the problems in the code, their causes and hidden security risks.</span></div><span class="p">Coming soon</span></div><div class="rja"><svg width="10" height="26" viewBox="0 0 10 26" fill="none"><path d="M5 0 V20" stroke="#000" stroke-width="1.5"/><path d="M0 18 L5 26 L10 18 Z" fill="#000"/></svg></div><div class="rjs hl"><span class="n">02</span><div><span class="w">Keeps building</span><b>Tech Labs</b><span class="d">The team that fixed the code continues as the client’s in-house team.</span></div><span class="p">From $3,000/mo per dev</span></div><div class="rja"><svg width="10" height="26" viewBox="0 0 10 26" fill="none"><path d="M5 0 V20" stroke="#000" stroke-width="1.5"/><path d="M0 18 L5 26 L10 18 Z" fill="#000"/></svg></div><div class="rjs "><span class="n">03</span><div><span class="w">Pauses or stops</span><b>Care+</b><span class="d">Keeps the product running at low cost, with someone still taking care of it.</span></div><span class="p">$1,000/mo · min. 6 months</span></div></div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>06 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Which service, when</p></header>
+<div class="body" style="gap:30px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<h2 class="h2">Which service, when</h2>
+<p class="lead">Each service fits one situation. When in doubt, start with Zero to Product.</p>
+</div>
+<div><div class="th5"><span class="k">Service</span><span class="k">Best for · Why it fits</span></div><div class="tb"><div class="tr5 top"><span class="sv"><b>Zero to Product</b><span>From $25,000</span></span><span class="q"><b>Founders starting a new product.</b><span>Shipping fast saves money. Version 1 in 30 days.</span></span></div><div class="tr5 "><span class="sv"><b>6-day Design</b><span>$4,500</span></span><span class="q"><b>Clients who are unsure, or want to try us first.</b><span>A small, low-risk start that shows how we work.</span></span></div><div class="tr5 "><span class="sv"><b>Care+</b><span>$1,000/mo · min. 6 months</span></span><span class="q"><b>Live products on pause.</b><span>Keeps the product running for little money until the client is ready to grow.</span></span></div><div class="tr5 "><span class="sv"><b>Tech Labs</b><span>From $3,000/mo per dev</span></span><span class="q"><b>Live products that keep growing.</b><span>A dedicated team that works like the client’s own in-house team.</span></span></div><div class="tr5 "><span class="sv"><b>Teaser Video</b><span>$2,000</span></span><span class="q"><b>Products about to launch or raise funds.</b><span>A short video that explains the product to investors and users.</span></span></div><div class="tr5 soon"><span class="sv"><b>Source Code Rescue</b><span>Coming soon</span></span><span class="q"><b>Clients unhappy with their current developers, or unsure about their code.</b><span>We find the problems, their causes and the security risks.</span></span></div></div></div>
+<div style="display:flex;flex-direction:column;gap:16px"><p class="k">Ask these first</p><div class="qs"><div>Is your product live today?</div><div>What must the first version achieve, and by when?</div><div>What is your budget, and how long is your runway?</div><div>Do you already have code or a dev team?</div><div>Who makes the decisions, and can they join a daily demo?</div><div>What happens if you launch three months later?</div></div></div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>07 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Zero to Product</p></header>
+<div class="body" style="gap:30px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<div class="sh"><h2 class="h2">Zero to Product</h2><div class="pz"><b>From $25,000</b><span>30 days · 30 days of Care included · 14 days: +$7,500</span></div></div>
+<p class="bf">For founders starting a new product. Our main offer and the best place to start.</p>
+</div>
+<div class="two">
+<div><p class="k">Signals to listen for</p><ul class="ul6"><li>Has an idea, but no product yet</li><li>Plans to raise money, or has a demo day coming</li><li>Has a limited budget or a deadline</li><li>Expects building to take many months</li></ul></div>
+<div><p class="k">Why it fits</p><ul class="ul6 r"><li>Shipping fast saves money: version 1 in 30 days</li><li>Need it sooner? Version 1 in 14 days for +$7,500</li><li>Fewer months of work means less cost and less sunk cost</li><li>The client sees the running product in a short demo every day</li><li>Code, infrastructure and design files belong to the client</li></ul></div>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>08 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>6-day Design</p></header>
+<div class="body" style="gap:30px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<div class="sh"><h2 class="h2">6-day Design</h2><div class="pz"><b>$4,500</b><span>Per project · 6 working days</span></div></div>
+<p class="bf">For clients who want to try us first, and for repeat clients and serial founders who want to test a new idea before writing code.</p>
+</div>
+<div class="two">
+<div><p class="k">Signals to listen for</p><ul class="ul6"><li>Wants to see our work before committing</li><li>A repeat client or serial founder with a new idea</li><li>Wants to research the market and test the idea before building</li><li>Has no clear scope or design yet</li><li>Has not approved a budget for the full build</li></ul></div>
+<div><p class="k">Why it fits</p><ul class="ul6 r"><li>A small, low-risk start: $4,500 and 6 working days</li><li>Test a new idea with market research and a full design before paying for code</li><li>The client gets user flows, a design system and every main screen in Figma</li><li>The client judges us on real work, not on a pitch</li><li>The design is ready to build, so Zero to Product can start right after</li></ul></div>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>09 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Care+</p></header>
+<div class="body" style="gap:30px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<div class="sh"><h2 class="h2">Care+</h2><div class="pz"><b>$1,000/mo</b><span>Minimum 6 months · first 30 days included with Zero to Product</span></div></div>
+<p class="bf">For live products on pause: waiting for funding, changing direction, or not ready to grow yet.</p>
+</div>
+<div class="two">
+<div><p class="k">Signals to listen for</p><ul class="ul6"><li>Version 1 is live, but new development stops</li><li>Waiting for a funding round</li><li>Wants to rethink or change the idea</li><li>Worried the product will break while no one works on it</li></ul></div>
+<div><p class="k">Why it fits</p><ul class="ul6 r"><li>Very low cost: $1,000 a month</li><li>Someone still looks after the product: alerts, reports and bug fixes</li><li>The client hears about issues from us first</li><li>The product stays healthy, so building can restart any time</li></ul></div>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>10 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Tech Labs</p></header>
+<div class="body" style="gap:30px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<div class="sh"><h2 class="h2">Tech Labs</h2><div class="pz"><b>From $3,000/mo</b><span>Per developer · Senior $5,000 · Fullstack $3,000</span></div></div>
+<p class="bf">For live products that keep growing and need a reliable tech team that works like the client’s own in-house team.</p>
+</div>
+<div class="two">
+<div><p class="k">Signals to listen for</p><ul class="ul6"><li>Has users and a list of features to build</li><li>Finished Zero to Product and wants to keep going</li><li>Back from a pause with new funding</li><li>Does not want to hire and manage developers</li></ul></div>
+<div><p class="k">Why it fits</p><ul class="ul6 r"><li>An AI-native team: each developer works with AI agents through Asimov</li><li>Claude Max 5x and Asimov are included for every developer</li><li>A clear daily rhythm: morning meeting, progress report, test it yourself</li><li>Priorities can change every day</li><li>The same team keeps the system running and the client keeps 100% of the code</li></ul></div>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>11 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Teaser Video</p></header>
+<div class="body" style="gap:30px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<div class="sh"><h2 class="h2">Teaser Video</h2><div class="pz"><b>$2,000</b><span>3 short videos · add-on</span></div></div>
+<p class="bf">For products about to launch or raise money that need a short video to explain the product.</p>
+</div>
+<div class="two">
+<div><p class="k">Signals to listen for</p><ul class="ul6"><li>A launch date is coming</li><li>Preparing a pitch deck or a demo day</li><li>Needs content for social channels or paid ads</li><li>Users find the product hard to understand</li></ul></div>
+<div><p class="k">Why it fits</p><ul class="ul6 r"><li>We already know every screen, so the video shows the product as it really works</li><li>Three short videos for social channels, paid ads and investor meetings</li><li>A fixed price that is easy to add to Zero to Product</li></ul></div>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>12 / 13</span></footer></div></section><section class="page"><div class="pg"><header class="hdr"><svg role="img" aria-label="Cyberk" width="82" height="15" viewBox="0 0 426 78" style="height:15px;width:82px;display:block"><use href="#cyberk-logo"/></svg><p>Cheat sheet</p></header>
+<div class="body" style="gap:32px">
+<div style="display:flex;flex-direction:column;gap:16px">
+<h2 class="h2">Cheat sheet</h2>
+<p class="lead">All services on one page. Prices in USD.</p>
+</div>
+<div><div class="csh"><span class="k">Service</span><span class="k">Price</span><span class="k">Best for</span></div><div class="cs"><div class="csr top"><b>Zero to Product</b><span class="p">From $25,000<small>14 days: +$7,500</small></span><span class="f">Founders starting a new product. Version 1 in 30 days.</span></div><div class="csr "><b>6-day Design</b><span class="p">$4,500<small>6 working days</small></span><span class="f">Clients who want to try us first; serial founders testing an idea.</span></div><div class="csr "><b>Tech Labs</b><span class="p">From $3,000/mo<small>Senior $5,000 · Fullstack $3,000</small></span><span class="f">Live products that keep growing and need a dedicated team.</span></div><div class="csr "><b>Care+</b><span class="p">$1,000/mo<small>Minimum 6 months</small></span><span class="f">Live products that pause or stop. Usually the last step.</span></div><div class="csr "><b>Teaser Video</b><span class="p">$2,000<small>3 short videos</small></span><span class="f">Products about to launch or raise funds.</span></div><div class="csr soon"><b>Source Code Rescue</b><span class="p">Coming soon<small></small></span><span class="f">Clients unhappy with their dev team, or who want a quality check.</span></div></div></div>
+<div class="rules">
+<div><p class="k">Default offer</p><b>Zero to Product</b></div>
+<div><p class="k">Client is unsure</p><b>6-day Design</b></div>
+<div><p class="k">Client pauses or stops</p><b>Care+</b></div>
+</div>
+</div><footer class="ftr"><p>Cyberk Sales Guide</p><span>13 / 13</span></footer></div></section>
+</body></html>

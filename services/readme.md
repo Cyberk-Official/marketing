@@ -2,7 +2,7 @@
 type: readme
 tags: [services, index, marketing]
 created-date: 2026-10-06
-updated-date: 2026-10-14
+updated-date: 2026-11-23
 author: neo
 ---
 
@@ -20,7 +20,7 @@ author: neo
 |---|---|---|---|---|
 | **Product Design** | [product-design.md](./product-design/product-design.md) | Trọn gói | $5,000 / $7,000 / $8,000 | chưa có `status` |
 | **Product Build** | [product-build.md](./product-build/product-build.md) | Trọn gói, 30 ngày | chưa ghi giá trong file | chưa có `status` |
-| **Zero to Product** | [zero-to-product.md](./zero-to-product%20/zero-to-product.md) | Theo tháng, tối thiểu 2 tháng | $5,000/tháng + role thêm | chưa có `status` |
+| **Zero to Product** | [cyberk-zero-to-product-en.html](./zero-to-product/cyberk-zero-to-product-en.html) | Trọn gói, 30 ngày (hoặc 14 ngày) | Từ $25,000 · ship 14 ngày: +$7,500 | chưa có `status` |
 | **Tech Labs** | [tech-labs.md](./techlab/tech-labs.md) | Thuê team theo tháng, tối thiểu 3 tháng | chưa ghi giá trong file | chưa có `status` |
 | **Source Code Rescue** | [source-code-rescue.md](./source-code-rescue/source-code-rescue.md) | Health Check / Audit / Implement | $500 / $5,000 / $3,000 mỗi dev mỗi tháng | `draft`, voice-check `pending` |
 | **QA as a Service** | [qa-as-a-service.md](./qa-as-a-service/qa-as-a-service.md) | Gói 3 hoặc 6 tháng, trả trước toàn bộ, E2E test + báo cáo thứ Sáu | $5,000 / 3 tháng · $9,000 / 6 tháng (QA Engineer dedicated: $2,500/tháng) | `draft`, voice-check `passed` |
